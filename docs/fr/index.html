@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Planet Zoo Archipelago</title>
+  <link rel="stylesheet" href="../style.css">
+  <link rel="alternate" hreflang="en" href="../">
+</head>
+<body>
+  <header>
+    <nav><a href="../" hreflang="en" lang="en">English</a></nav>
+    <h1>Planet Zoo Archipelago</h1>
+    <p class="lead">Le randomizer Planet Zoo pour Archipelago, en un seul exe.</p>
+  </header>
+
+  <main>
+    <p>
+      Le randomizer est l'œuvre de tinkieZo et LTSmash :
+      <a href="https://github.com/tinkieZo/ArchipelagoPZ">l'apworld</a>,
+      <a href="https://github.com/tinkieZo/Planet-Zoo-AP">le mod et le client</a>
+      et <a href="https://github.com/tinkieZo/Planet-Zoo-Poptracker">le pack PopTracker</a>.
+      <code>pzap.exe</code> les réunit : il installe le mod, fait tourner le client,
+      lance le jeu et ouvre PopTracker, sans rien d'autre à installer.
+    </p>
+
+    <a class="download" href="https://github.com/m-this/pz-archipelago/releases/latest">Télécharger pzap.exe</a>
+
+    <h2>Avant la session</h2>
+    <p>
+      Celui qui génère le multiworld a besoin de <code>planetzoo.apworld</code>
+      de la même release. Le mettre dans le dossier <code>custom_worlds</code>
+      d'Archipelago, générer le modèle YAML depuis le launcher d'Archipelago et
+      remplir les options. Le but : faire naître un panda géant.
+    </p>
+
+    <h2>Jouer</h2>
+    <ol>
+      <li>Double-cliquer sur <code>pzap.exe</code>. Une page s'ouvre dans le
+        navigateur. Garder la fenêtre noire ouverte pendant la partie : la fermer
+        retire les patchs du client dans le jeu.</li>
+      <li>Fermer Planet Zoo, puis cliquer sur <strong>Installer ou mettre à jour</strong>.
+        La page trouve le jeu via Steam ; sinon, lui indiquer le dossier de Planet Zoo.</li>
+      <li>Entrer l'adresse de la room (<code>archipelago.gg:38281</code>), le nom
+        du slot et le mot de passe s'il y en a un, puis cliquer sur
+        <strong>Enregistrer et se connecter</strong>.</li>
+      <li>Cliquer sur <strong>Ouvrir PopTracker</strong>. Il se télécharge une
+        fois et s'ouvre sur le slot.</li>
+      <li>Cliquer sur <strong>Lancer Planet Zoo</strong>. Dans le jeu, ouvrir
+        Carrière, choisir « ARCHIPELAGO ZOO » et lancer une nouvelle partie. Le
+        client attend de voir ce parc avant d'envoyer quoi que ce soit.</li>
+    </ol>
+
+    <h2>Revenir au jeu normal</h2>
+    <p>
+      Cliquer sur <strong>Remettre le jeu d'origine</strong>, jeu fermé. Une mise
+      à jour Steam défait aussi l'installation ; la page propose alors de
+      réinstaller.
+    </p>
+
+    <h2>Alertes de Windows et des antivirus</h2>
+    <p>
+      <code>pzap.exe</code> n'est pas signé et écrit dans la mémoire du jeu, ce
+      que le client doit faire pour débloquer permis et recherches. SmartScreen
+      avertira et certains antivirus le signaleront. Chaque release liste le
+      SHA-256 de ses fichiers dans <code>SHA256SUMS</code>, et l'exe porte une
+      attestation de build vérifiable :
+    </p>
+    <pre>gh attestation verify pzap.exe --repo m-this/pz-archipelago</pre>
+
+    <h2>En cas de problème</h2>
+    <p>
+      La page affiche les dernières lignes du journal. Le journal complet est dans
+      <code>%APPDATA%\pzap\logs</code>. Ouvrir une
+      <a href="https://github.com/m-this/pz-archipelago/issues">issue</a> avec.
+    </p>
+  </main>
+
+  <footer>
+    GPL-3.0. Sans lien avec Frontier Developments.
+    <a href="https://github.com/m-this/pz-archipelago">Source</a>.
+  </footer>
+</body>
+</html>

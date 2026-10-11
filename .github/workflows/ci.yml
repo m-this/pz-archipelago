@@ -38,3 +38,25 @@ jobs:
           # Archipelago's requirements come with its version, pinned there.
           cache-dependency-glob: versions.env
       - run: make apworld-test
+
+  # The site is plain HTML in docs/: no build, deployed as is from main.
+  pages:
+    needs: [go, apworld]
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          name: github-pages-${{ github.run_attempt }}
+          path: docs
+      - uses: actions/deploy-pages@v5
+        id: deployment
+        with:
+          artifact_name: github-pages-${{ github.run_attempt }}

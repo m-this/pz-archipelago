@@ -84,7 +84,7 @@ pzap.exe
  ├─ starts the game          steam://run/703080//-skipScenarioIntro/
  ├─ waits for the scenario   the "ARCHIPELAGO ZOO" park marker, read from memory
  ├─ runs the client          Archipelago websocket <-> memory hooks
- └─ serves the page          127.0.0.1, embedded Angular app, opened in the browser
+ └─ serves the page          127.0.0.1, one embedded HTML page, opened in the browser
 ```
 
 The order that the player handles by hand today becomes the program's job.
@@ -110,7 +110,7 @@ never on the player's PC.
 | `memory/applier.py`, `effects.py` | `internal/apply` | |
 | `ovl.py` | `internal/install` | State machine, backup, stamp, restore |
 | cobra-tools | `internal/ovl`, `internal/shell`, `internal/install` | See below |
-| Kivy GUI | `web/` | Angular, same stack as the tf2 launcher |
+| Kivy GUI | `internal/web` | One HTML page and a small JSON API; no frontend build |
 | `tools/memscan.py` | `cmd/memscan` | Needed whenever a game patch moves a signature |
 
 ### Go owns the game data
@@ -253,7 +253,9 @@ memory will be flagged by scanners; the README says so up front, as tf2's does.
    room settings, connects, launches the game through Steam, downloads and
    opens PopTracker, and shows the room's messages and the log, in English
    or French. Left: a test mode with tf2's fake room, and the debug bundle.
-5. **Release.** The site, the release workflow, nightly builds.
+5. **Release.** Written: the site in `docs/`, deployed to GitHub Pages from
+   main, and a release workflow on `v*` tags that publishes `pzap.exe`, the
+   `.apworld`, the PopTracker pack, `SHA256SUMS` and a build attestation.
 6. **Goals.** The goals the thread asks for, in the apworld.
 
 ## Licensing and credit

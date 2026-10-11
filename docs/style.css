@@ -1,0 +1,65 @@
+:root {
+  color-scheme: light dark;
+  --accent: #2f7d4f;
+  --muted: #6b7280;
+  --border: #d1d5db;
+}
+
+body {
+  margin: 0 auto;
+  max-width: 46rem;
+  padding: 2rem 1.25rem 4rem;
+  font: 1.0625rem/1.6 system-ui, sans-serif;
+}
+
+header nav {
+  float: right;
+  font-size: 0.9375rem;
+}
+
+h1 {
+  margin-bottom: 0.25rem;
+}
+
+.lead {
+  margin-top: 0;
+  color: var(--muted);
+}
+
+a {
+  color: var(--accent);
+}
+
+.download {
+  display: inline-block;
+  margin: 1rem 0;
+  padding: 0.75rem 1.25rem;
+  border-radius: 0.5rem;
+  background: var(--accent);
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+code,
+pre {
+  font-family: ui-monospace, monospace;
+  font-size: 0.9375rem;
+}
+
+pre {
+  overflow-x: auto;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+}
+
+li + li {
+  margin-top: 0.5rem;
+}
+
+footer {
+  margin-top: 3rem;
+  color: var(--muted);
+  font-size: 0.875rem;
+}

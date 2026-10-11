@@ -15,7 +15,7 @@ GOFUMPT := go run mvdan.cc/gofumpt@$(GOFUMPT_VERSION)
 GOLANGCI_LINT := $(CACHE)/bin/golangci-lint-$(GOLANGCI_LINT_VERSION)
 GO_SRC := $$(find . -type f -name '*.go' -not -path './$(CACHE)/*')
 
-.PHONY: help check fmt fmt-check vet lint test export import apworld-test apworld tracker launcher dist clean
+.PHONY: version-check help check fmt fmt-check vet lint test export import apworld-test apworld tracker launcher dist clean
 
 help:
 	@echo "pz-archipelago $(RELEASE_VERSION)"
@@ -87,6 +87,10 @@ apworld-test: $(AP_DIR)
 		python -m unittest discover -s worlds/planetzoo/test -t .
 
 # --- Artifacts ---
+
+# A release tag must name the version the tree states.
+version-check:
+	@test "$(TAG)" = "v$(RELEASE_VERSION)" || { echo "tag $(TAG) is not v$(RELEASE_VERSION)"; exit 1; }
 
 apworld:
 	go run ./launcher/cmd/packagezip apworld apworld/planetzoo $(DIST)/planetzoo.apworld \
