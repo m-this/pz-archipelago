@@ -3,6 +3,7 @@ module github.com/m-this/pz-archipelago
 go 1.27.0
 
 require (
+	github.com/coder/websocket v1.8.15
 	golang.org/x/sys v0.49.0
 	modernc.org/sqlite v1.60.1
 )
