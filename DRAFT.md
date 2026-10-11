@@ -177,6 +177,25 @@ Not verified yet, because it needs the game:
 The first run on a machine with the game answers all four. `pzap status`
 reads the files without changing them.
 
+### The client, ported
+
+`launcher/internal/game` is upstream's `memory/` package in Go: `mem` reads
+and writes the game process (Windows API, and a fake for the tests), `hook`
+builds the trampolines and places the detours, `pz` holds every address,
+reader, detector and gate. `launcher/internal/play` is the loop `client.py`
+ran: once a second, while the loaded park is the AP one, it detects checks,
+applies items, settles the money ledger and reconciles every gate.
+
+Two dead parts of upstream were left out: the placement `FacilityGate`, whose
+hook site was never found and which no item reaches, and the `PresenceGate`,
+which `client.py` creates but never reconciles.
+
+The trampolines, the bytecode patches and the hashes match the Python output
+byte for byte. The readers and gates are tested on a fake process laid out as
+upstream describes the game, and the loop end to end on a fake game and a
+fake room. What only the game can confirm is the same as for the installer:
+that the addresses are still right for the current game build.
+
 ## PopTracker
 
 The pack stays Lua: PopTracker runs Lua packs and nothing else. The exe
@@ -225,9 +244,10 @@ memory will be flagged by scanners; the README says so up front, as tf2's does.
    shell edits, the install state machine, restore, `pzap status|install|restore`.
    Done when a Go-built install loads the "ARCHIPELAGO ZOO" scenario on a real
    Windows machine.
-3. **Client.** Archipelago connection, the memory layer, every detector and
-   every effect. Done when one seed plays to the goal with the same checks the
-   Python client sends, on the same save.
+3. **Client.** Written: the Archipelago connection, the memory layer, every
+   detector, gate and effect the Python client runs, `pzap play`. Done when one
+   seed plays to the goal with the same checks the Python client sends, on the
+   same save.
 4. **Launcher.** The page, PopTracker, the game launch, the wait for the
    scenario, a test mode with tf2's fake room, the debug bundle.
 5. **Release.** The site, the release workflow, nightly builds.
