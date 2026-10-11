@@ -28,11 +28,15 @@ func (g Game) deploy(builds []built, pack, loc []byte) error {
 	}
 	var moves [][2]string
 	for _, b := range builds {
-		for path, body := range map[string][]byte{g.ovl(b.target): b.ovl, g.ovs(b.target): b.ovs} {
-			if body == nil {
+		for _, f := range []struct {
+			path string
+			body []byte
+		}{{g.ovl(b.target), b.ovl}, {g.ovs(b.target), b.ovs}} {
+			if f.body == nil {
 				continue
 			}
-			if err := os.WriteFile(path+newSuffix, body, 0o644); err != nil {
+			path := f.path
+			if err := os.WriteFile(path+newSuffix, f.body, 0o644); err != nil {
 				removeNew(moves)
 				return fmt.Errorf("writing %s: %w (game files untouched)", path, err)
 			}

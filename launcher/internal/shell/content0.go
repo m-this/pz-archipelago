@@ -5,6 +5,8 @@ import (
 	"database/sql"
 	"fmt"
 	"io/fs"
+	"maps"
+	"slices"
 	"strconv"
 	"strings"
 
@@ -115,8 +117,8 @@ func mintGates(ctx context.Context, tx *sql.Tx) error {
 
 func repointBarriers(ctx context.Context, tx *sql.Tx, _ map[int64]int64) error {
 	var rows [][]any
-	for boundary, id := range barrierGrade {
-		rows = append(rows, []any{id, boundary})
+	for _, boundary := range slices.Sorted(maps.Keys(barrierGrade)) {
+		rows = append(rows, []any{barrierGrade[boundary], boundary})
 	}
 	return execEach(ctx, tx, "UPDATE Simulation SET ResearchPack = ? WHERE BoundaryType = ?", rows)
 }
@@ -127,8 +129,8 @@ func repointBarriers(ctx context.Context, tx *sql.Tx, _ map[int64]int64) error {
 // different id space, and re-pointing them unlocked enrichment upstream.
 func repointScenery(ctx context.Context, tx *sql.Tx, repoint map[int64]int64) error {
 	var rows [][]any
-	for content, g := range repoint {
-		rows = append(rows, []any{g, content})
+	for _, content := range slices.Sorted(maps.Keys(repoint)) {
+		rows = append(rows, []any{repoint[content], content})
 	}
 	if err := execEach(ctx, tx, "UPDATE Simulation SET ResearchItemID = ? WHERE ResearchItemID = ?", rows); err != nil {
 		return err
@@ -155,8 +157,8 @@ func repointBlueprints(ctx context.Context, tx *sql.Tx, repoint map[int64]int64)
 		return err
 	}
 	var rows [][]any
-	for id, list := range lists {
-		if changed, ok := repointList(list, repoint); ok {
+	for _, id := range slices.Sorted(maps.Keys(lists)) {
+		if changed, ok := repointList(lists[id], repoint); ok {
 			rows = append(rows, []any{changed, id})
 		}
 	}
@@ -169,10 +171,10 @@ func repointBlueprints(ctx context.Context, tx *sql.Tx, repoint map[int64]int64)
 			return err
 		}
 		rows = nil
-		for id, list := range lists {
+		for _, id := range slices.Sorted(maps.Keys(lists)) {
 			gated := strconv.FormatInt(fb.gate, 10)
-			if list != "" {
-				gated = list + ", " + gated
+			if lists[id] != "" {
+				gated = lists[id] + ", " + gated
 			}
 			rows = append(rows, []any{gated, id})
 		}
