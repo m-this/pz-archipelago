@@ -254,7 +254,7 @@ memory will be flagged by scanners; the README says so up front, as tf2's does.
    opens PopTracker, and shows the room's messages and the log, in English
    or French. Left: a test mode with tf2's fake room, and the debug bundle.
 5. **Release.** Written: the site in `docs/`, deployed to GitHub Pages from
-   main, and a release workflow on `v*` tags that publishes `pzap.exe`, the
+   main, and a release workflow on semver tags that publishes `pzap.exe`, the
    `.apworld`, the PopTracker pack, `SHA256SUMS` and a build attestation.
 6. **Goals.** The goals the thread asks for, in the apworld.
 

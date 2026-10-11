@@ -90,7 +90,7 @@ apworld-test: $(AP_DIR)
 
 # A release tag must name the version the tree states.
 version-check:
-	@test "$(TAG)" = "v$(RELEASE_VERSION)" || { echo "tag $(TAG) is not v$(RELEASE_VERSION)"; exit 1; }
+	@test "$(TAG)" = "$(RELEASE_VERSION)" || { echo "tag $(TAG) is not $(RELEASE_VERSION)"; exit 1; }
 
 apworld:
 	go run ./launcher/cmd/packagezip apworld apworld/planetzoo $(DIST)/planetzoo.apworld \
