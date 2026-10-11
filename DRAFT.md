@@ -101,7 +101,7 @@ never on the player's PC.
 | Python today | Go | Notes |
 | --- | --- | --- |
 | `client.py` (`CommonContext`) | `internal/apclient` | Reuse tf2's `bridge/internal/apclient`: Connect, DataPackage, LocationChecks, ReceivedItems, Bounce for DeathLink |
-| `data.py`, `data.json` | `internal/gamedata` | `data.json` embedded, validated at start |
+| `data.py`, `data.json`, `tools/build_data_json.py` | `gamedata/` | Typed tables, no `data.json`; see below |
 | `state.py` | `internal/state` | Item high-water mark, so an item is applied once |
 | `memory/scanner.py` | `internal/memory` | `golang.org/x/sys/windows`: OpenProcess, Read/WriteProcessMemory, VirtualQueryEx |
 | `memory/hook.py` | `internal/memory/hook` | Allocate near, suspend, write the detour, restore all; same shared 64 KB arena |
@@ -112,6 +112,20 @@ never on the player's PC.
 | cobra-tools | `internal/ovl` | See below |
 | Kivy GUI | `web/` | Angular, same stack as the tf2 launcher |
 | `tools/memscan.py` | `cmd/memscan` | Needed whenever a game patch moves a signature |
+
+### Go owns the game data
+
+As in tf2-archipelago, one Go package, `gamedata/`, declares every species,
+item and location with its Archipelago id. The apworld reads JSON that
+`make export` writes from it, in the exact shape upstream's decoders expect,
+and the client reads the tables directly. The Python client's `data.json`
+and the script that built it are gone: the effect each item has and the
+trigger each location waits for are fields of the tables.
+
+`gamedata/cmd/importapworld` reads an upstream `worlds/planetzoo` and rewrites
+the generated tables, which is how upstream changes arrive. The first import
+was checked both ways: the export equals upstream's JSON, and every effect
+and trigger equals the `data.json` the Python client ships.
 
 ### cobra-tools is the one hard part
 
@@ -147,6 +161,9 @@ folder, and starts it on the "Map Tracker" variant. The pack connects to the
 room itself. Whether PopTracker can be told the room address and slot on its
 command line needs checking; if not, the page shows them with a copy button.
 
+The pack's `item_mapping.lua` and `location_mapping.lua` repeat the ids; they
+should be generated from `gamedata/` too, with the launcher work.
+
 A web tracker on GitHub Pages, like tf2's, is a later option. It does not
 replace PopTracker.
 
@@ -155,9 +172,10 @@ replace PopTracker.
 Same split as tf2-archipelago.
 
 ```
+gamedata/        the tables, the export, the upstream importer
 apworld/         the world, imported from ArchipelagoPZ worlds/planetzoo
 tracker/         the PopTracker pack, imported from Planet-Zoo-Poptracker
-mod/             ovl_src: the Lua and loc sources the installer builds
+mod/             the Lua and loc sources the installer builds (upstream's ovl_src)
 launcher/        pzap.exe: cmd/pzap, internal/*, web/ (Angular)
 docs/            the site: en/ and fr/, published to GitHub Pages
 Makefile         make test lint launcher apworld docs
@@ -175,8 +193,10 @@ memory will be flagged by scanners; the README says so up front, as tf2's does.
 
 ## Milestones
 
-1. **Skeleton.** Go module, Makefile, CI, the apworld and the pack imported
-   with their history credited, the Python apworld tests running in CI.
+1. **Skeleton.** Done. Go module, Makefile, CI, `gamedata/` with its export
+   and importer, the apworld, the pack and the mod sources imported, the
+   apworld tested inside Archipelago 0.6.8, a seed generated from the packaged
+   `.apworld`.
 2. **Installer.** Steam detection, Oodle loading, OVL read and write, the
    install state machine, restore. Done when a Go-built install loads the
    "ARCHIPELAGO ZOO" scenario on a real Windows machine.
@@ -193,16 +213,16 @@ memory will be flagged by scanners; the README says so up front, as tf2's does.
 - The client is GPL-3.0. A Go port of it is a derived work, so this repository
   is GPL-3.0.
 - The apworld and the pack are MIT; their notices stay with them.
-- The README names tinkieZo and LTSmash as the authors of the randomizer, and
-  links their repositories and the Discord thread.
+- The README names tinkieZo and LTSmash as the authors of the randomizer and
+  links their repositories.
 
 ## Open questions
 
 - Does PopTracker take a room address and slot on its command line?
 - Which OVL version and Oodle level does the current Planet Zoo build use, and
   how much of cobra's writer is needed for `inject` to load?
-- Linux through Proton: Planet Zoo runs under it; the memory layer would need the game's process from inside
-  the Wine prefix. Out of scope for the first release.
-- Track upstream how? The apworld and the pack change under us; a sync script
-  that diffs `worlds/planetzoo` and the pack against their `main` is probably
-  enough.
+- Linux through Proton: Planet Zoo runs under it; the memory layer would need
+  the game's process from inside the Wine prefix. Out of scope for the first
+  release.
+- Upstream: the apworld's data comes in through the importer, and its Python
+  by hand. The pack has no such path yet.
