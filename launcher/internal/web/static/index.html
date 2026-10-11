@@ -1,0 +1,232 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="pzap-token" content="{{.Token}}">
+<title>Planet Zoo Archipelago</title>
+<style>
+  :root {
+    --bg: #f4f1ea; --card: #fffdf8; --ink: #22312b; --muted: #61706a; --line: #ddd6c8;
+    --leaf: #2f6b4f; --leaf-ink: #fff; --sun: #c9851a; --bad: #a33a2b; --ok: #2f6b4f;
+    font-family: "Segoe UI", system-ui, sans-serif; color: var(--ink); background: var(--bg);
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; }
+  main { max-width: 860px; margin: 0 auto; padding: 28px 20px 60px; }
+  header { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-bottom: 22px; }
+  h1 { font-size: 1.6rem; margin: 0; letter-spacing: -0.01em; }
+  h1 span { color: var(--leaf); }
+  .version { color: var(--muted); font-size: .85rem; }
+  section { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 18px 20px; margin-bottom: 16px; }
+  h2 { font-size: 1.05rem; margin: 0 0 12px; display: flex; align-items: center; gap: 10px; }
+  h2 .n { display: inline-grid; place-items: center; width: 26px; height: 26px; border-radius: 50%; background: var(--leaf); color: var(--leaf-ink); font-size: .85rem; }
+  p { margin: 6px 0; line-height: 1.45; }
+  .muted { color: var(--muted); }
+  .row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-top: 12px; }
+  label { display: grid; gap: 4px; font-size: .9rem; flex: 1 1 200px; }
+  input { font: inherit; padding: 8px 10px; border: 1px solid var(--line); border-radius: 6px; background: #fff; color: var(--ink); }
+  input:focus-visible, button:focus-visible { outline: 3px solid var(--sun); outline-offset: 1px; }
+  button { font: inherit; padding: 8px 14px; border-radius: 6px; border: 1px solid var(--leaf); background: var(--leaf); color: var(--leaf-ink); cursor: pointer; }
+  button.quiet { background: transparent; color: var(--leaf); }
+  button:disabled { opacity: .45; cursor: not-allowed; }
+  .chip { display: inline-block; padding: 2px 10px; border-radius: 999px; font-size: .85rem; border: 1px solid var(--line); }
+  .chip.ok { border-color: var(--ok); color: var(--ok); }
+  .chip.warn { border-color: var(--sun); color: #8a5a0c; }
+  .chip.bad { border-color: var(--bad); color: var(--bad); }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 10px; }
+  .stat { border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; }
+  .stat b { display: block; font-size: 1.25rem; }
+  .alert { border-left: 4px solid var(--bad); padding: 8px 12px; background: #fbefec; border-radius: 6px; margin-top: 10px; }
+  .busy { border-left-color: var(--sun); background: #fbf4e6; }
+  ol { margin: 6px 0 0; padding-left: 20px; line-height: 1.5; }
+  pre { max-height: 300px; overflow: auto; background: #1e2a25; color: #dfe8e3; padding: 12px; border-radius: 8px; font-size: .78rem; white-space: pre-wrap; }
+  details { margin-top: 12px; }
+  details summary { cursor: pointer; color: var(--leaf); }
+  code { font-family: Consolas, monospace; font-size: .9em; }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Planet Zoo <span>×</span> Archipelago</h1>
+    <div class="version">pzap {{.Version}} <button class="quiet" id="quit" data-t="quit">Quit</button></div>
+  </header>
+
+  <div id="banner" class="alert" hidden role="status"></div>
+
+  <section aria-labelledby="h-mod">
+    <h2 id="h-mod"><span class="n">1</span><span data-t="modTitle">The game and the mod</span></h2>
+    <p><span data-t="gameFolder">Planet Zoo folder</span>: <code id="gameDir">…</code></p>
+    <p><span data-t="modState">Mod</span>: <span id="mod" class="chip">…</span> <span id="modNote" class="muted"></span></p>
+    <p class="muted" data-t="closeFirst">Close Planet Zoo before installing or restoring.</p>
+    <div class="row">
+      <button id="install" data-t="install">Install or update</button>
+      <button class="quiet" id="recheck" data-t="recheck">Check again</button>
+      <button class="quiet" id="restore" data-t="restore">Put the vanilla game back</button>
+    </div>
+    <details>
+      <summary data-t="otherFolder">Planet Zoo is somewhere else</summary>
+      <div class="row">
+        <label><span data-t="gameFolder">Planet Zoo folder</span><input id="gameDirInput" placeholder="C:\Program Files (x86)\Steam\steamapps\common\Planet Zoo"></label>
+        <button class="quiet" id="saveGameDir" data-t="save">Save</button>
+      </div>
+    </details>
+  </section>
+
+  <section aria-labelledby="h-room">
+    <h2 id="h-room"><span class="n">2</span><span data-t="roomTitle">The room</span></h2>
+    <div class="row">
+      <label><span data-t="address">Room address</span><input id="room" placeholder="archipelago.gg:38281" autocomplete="off"></label>
+      <label><span data-t="slot">Slot name</span><input id="slot" autocomplete="off"></label>
+      <label><span data-t="password">Password</span><input id="password" type="password" autocomplete="off"></label>
+    </div>
+    <div class="row">
+      <button id="connect" data-t="connect">Save and connect</button>
+      <button class="quiet" id="disconnect" data-t="disconnect">Disconnect</button>
+    </div>
+  </section>
+
+  <section aria-labelledby="h-play">
+    <h2 id="h-play"><span class="n">3</span><span data-t="playTitle">Play</span></h2>
+    <ol>
+      <li data-t="step1">Launch Planet Zoo.</li>
+      <li data-t="step2">In Career, choose ARCHIPELAGO ZOO, then Start New (or Resume).</li>
+      <li data-t="step3">Wait until Ready below turns green, then play.</li>
+    </ol>
+    <div class="row">
+      <button id="game" data-t="launch">Launch Planet Zoo</button>
+      <button class="quiet" id="tracker" data-t="tracker">Open PopTracker</button>
+    </div>
+  </section>
+
+  <section aria-labelledby="h-status" aria-live="polite">
+    <h2 id="h-status" data-t="statusTitle">Status</h2>
+    <div class="grid">
+      <div class="stat"><span data-t="sRoom">Room</span><b id="sRoom">…</b></div>
+      <div class="stat"><span data-t="sGame">Game</span><b id="sGame">…</b></div>
+      <div class="stat"><span data-t="sPark">AP zoo</span><b id="sPark">…</b></div>
+      <div class="stat"><span data-t="sReady">Ready</span><b id="sReady">…</b></div>
+      <div class="stat"><span data-t="sItems">Items applied</span><b id="sItems">…</b></div>
+      <div class="stat"><span data-t="sChecks">Locations checked</span><b id="sChecks">…</b></div>
+    </div>
+    <div id="preflight"></div>
+    <details>
+      <summary data-t="log">Log</summary>
+      <pre id="log"></pre>
+    </details>
+    <details>
+      <summary data-t="messages">Room messages</summary>
+      <pre id="messages"></pre>
+    </details>
+  </section>
+</main>
+<script>
+"use strict";
+const token = document.querySelector('meta[name="pzap-token"]').content;
+const fr = (navigator.languages || [navigator.language || ""]).some(l => l.toLowerCase().startsWith("fr"));
+const T = fr ? {
+  quit: "Quitter", modTitle: "Le jeu et le mod", gameFolder: "Dossier de Planet Zoo", modState: "Mod",
+  closeFirst: "Fermez Planet Zoo avant d'installer ou de restaurer.", install: "Installer ou mettre à jour",
+  recheck: "Vérifier à nouveau", restore: "Remettre le jeu d'origine", otherFolder: "Planet Zoo est ailleurs",
+  save: "Enregistrer", roomTitle: "La room", address: "Adresse de la room", slot: "Nom du slot",
+  password: "Mot de passe", connect: "Enregistrer et se connecter", disconnect: "Se déconnecter",
+  playTitle: "Jouer", step1: "Lancez Planet Zoo.", step2: "Dans Carrière, choisissez ARCHIPELAGO ZOO, puis Nouvelle partie (ou Reprendre).",
+  step3: "Attendez que Prêt passe au vert ci-dessous, puis jouez.", launch: "Lancer Planet Zoo", tracker: "Ouvrir PopTracker",
+  statusTitle: "État", sRoom: "Room", sGame: "Jeu", sPark: "Zoo AP", sReady: "Prêt", sItems: "Items appliqués",
+  sChecks: "Lieux vérifiés", log: "Journal", messages: "Messages de la room",
+  yes: "oui", no: "non", connected: "connectée", offline: "hors ligne", running: "lancé", closed: "fermé",
+  loaded: "chargé", notLoaded: "pas chargé", notFound: "introuvable", goal: "Objectif atteint !",
+  unchanged: "inchangé", busy: "En cours : ", installed: "installé", vanilla: "jeu d'origine", stale: "à mettre à jour",
+  "game updated": "jeu mis à jour", ambiguous: "à vérifier", "no game": "jeu introuvable",
+  preflight: "Ces adresses ne sont plus là où le client les attend, le jeu a sans doute été mis à jour :",
+} : {
+  yes: "yes", no: "no", connected: "connected", offline: "offline", running: "running", closed: "closed",
+  loaded: "loaded", notLoaded: "not loaded", notFound: "not found", goal: "Goal reached!", unchanged: "unchanged",
+  busy: "Working: ", installed: "installed", vanilla: "vanilla", stale: "needs an update", "game updated": "game updated",
+  ambiguous: "needs a look", "no game": "game not found",
+  preflight: "These addresses are not where the client expects them; the game was probably updated:",
+};
+const t = (k, fallback) => T[k] || fallback || k;
+document.documentElement.lang = fr ? "fr" : "en";
+document.querySelectorAll("[data-t]").forEach(el => { if (T[el.dataset.t]) el.textContent = T[el.dataset.t]; });
+const $ = id => document.getElementById(id);
+let edited = false;
+["room", "slot", "password"].forEach(id => $(id).addEventListener("input", () => { edited = true; }));
+
+async function post(action, body) {
+  const res = await fetch("/api/" + action, {
+    method: "POST", headers: { "X-PZAP-Token": token, "Content-Type": "application/json" },
+    body: body ? JSON.stringify(body) : null,
+  });
+  if (!res.ok) showBanner(await res.text(), false);
+  refresh();
+}
+function showBanner(text, busy) {
+  const b = $("banner");
+  b.hidden = !text;
+  b.textContent = text || "";
+  b.classList.toggle("busy", !!busy);
+}
+function settingsBody(extra) {
+  const pw = $("password").value;
+  return Object.assign({ room: $("room").value, slot: $("slot").value, game_dir: $("gameDirInput").value }, pw ? { password: pw } : {}, extra);
+}
+$("install").onclick = () => post("install");
+$("recheck").onclick = () => post("recheck");
+$("restore").onclick = () => post("restore");
+$("saveGameDir").onclick = () => post("settings", settingsBody());
+$("connect").onclick = async () => { await post("settings", settingsBody()); edited = false; $("password").value = ""; post("connect"); };
+$("disconnect").onclick = () => post("disconnect");
+$("game").onclick = () => post("game");
+$("tracker").onclick = () => post("tracker");
+$("quit").onclick = () => post("quit");
+
+function chip(el, text, kind) { el.textContent = text; el.className = "chip " + (kind || ""); }
+function render(s) {
+  $("gameDir").textContent = s.game_dir || t("notFound");
+  const modKind = { installed: "ok", vanilla: "warn", stale: "warn", "game updated": "warn", ambiguous: "bad", "no game": "bad" }[s.mod];
+  chip($("mod"), s.mod ? t(s.mod, s.mod) : "…", modKind);
+  $("modNote").textContent = s.mod_note || s.game_error || "";
+  if (!edited) {
+    $("room").value = s.room; $("slot").value = s.slot;
+    $("password").placeholder = s.password ? t("unchanged") : "";
+  }
+  if (!$("gameDirInput").value && s.game_dir) $("gameDirInput").placeholder = s.game_dir;
+  const c = s.client || {};
+  $("sRoom").textContent = s.connected ? t("connected") : t("offline");
+  $("sGame").textContent = c.Attached ? t("running") : t("closed");
+  $("sPark").textContent = c.InSession ? t("loaded") : t("notLoaded");
+  $("sReady").textContent = c.Goal ? t("goal") : (c.Ready ? t("yes") : t("no"));
+  $("sReady").style.color = c.Ready ? "var(--ok)" : "";
+  $("sItems").textContent = (c.Applied || 0) + " / " + (s.received || 0);
+  $("sChecks").textContent = (s.checked || 0) + " / " + s.locations;
+  const bad = (c.Preflight || []).filter(p => !p.OK);
+  $("preflight").innerHTML = "";
+  if (bad.length) {
+    const div = document.createElement("div");
+    div.className = "alert";
+    div.textContent = t("preflight") + " " + bad.map(p => p.Name).join(", ");
+    $("preflight").appendChild(div);
+  }
+  const busy = !!s.busy;
+  ["install", "restore", "recheck", "tracker"].forEach(id => { $(id).disabled = busy; });
+  $("disconnect").disabled = !s.session;
+  if (busy) showBanner(t("busy") + s.busy, true);
+  else showBanner(s.error || s.room_error || "", false);
+  $("log").textContent = (s.log || []).join("\n");
+  $("messages").textContent = (s.messages || []).join("\n");
+}
+async function refresh() {
+  try {
+    const res = await fetch("/api/state", { cache: "no-store" });
+    if (res.ok) render(await res.json());
+  } catch (e) {
+    showBanner(fr ? "Le lanceur ne répond plus." : "The launcher is not answering.", false);
+  }
+}
+refresh();
+setInterval(refresh, 1000);
+</script>
+</body>
+</html>

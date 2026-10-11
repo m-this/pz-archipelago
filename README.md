@@ -8,13 +8,21 @@ of tinkieZo and LTSmash: the
 [PopTracker pack](https://github.com/tinkieZo/Planet-Zoo-Poptracker). This
 repository repackages it so a player runs one file.
 
-Not playable yet. The installer is written and untested on a real game;
-[DRAFT.md](./DRAFT.md) has the plan and the milestones.
+Not playable yet: the installer and the client are written and untested on a
+real game. [DRAFT.md](./DRAFT.md) has the plan and the milestones.
+
+Double-click `pzap.exe`. It opens a page in the browser that installs the
+mod, connects to the room, starts the game and opens PopTracker. Keep its
+window open while playing; closing it removes the client's patches from the
+game.
+
+The same steps run from a terminal:
 
 ```sh
 pzap status     # is the AP scenario shell installed?
 pzap install    # install it, or bring it up to date (close the game first)
 pzap restore    # put the vanilla game files back
+pzap play -room archipelago.gg:38281 -slot NAME
 ```
 
 `-game-dir` points at the Planet Zoo folder when Steam does not know it.
@@ -30,6 +38,9 @@ pzap restore    # put the vanilla game files back
 | `launcher/internal/ovl` | Reads and writes Planet Zoo's OVL archives |
 | `launcher/internal/shell` | What the installer changes in the game files |
 | `launcher/internal/install` | Backups, the install receipt, install and restore |
+| `launcher/internal/game` | Reading and patching the running game |
+| `launcher/internal/play` | The client loop: items in, checks out |
+| `launcher/internal/web` | The page the player sees |
 | `launcher/` | `pzap.exe` and the rest of what it needs |
 
 ## Build

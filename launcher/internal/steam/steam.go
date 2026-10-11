@@ -87,3 +87,7 @@ func FindGame(steamRoot string) (string, error) {
 	}
 	return "", ErrNotFound
 }
+
+// LaunchURL starts Planet Zoo through Steam, skipping the intro cinematic the
+// engine otherwise plays before the AP career entry.
+const LaunchURL = "steam://run/703080//-skipScenarioIntro/"

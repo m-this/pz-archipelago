@@ -200,9 +200,9 @@ that the addresses are still right for the current game build.
 
 The pack stays Lua: PopTracker runs Lua packs and nothing else. The exe
 downloads a pinned PopTracker release, checks it, puts the pack in its `packs`
-folder, and starts it on the "Map Tracker" variant. The pack connects to the
-room itself. Whether PopTracker can be told the room address and slot on its
-command line needs checking; if not, the page shows them with a copy button.
+folder, and starts it on the "Map Tracker" variant with `--ap-host`,
+`--ap-slot` and `--ap-password`, so the pack connects to the room without the
+player typing it twice.
 
 The pack's `item_mapping.lua` and `location_mapping.lua` repeat the ids; they
 should be generated from `gamedata/` too, with the launcher work.
@@ -219,7 +219,7 @@ gamedata/        the tables, the export, the upstream importer
 apworld/         the world, imported from ArchipelagoPZ worlds/planetzoo
 tracker/         the PopTracker pack, imported from Planet-Zoo-Poptracker
 mod/             the Lua and loc sources the installer builds (upstream's ovl_src)
-launcher/        pzap.exe: cmd/pzap, internal/*, web/ (Angular)
+launcher/        pzap.exe: cmd/pzap, internal/*, the page in internal/web
 docs/            the site: en/ and fr/, published to GitHub Pages
 Makefile         make test lint launcher apworld docs
 ```
@@ -248,8 +248,11 @@ memory will be flagged by scanners; the README says so up front, as tf2's does.
    detector, gate and effect the Python client runs, `pzap play`. Done when one
    seed plays to the goal with the same checks the Python client sends, on the
    same save.
-4. **Launcher.** The page, PopTracker, the game launch, the wait for the
-   scenario, a test mode with tf2's fake room, the debug bundle.
+4. **Launcher.** Written: double-clicking `pzap.exe` serves the page on
+   127.0.0.1 and opens it; the page installs and restores the mod, saves the
+   room settings, connects, launches the game through Steam, downloads and
+   opens PopTracker, and shows the room's messages and the log, in English
+   or French. Left: a test mode with tf2's fake room, and the debug bundle.
 5. **Release.** The site, the release workflow, nightly builds.
 6. **Goals.** The goals the thread asks for, in the apworld.
 
@@ -263,7 +266,6 @@ memory will be flagged by scanners; the README says so up front, as tf2's does.
 
 ## Open questions
 
-- Does PopTracker take a room address and slot on its command line?
 - Linux through Proton: Planet Zoo runs under it; the memory layer would need
   the game's process from inside the Wine prefix. Out of scope for the first
   release.

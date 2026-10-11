@@ -1,6 +1,6 @@
-// Command pzap is the one exe a Planet Zoo Archipelago player runs. For now
-// it installs and removes the AP scenario shell from the command line; the
-// client and the page arrive in the milestones DRAFT.md lists.
+// Command pzap is the one exe a Planet Zoo Archipelago player runs. With no
+// command it serves the launcher page; the commands do the same steps from a
+// terminal.
 package main
 
 import (
@@ -19,8 +19,6 @@ import (
 	"github.com/m-this/pz-archipelago/launcher/internal/game/mem"
 	"github.com/m-this/pz-archipelago/launcher/internal/game/pz"
 	"github.com/m-this/pz-archipelago/launcher/internal/install"
-	"github.com/m-this/pz-archipelago/launcher/internal/oodle"
-	"github.com/m-this/pz-archipelago/launcher/internal/ovl"
 	"github.com/m-this/pz-archipelago/launcher/internal/play"
 	"github.com/m-this/pz-archipelago/launcher/internal/steam"
 )
@@ -28,7 +26,9 @@ import (
 // version is set at link time from apworld/planetzoo/archipelago.json.
 var version = "dev"
 
-const usage = `usage: pzap [-game-dir DIR] <command>
+const usage = `usage: pzap [-game-dir DIR] [command]
+
+With no command, pzap opens the launcher page in the browser.
 
 commands:
   status    say whether the AP scenario shell is installed
@@ -58,10 +58,14 @@ func run(ctx context.Context, args []string) error {
 	flags := flag.NewFlagSet("pzap", flag.ContinueOnError)
 	flags.Usage = func() { fmt.Fprint(os.Stderr, usage) }
 	gameDir := flags.String("game-dir", "", "the Planet Zoo folder, when Steam does not know it")
+	noBrowser := flags.Bool("no-browser", false, "print the launcher's address instead of opening the browser")
 	if err := flags.Parse(args); err != nil {
 		return err
 	}
-	if flags.NArg() < 1 || (flags.NArg() > 1 && flags.Arg(0) != "play") {
+	if flags.NArg() == 0 {
+		return runLauncher(ctx, *noBrowser)
+	}
+	if flags.NArg() > 1 && flags.Arg(0) != "play" {
 		flags.Usage()
 		return errors.New("one command expected")
 	}
@@ -117,18 +121,9 @@ func findGame(dir string) (install.Game, error) {
 	return install.Game{Dir: dir}, nil
 }
 
-// installShell loads the game's Oodle, which reading its files may need.
 func installShell(ctx context.Context, game install.Game, log *slog.Logger) (install.Status, error) {
-	codecs := ovl.Codecs{}
-	if _, err := os.Stat(game.OodleDLL()); err == nil {
-		codec, err := oodle.Load(game.OodleDLL())
-		if err != nil {
-			log.WarnContext(ctx, "oodle unavailable; an Oodle-compressed file will fail to read", slog.String("error", err.Error()))
-		} else {
-			defer func() { _ = codec.Close() }()
-			codecs[ovl.Oodle] = codec
-		}
-	}
+	codecs, release := gameCodecs(ctx, game, log)
+	defer release()
 	return game.Install(ctx, codecs, log)
 }
 
