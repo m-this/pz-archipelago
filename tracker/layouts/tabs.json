@@ -1,0 +1,156 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Overview",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Overview"
+                    ]
+                }
+            },
+            {
+                "title": "Barrier Level 1",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Barrier Level 1"
+                    ]
+                }
+            },
+            {
+                "title": "Barrier Level 2",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Barrier Level 2"
+                    ]
+                }
+            },
+            {
+                "title": "Barrier Level 3",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Barrier Level 3"
+                    ]
+                }
+            },
+            {
+                "title": "Barrier Level 4",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Barrier Level 4"
+                    ]
+                }
+            },
+            {
+                "title": "Exhibits",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Exhibits"
+                    ]
+                }
+            },
+            {
+                "title": "Mechanic Research",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Mechanic Research"
+                    ]
+                }
+            },
+            {
+                "title": "Milestones",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Milestones"
+                    ]
+                }
+            }
+        ]
+    },
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Overview",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Overview"
+                    ]
+                }
+            },
+            {
+                "title": "Barrier Level 1",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Barrier Level 1"
+                    ]
+                }
+            },
+            {
+                "title": "Barrier Level 2",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Barrier Level 2"
+                    ]
+                }
+            },
+            {
+                "title": "Barrier Level 3",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Barrier Level 3"
+                    ]
+                }
+            },
+            {
+                "title": "Barrier Level 4",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Barrier Level 4"
+                    ]
+                }
+            },
+            {
+                "title": "Exhibits",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Exhibits"
+                    ]
+                }
+            },
+            {
+                "title": "Mechanic Research",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Mechanic Research"
+                    ]
+                }
+            },
+            {
+                "title": "Milestones",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Milestones"
+                    ]
+                }
+            }
+        ]
+    }
+}

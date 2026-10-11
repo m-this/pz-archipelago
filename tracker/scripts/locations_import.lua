@@ -1,0 +1,8 @@
+Tracker:AddLocations("locations/Barrier Level 1.json")
+Tracker:AddLocations("locations/Barrier Level 2.json")
+Tracker:AddLocations("locations/Barrier Level 3.json")
+Tracker:AddLocations("locations/Barrier Level 4.json")
+Tracker:AddLocations("locations/Exhibits.json")
+Tracker:AddLocations("locations/Mechanic Research.json")
+Tracker:AddLocations("locations/Milestones.json")
+Tracker:AddLocations("locations/Overview.json")

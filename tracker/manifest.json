@@ -1,0 +1,17 @@
+{
+    "name": "Planet Zoo Archipelago",
+    "game_name": "Planet Zoo",
+    "package_version": "0.0.1",
+    "package_uid": "planet zoo_ap",
+    "author": "builder_script, tinkieZo",
+        "versions_url": "https://raw.githubusercontent.com/tinkieZo/Planet-Zoo-Poptracker/versions/versions.json",
+    "variants": {
+        "Map Tracker": {
+            "display_name": "Map Tracker",
+            "flags": [
+                "ap"
+            ]
+        }
+    },
+    "min_poptracker_version": "0.35.4"
+}

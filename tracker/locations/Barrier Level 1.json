@@ -1,0 +1,958 @@
+[
+    {
+        "name": "Barrier Level 1",
+        "children": [
+            {
+                "name": "",
+                "children": [
+                    {
+                        "name": "Aldabra Giant Tortoise - Conservation Release",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 698,
+                                "y": 105,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Aldabragianttortoise, ConservationProgram"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Aldabra Giant Tortoise - First Acquisition",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 463,
+                                "y": 106,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Aldabragianttortoise"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Aldabra Giant Tortoise - First Breeding",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 584,
+                                "y": 106,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Aldabragianttortoise"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Aldabra Giant Tortoise - Research Welfare 1",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 837,
+                                "y": 103,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Aldabragianttortoise, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Aldabra Giant Tortoise - Research Welfare 2",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 953,
+                                "y": 112,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Aldabragianttortoise, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Aldabra Giant Tortoise - Research Welfare 3",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 1085,
+                                "y": 103,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Aldabragianttortoise, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Aldabra Giant Tortoise - Research Welfare 4",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 1202,
+                                "y": 106,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Aldabragianttortoise, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Aldabra Giant Tortoise - Research Welfare 5",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 1332,
+                                "y": 106,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Aldabragianttortoise, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Aldabra Giant Tortoise - Research Welfare 6",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 1455,
+                                "y": 103,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Aldabragianttortoise, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Galapagos Giant Tortoise - Conservation Release",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 708,
+                                "y": 175,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Galapagosgianttortoise, ConservationProgram"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Galapagos Giant Tortoise - First Acquisition",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 463,
+                                "y": 171,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Galapagosgianttortoise"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Galapagos Giant Tortoise - First Breeding",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 582,
+                                "y": 170,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Galapagosgianttortoise"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Galapagos Giant Tortoise - Research Welfare 1",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 830,
+                                "y": 167,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Galapagosgianttortoise, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Galapagos Giant Tortoise - Research Welfare 2",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 958,
+                                "y": 171,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Galapagosgianttortoise, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Galapagos Giant Tortoise - Research Welfare 3",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 1090,
+                                "y": 174,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Galapagosgianttortoise, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Galapagos Giant Tortoise - Research Welfare 4",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 1207,
+                                "y": 171,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Galapagosgianttortoise, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Galapagos Giant Tortoise - Research Welfare 5",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 1327,
+                                "y": 170,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Galapagosgianttortoise, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Galapagos Giant Tortoise - Research Welfare 6",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 1451,
+                                "y": 167,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Galapagosgianttortoise, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Greater Flamingo - Conservation Release",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 707,
+                                "y": 303,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Greaterflamingo, WaterHabitattools, ConservationProgram"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Greater Flamingo - First Acquisition",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 462,
+                                "y": 301,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Greaterflamingo, WaterHabitattools"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Greater Flamingo - First Breeding",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 581,
+                                "y": 306,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Greaterflamingo, WaterHabitattools"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Greater Flamingo - Research Welfare 1",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 836,
+                                "y": 305,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Greaterflamingo, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Greater Flamingo - Research Welfare 2",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 957,
+                                "y": 299,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Greaterflamingo, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Greater Flamingo - Research Welfare 3",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 1083,
+                                "y": 296,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Greaterflamingo, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Greater Flamingo - Research Welfare 4",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 1210,
+                                "y": 295,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Greaterflamingo, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Greater Flamingo - Research Welfare 5",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 1322,
+                                "y": 297,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Greaterflamingo, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Greater Flamingo - Research Welfare 6",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 1456,
+                                "y": 307,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Greaterflamingo, WaterHabitattools, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Indian Peafowl - Conservation Release",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 713,
+                                "y": 238,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Indianpeafowl, ConservationProgram"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Indian Peafowl - First Acquisition",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 460,
+                                "y": 231,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Indianpeafowl"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Indian Peafowl - First Breeding",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 579,
+                                "y": 242,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Indianpeafowl"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Indian Peafowl - Research Welfare 1",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 832,
+                                "y": 235,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Indianpeafowl, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Indian Peafowl - Research Welfare 2",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 959,
+                                "y": 235,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Indianpeafowl, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Indian Peafowl - Research Welfare 3",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 1082,
+                                "y": 235,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Indianpeafowl, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Indian Peafowl - Research Welfare 4",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 1206,
+                                "y": 228,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Indianpeafowl, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Indian Peafowl - Research Welfare 5",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 1323,
+                                "y": 235,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Indianpeafowl, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Indian Peafowl - Research Welfare 6",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Barrier Level 1",
+                                "x": 1454,
+                                "y": 238,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "Permit_Indianpeafowl, Researchcentre"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    }
+                ],
+                "access_rules": [],
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000"
+            }
+        ],
+        "access_rules": [
+            "ProgressivebarrierLevel:1"
+        ],
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000"
+    }
+]

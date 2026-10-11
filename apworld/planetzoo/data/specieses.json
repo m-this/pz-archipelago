@@ -1,0 +1,626 @@
+[
+  {
+    "stringid": "aardvark",
+    "label": "Aardvark",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "abuffalo",
+    "label": "African Buffalo",
+    "interactivity": "full",
+    "water_needed": true,
+    "fence_grade": 3,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "aleopard",
+    "label": "African Leopard",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "aelephant",
+    "label": "African Savannah Elephant",
+    "interactivity": "full",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "adog",
+    "label": "African Wild Dog",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "atortoise",
+    "label": "Aldabra Giant Tortoise",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "abison",
+    "label": "American Bison",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "bcamel",
+    "label": "Bactrian Camel",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "true"
+  },
+  {
+    "stringid": "btapir",
+    "label": "Bairds Tapir",
+    "interactivity": "full",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "btiger",
+    "label": "Bengal Tiger",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "bwildebeest",
+    "label": "Black Wildebeest",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "blemur",
+    "label": "Black and White Ruffed Lemur",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "bongo",
+    "label": "Bongo",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "bonobo",
+    "label": "Bonobo",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "borangutan",
+    "label": "Bornean Orangutan",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "cheetah",
+    "label": "Cheetah",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "cpangolin",
+    "label": "Chinese Pangolin",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "cpeccary",
+    "label": "Collared Peccary",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "costrich",
+    "label": "Common Ostrich",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "cwarthog",
+    "label": "Common Warthog",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "fbear",
+    "label": "Formosan Black Bear",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "gtortoise",
+    "label": "Galapagos Giant Tortoise",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "gemsbok",
+    "label": "Gemsbok",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "gharial",
+    "label": "Gharial",
+    "interactivity": "full",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "gpanda",
+    "label": "Giant Panda",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "gflamingo",
+    "label": "Greater Flamingo",
+    "interactivity": "full",
+    "water_needed": true,
+    "fence_grade": 1,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "gbear",
+    "label": "Grizzly Bear",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "hbear",
+    "label": "Himalayan Brown Bear",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "hippo",
+    "label": "Hippopotamus",
+    "interactivity": "full",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "ielephant",
+    "label": "Indian Elephant",
+    "interactivity": "full",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "ipeafowl",
+    "label": "Indian Peafowl",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "irhino",
+    "label": "Indian Rhinoceros",
+    "interactivity": "full",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "jmacaque",
+    "label": "Japanese Macaque",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "mandrill",
+    "label": "Mandrill",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "nmonitor",
+    "label": "Nile Monitor",
+    "interactivity": "full",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "nyala",
+    "label": "Nyala",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "okapi",
+    "label": "Okapi",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "pzebra",
+    "label": "Plains Zebra",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "pantelope",
+    "label": "Pronghorn Antelope",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "rdeer",
+    "label": "Red Deer",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "rpanda",
+    "label": "Red Panda",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "relemur",
+    "label": "Red Ruffed Lemur",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "rgiraffe",
+    "label": "Reticulated Giraffe",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "rilemur",
+    "label": "Ring Tailed Lemur",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "santelope",
+    "label": "Sable Antelope",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "scroc",
+    "label": "Saltwater Crocodile",
+    "interactivity": "full",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "stiger",
+    "label": "Siberian Tiger",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "sleopard",
+    "label": "Snow Leopard",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "shyena",
+    "label": "Spotted Hyena",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "springbok",
+    "label": "Springbok",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "twolf",
+    "label": "Timber Wolf",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "wlion",
+    "label": "West African Lion",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "wchimp",
+    "label": "Western Chimpanzee",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "wgorilla",
+    "label": "Western Lowland Gorilla",
+    "interactivity": "full",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "acentipede",
+    "label": "Amazonian Giant Centipede",
+    "interactivity": "exhibit",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "bconstrictor",
+    "label": "Boa Constrictor",
+    "interactivity": "exhibit",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "btarantula",
+    "label": "Brazilian Salmon Pink Tarantula",
+    "interactivity": "exhibit",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "bspider",
+    "label": "Brazilian Wandering Spider",
+    "interactivity": "exhibit",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "cadder",
+    "label": "Common Death Adder",
+    "interactivity": "exhibit",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "esnake",
+    "label": "Eastern Brown Snake",
+    "interactivity": "exhibit",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "groach",
+    "label": "Giant Burrowing Cockroach",
+    "interactivity": "exhibit",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "gdscorpian",
+    "label": "Giant Desert Hairy Scorpion",
+    "interactivity": "exhibit",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "gfscorpion",
+    "label": "Giant Forest Scorpion",
+    "interactivity": "exhibit",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "gsnail",
+    "label": "Giant Tiger Land Snail",
+    "interactivity": "exhibit",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "gmonster",
+    "label": "Gila Monster",
+    "interactivity": "exhibit",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "gpfrog",
+    "label": "Golden Poison Frog",
+    "interactivity": "exhibit",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "gbeetle",
+    "label": "Goliath Beetle",
+    "interactivity": "exhibit",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "gbirdeater",
+    "label": "Goliath Birdeater",
+    "interactivity": "exhibit",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "gfrog",
+    "label": "Goliath Frog",
+    "interactivity": "exhibit",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "giguana",
+    "label": "Green Iguana",
+    "interactivity": "exhibit",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "lfrog",
+    "label": "Lehmann Poison Frog",
+    "interactivity": "exhibit",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "liguana",
+    "label": "Lesser Antillean Iguana",
+    "interactivity": "exhibit",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "mrose",
+    "label": "Malabar Rose",
+    "interactivity": "exhibit",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "mtarantula",
+    "label": "Mexican Red Knee Tarantula",
+    "interactivity": "exhibit",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "padder",
+    "label": "Puff Adder",
+    "interactivity": "exhibit",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "tbeetle",
+    "label": "Titan Beetle",
+    "interactivity": "exhibit",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "wrattlesnake",
+    "label": "Western Diamondback Rattlesnake",
+    "interactivity": "exhibit",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": "false"
+  },
+  {
+    "stringid": "yanaconda",
+    "label": "Yellow Anaconda",
+    "interactivity": "exhibit",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": "false"
+  }
+]

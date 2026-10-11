@@ -1,0 +1,1390 @@
+[
+    {
+        "name": "Mechanic Research",
+        "children": [
+            {
+                "name": "",
+                "children": [
+                    {
+                        "name": "Africa Theme Sets Blueprints Level 1",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 83,
+                                "y": 57,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Africa Theme Sets Blueprints Level 2",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 118,
+                                "y": 57,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Africa Theme Sets Blueprints Level 3",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 119,
+                                "y": 94,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Africa Theme Sets Scenery",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 77,
+                                "y": 87,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Barriers Chain Steel Posts",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 371,
+                                "y": 69,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Barriers Concrete",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 352,
+                                "y": 83,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Barriers Electric",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 362,
+                                "y": 102,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Barriers One Way Glass",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 392,
+                                "y": 103,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Barriers Rebar Stone Cages",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 399,
+                                "y": 78,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Barriers Thick Glass",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 389,
+                                "y": 60,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Classic Theme Sets Blueprints Level 1",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 645,
+                                "y": 64,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Classic Theme Sets Blueprints Level 2",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 684,
+                                "y": 60,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Classic Theme Sets Blueprints Level 3",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 688,
+                                "y": 97,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Classic Theme Sets Scenery",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 645,
+                                "y": 92,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Drink Shops Cosmic Cow Milkshakes",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 88,
+                                "y": 233,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Drink Shops Foxy Coffee",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 71,
+                                "y": 251,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Drink Shops Gulpee Energy",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 77,
+                                "y": 268,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Drink Shops Gulpee Slush",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 100,
+                                "y": 279,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Drink Shops Pipshot Juice",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 114,
+                                "y": 272,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Drink Shops Pipshot Smoothies",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 123,
+                                "y": 251,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Drink Shops Pipshot Water",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 109,
+                                "y": 234,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "East Asian Theme Sets Blueprints Level 1",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 351,
+                                "y": 247,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "East Asian Theme Sets Blueprints Level 2",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 387,
+                                "y": 247,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "East Asian Theme Sets Blueprints Level 3",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 383,
+                                "y": 282,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "East Asian Theme Sets Scenery",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 351,
+                                "y": 279,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Food Shops Cosmic Cow Ice Cream",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 674,
+                                "y": 244,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Food Shops Hotdog Squad",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 689,
+                                "y": 264,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Food Shops Mexelente",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 671,
+                                "y": 284,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Food Shops Missy Good",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 648,
+                                "y": 285,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Food Shops Monsieur Frites",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 636,
+                                "y": 266,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Food Shops Pizza Pen",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 650,
+                                "y": 244,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Habitats Habitat Blueprints Level 1",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 78,
+                                "y": 451,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Habitats Habitat Blueprints Level 2",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 121,
+                                "y": 453,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Habitats Habitat Blueprints Level 3",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 101,
+                                "y": 487,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "India Theme Sets Blueprints Level 1",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 355,
+                                "y": 447,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "India Theme Sets Blueprints Level 2",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 387,
+                                "y": 443,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "India Theme Sets Blueprints Level 3",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 386,
+                                "y": 479,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "India Theme Sets Scenery",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 354,
+                                "y": 475,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "New World Theme Sets Blueprints Level 1",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 631,
+                                "y": 438,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "New World Theme Sets Blueprints Level 2",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 671,
+                                "y": 437,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "New World Theme Sets Blueprints Level 3",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 667,
+                                "y": 474,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "New World Theme Sets Scenery",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 634,
+                                "y": 471,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Power Solar Panel",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 91,
+                                "y": 689,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Power Wind Turbine",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 43,
+                                "y": 691,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Shelters Shelter Blueprints Level 1",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 365,
+                                "y": 674,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Shelters Shelter Blueprints Level 2",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 406,
+                                "y": 671,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Shelters Shelter Blueprints Level 3",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 386,
+                                "y": 705,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Souvenir Shops Hats Fantastic",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 646,
+                                "y": 681,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Souvenir Shops Just A Momento",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 694,
+                                "y": 674,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Staff Facilities Keeper Hut Large",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 51,
+                                "y": 896,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Staff Facilities Quarantine Large",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 87,
+                                "y": 894,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Staff Facilities Research Centre Large",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 93,
+                                "y": 936,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Staff Facilities Staff Centre Large",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 51,
+                                "y": 934,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Transport Boat Ride Station",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 349,
+                                "y": 903,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Transport Safari Jeep Station",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 387,
+                                "y": 900,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Transport Steam Train Station",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 391,
+                                "y": 935,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Transport Suspended Gondola",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Mechanic Research",
+                                "x": 354,
+                                "y": 937,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    }
+                ],
+                "access_rules": [],
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000"
+            }
+        ],
+        "access_rules": [
+            "Workshop"
+        ],
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000"
+    }
+]

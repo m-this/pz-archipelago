@@ -1,0 +1,1458 @@
+[
+  {
+    "name": "Africa Theme Sets Blueprints Level 1",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11000
+  },
+  {
+    "name": "Africa Theme Sets Blueprints Level 2",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11001
+  },
+  {
+    "name": "Africa Theme Sets Blueprints Level 3",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11002
+  },
+  {
+    "name": "Africa Theme Sets Scenery",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11003
+  },
+  {
+    "name": "Cash Inject Large",
+    "ap_classification": "Filler",
+    "version": "Base",
+    "quantity": 1,
+    "id": 13000
+  },
+  {
+    "name": "Cash Inject Medium",
+    "ap_classification": "Filler",
+    "version": "Base",
+    "quantity": 1,
+    "id": 13001
+  },
+  {
+    "name": "Cash Inject Small",
+    "ap_classification": "Filler",
+    "version": "Base",
+    "quantity": 1,
+    "id": 13002
+  },
+  {
+    "name": "Classic Theme Sets Blueprints Level 1",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11004
+  },
+  {
+    "name": "Classic Theme Sets Blueprints Level 2",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11005
+  },
+  {
+    "name": "Classic Theme Sets Blueprints Level 3",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11006
+  },
+  {
+    "name": "Classic Theme Sets Scenery",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11007
+  },
+  {
+    "name": "Conservation Credits Large",
+    "ap_classification": "Filler",
+    "version": "Base",
+    "quantity": 1,
+    "id": 13003
+  },
+  {
+    "name": "Conservation Credits Medium",
+    "ap_classification": "Filler",
+    "version": "Base",
+    "quantity": 1,
+    "id": 13004
+  },
+  {
+    "name": "Conservation Credits Small",
+    "ap_classification": "Filler",
+    "version": "Base",
+    "quantity": 1,
+    "id": 13005
+  },
+  {
+    "name": "Conservation Program",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 12000
+  },
+  {
+    "name": "Drink Shops Cosmic Cow Milkshakes",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11008
+  },
+  {
+    "name": "Drink Shops Foxy Coffee",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11009
+  },
+  {
+    "name": "Drink Shops Gulpee Energy",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11010
+  },
+  {
+    "name": "Drink Shops Gulpee Slush",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11011
+  },
+  {
+    "name": "Drink Shops Pipshot Juice",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11012
+  },
+  {
+    "name": "Drink Shops Pipshot Smoothies",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11013
+  },
+  {
+    "name": "Drink Shops Pipshot Water",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11014
+  },
+  {
+    "name": "East Asian Theme Sets Blueprints Level 1",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11015
+  },
+  {
+    "name": "East Asian Theme Sets Blueprints Level 2",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11016
+  },
+  {
+    "name": "East Asian Theme Sets Blueprints Level 3",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11017
+  },
+  {
+    "name": "East Asian Theme Sets Scenery",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11018
+  },
+  {
+    "name": "Enrichment: Bamboo Feeder",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11019
+  },
+  {
+    "name": "Enrichment: Block of Ice",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11020
+  },
+  {
+    "name": "Enrichment: Block of Ice Fish",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11021
+  },
+  {
+    "name": "Enrichment: Block of Ice Fruit",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11022
+  },
+  {
+    "name": "Enrichment: Blood Pumpkin",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11023
+  },
+  {
+    "name": "Enrichment: Blood Trail",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11024
+  },
+  {
+    "name": "Enrichment: Bobbin",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11025
+  },
+  {
+    "name": "Enrichment: Bobbin Drum",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11026
+  },
+  {
+    "name": "Enrichment: Brachiation Frame 01",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11027
+  },
+  {
+    "name": "Enrichment: Brachiation Frame 02",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11028
+  },
+  {
+    "name": "Enrichment: Brachiation Frame 03",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11029
+  },
+  {
+    "name": "Enrichment: Brachiation Frame 04",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11030
+  },
+  {
+    "name": "Enrichment: Brachiation Frame Extension",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11031
+  },
+  {
+    "name": "Enrichment: Cardboard Box",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11032
+  },
+  {
+    "name": "Enrichment: Chew Toy",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11033
+  },
+  {
+    "name": "Enrichment: Disco Ball",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11034
+  },
+  {
+    "name": "Enrichment: Dog Ball Feeder",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11035
+  },
+  {
+    "name": "Enrichment: Fire Hose Ball",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11036
+  },
+  {
+    "name": "Enrichment: Forage Box",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11037
+  },
+  {
+    "name": "Enrichment: Forage Pool",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11038
+  },
+  {
+    "name": "Enrichment: Fruit Spike Tree",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11039
+  },
+  {
+    "name": "Enrichment: Grab Ball",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11040
+  },
+  {
+    "name": "Enrichment: Grazing Ball",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11041
+  },
+  {
+    "name": "Enrichment: Gyro",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11042
+  },
+  {
+    "name": "Enrichment: Hanging Barrel Feeder",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11043
+  },
+  {
+    "name": "Enrichment: Hanging Grazer",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11044
+  },
+  {
+    "name": "Enrichment: Herbs",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11045
+  },
+  {
+    "name": "Enrichment: Large Ball",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11046
+  },
+  {
+    "name": "Enrichment: Large Ball Snow",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11047
+  },
+  {
+    "name": "Enrichment: Large Barrel Feeder",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11048
+  },
+  {
+    "name": "Enrichment: Mirror Mobile",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11049
+  },
+  {
+    "name": "Enrichment: Mud Bath",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11050
+  },
+  {
+    "name": "Enrichment: Musical Keyboard",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11051
+  },
+  {
+    "name": "Enrichment: Natural Water Jet",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11052
+  },
+  {
+    "name": "Enrichment: Pinata",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11053
+  },
+  {
+    "name": "Enrichment: Plant Screen",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11054
+  },
+  {
+    "name": "Enrichment: Present",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11055
+  },
+  {
+    "name": "Enrichment: Prey Scented Sack",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11056
+  },
+  {
+    "name": "Enrichment: Restraint Feeder",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11057
+  },
+  {
+    "name": "Enrichment: Rotation Line Feeder",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11058
+  },
+  {
+    "name": "Enrichment: Rubbing Pad",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11059
+  },
+  {
+    "name": "Enrichment: Rubbing Pillar",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11060
+  },
+  {
+    "name": "Enrichment: Scratching Post",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11061
+  },
+  {
+    "name": "Enrichment: Scratching Tree Scots Pine 01",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11062
+  },
+  {
+    "name": "Enrichment: Scratching Tree Tamarind 01",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11063
+  },
+  {
+    "name": "Enrichment: Slow Feeder",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11064
+  },
+  {
+    "name": "Enrichment: Small Ball",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11065
+  },
+  {
+    "name": "Enrichment: Small Ball Ice",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11066
+  },
+  {
+    "name": "Enrichment: Small Ball South America",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11067
+  },
+  {
+    "name": "Enrichment: Small Barrel Feeder",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11068
+  },
+  {
+    "name": "Enrichment: Small Fixed Roller Feeder",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11069
+  },
+  {
+    "name": "Enrichment: Sprinkler",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11070
+  },
+  {
+    "name": "Enrichment: Suspended Forager",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11071
+  },
+  {
+    "name": "Enrichment: Suspended High Grazer",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11072
+  },
+  {
+    "name": "Enrichment: Termite Mound",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11073
+  },
+  {
+    "name": "Enrichment: Tool Puzzle Feeder",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11074
+  },
+  {
+    "name": "Enrichment: Tree Forager",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11075
+  },
+  {
+    "name": "Enrichment: Tree Scatter Feeder",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11076
+  },
+  {
+    "name": "Enrichment: Tyre",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11077
+  },
+  {
+    "name": "Enrichment: Tyre Large",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11078
+  },
+  {
+    "name": "Enrichment: Water Jet",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11079
+  },
+  {
+    "name": "Enrichment: Waterfall And Metal Frame",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11080
+  },
+  {
+    "name": "Enrichment: Wind Chimes",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11081
+  },
+  {
+    "name": "Food Shops Cosmic Cow Ice Cream",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11082
+  },
+  {
+    "name": "Food Shops Hotdog Squad",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11083
+  },
+  {
+    "name": "Food Shops Mexelente",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11084
+  },
+  {
+    "name": "Food Shops Missy Good",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11085
+  },
+  {
+    "name": "Food Shops Monsieur Frites",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11086
+  },
+  {
+    "name": "Food Shops Pizza Pen",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11087
+  },
+  {
+    "name": "Habitats Habitat Blueprints Level 1",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11088
+  },
+  {
+    "name": "Habitats Habitat Blueprints Level 2",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11089
+  },
+  {
+    "name": "Habitats Habitat Blueprints Level 3",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11090
+  },
+  {
+    "name": "India Theme Sets Blueprints Level 1",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11091
+  },
+  {
+    "name": "India Theme Sets Blueprints Level 2",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11092
+  },
+  {
+    "name": "India Theme Sets Blueprints Level 3",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11093
+  },
+  {
+    "name": "India Theme Sets Scenery",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11094
+  },
+  {
+    "name": "Large Fixed Roller",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11095
+  },
+  {
+    "name": "Modern Theme Sets Blueprints Level 1",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11096
+  },
+  {
+    "name": "Modern Theme Sets Blueprints Level 2",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11097
+  },
+  {
+    "name": "Modern Theme Sets Blueprints Level 3",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11098
+  },
+  {
+    "name": "Modern Theme Sets Scenery",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11099
+  },
+  {
+    "name": "Permit: Aardvark",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10000
+  },
+  {
+    "name": "Permit: African Buffalo",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10001
+  },
+  {
+    "name": "Permit: African Leopard",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10002
+  },
+  {
+    "name": "Permit: African Savannah Elephant",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10003
+  },
+  {
+    "name": "Permit: African Wild Dog",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10004
+  },
+  {
+    "name": "Permit: Aldabra Giant Tortoise",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10005
+  },
+  {
+    "name": "Permit: Amazonian Giant Centipede",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10006
+  },
+  {
+    "name": "Permit: American Bison",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10007
+  },
+  {
+    "name": "Permit: Bactrian Camel",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10008
+  },
+  {
+    "name": "Permit: Bairds Tapir",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10009
+  },
+  {
+    "name": "Permit: Bengal Tiger",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10010
+  },
+  {
+    "name": "Permit: Black Wildebeest",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10011
+  },
+  {
+    "name": "Permit: Black and White Ruffed Lemur",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10012
+  },
+  {
+    "name": "Permit: Boa Constrictor",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10013
+  },
+  {
+    "name": "Permit: Bongo",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10014
+  },
+  {
+    "name": "Permit: Bonobo",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10015
+  },
+  {
+    "name": "Permit: Bornean Orangutan",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10016
+  },
+  {
+    "name": "Permit: Brazilian Salmon Pink Tarantula",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10017
+  },
+  {
+    "name": "Permit: Brazilian Wandering Spider",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10018
+  },
+  {
+    "name": "Permit: Cheetah",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10019
+  },
+  {
+    "name": "Permit: Chinese Pangolin",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10020
+  },
+  {
+    "name": "Permit: Collared Peccary",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10021
+  },
+  {
+    "name": "Permit: Common Death Adder",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10022
+  },
+  {
+    "name": "Permit: Common Ostrich",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10023
+  },
+  {
+    "name": "Permit: Common Warthog",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10024
+  },
+  {
+    "name": "Permit: Eastern Brown Snake",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10025
+  },
+  {
+    "name": "Permit: Formosan Black Bear",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10026
+  },
+  {
+    "name": "Permit: Galapagos Giant Tortoise",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10027
+  },
+  {
+    "name": "Permit: Gemsbok",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10028
+  },
+  {
+    "name": "Permit: Gharial",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10029
+  },
+  {
+    "name": "Permit: Giant Burrowing Cockroach",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10030
+  },
+  {
+    "name": "Permit: Giant Desert Hairy Scorpion",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10031
+  },
+  {
+    "name": "Permit: Giant Forest Scorpion",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10032
+  },
+  {
+    "name": "Permit: Giant Panda",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10033
+  },
+  {
+    "name": "Permit: Giant Tiger Land Snail",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10034
+  },
+  {
+    "name": "Permit: Gila Monster",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10035
+  },
+  {
+    "name": "Permit: Golden Poison Frog",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10036
+  },
+  {
+    "name": "Permit: Goliath Beetle",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10037
+  },
+  {
+    "name": "Permit: Goliath Birdeater",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10038
+  },
+  {
+    "name": "Permit: Goliath Frog",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10039
+  },
+  {
+    "name": "Permit: Greater Flamingo",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10040
+  },
+  {
+    "name": "Permit: Green Iguana",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10041
+  },
+  {
+    "name": "Permit: Grizzly Bear",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10042
+  },
+  {
+    "name": "Permit: Himalayan Brown Bear",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10043
+  },
+  {
+    "name": "Permit: Hippopotamus",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10044
+  },
+  {
+    "name": "Permit: Indian Elephant",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10045
+  },
+  {
+    "name": "Permit: Indian Peafowl",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10046
+  },
+  {
+    "name": "Permit: Indian Rhinoceros",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10047
+  },
+  {
+    "name": "Permit: Japanese Macaque",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10048
+  },
+  {
+    "name": "Permit: Lehmann Poison Frog",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10049
+  },
+  {
+    "name": "Permit: Lesser Antillean Iguana",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10050
+  },
+  {
+    "name": "Permit: Malabar Rose",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10051
+  },
+  {
+    "name": "Permit: Mandrill",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10052
+  },
+  {
+    "name": "Permit: Mexican Red Knee Tarantula",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10053
+  },
+  {
+    "name": "Permit: Nile Monitor",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10054
+  },
+  {
+    "name": "Permit: Nyala",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10055
+  },
+  {
+    "name": "Permit: Okapi",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10056
+  },
+  {
+    "name": "Permit: Plains Zebra",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10057
+  },
+  {
+    "name": "Permit: Pronghorn Antelope",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10058
+  },
+  {
+    "name": "Permit: Puff Adder",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10059
+  },
+  {
+    "name": "Permit: Red Deer",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10060
+  },
+  {
+    "name": "Permit: Red Panda",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10061
+  },
+  {
+    "name": "Permit: Red Ruffed Lemur",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10062
+  },
+  {
+    "name": "Permit: Reticulated Giraffe",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10063
+  },
+  {
+    "name": "Permit: Ring Tailed Lemur",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10064
+  },
+  {
+    "name": "Permit: Sable Antelope",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10065
+  },
+  {
+    "name": "Permit: Saltwater Crocodile",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10066
+  },
+  {
+    "name": "Permit: Siberian Tiger",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10067
+  },
+  {
+    "name": "Permit: Snow Leopard",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10068
+  },
+  {
+    "name": "Permit: Spotted Hyena",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10069
+  },
+  {
+    "name": "Permit: Springbok",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10070
+  },
+  {
+    "name": "Permit: Timber Wolf",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10071
+  },
+  {
+    "name": "Permit: Titan Beetle",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10072
+  },
+  {
+    "name": "Permit: West African Lion",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10073
+  },
+  {
+    "name": "Permit: Western Chimpanzee",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10074
+  },
+  {
+    "name": "Permit: Western Diamondback Rattlesnake",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10075
+  },
+  {
+    "name": "Permit: Western Lowland Gorilla",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10076
+  },
+  {
+    "name": "Permit: Yellow Anaconda",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 10077
+  },
+  {
+    "name": "Power Solar Panel",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11100
+  },
+  {
+    "name": "Power Wind Turbine",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11101
+  },
+  {
+    "name": "Progressive Barrier Level",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 6,
+    "id": 12001
+  },
+  {
+    "name": "Progressive Breeding Level",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 2,
+    "id": 11102
+  },
+  {
+    "name": "Progressive Education Level",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 3,
+    "id": 11103
+  },
+  {
+    "name": "Progressive Exhibit Enrichment Level",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 3,
+    "id": 11104
+  },
+  {
+    "name": "Progressive Supplement Level",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 2,
+    "id": 11105
+  },
+  {
+    "name": "Research Centre",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 12002
+  },
+  {
+    "name": "Shelters Shelter Blueprints Level 1",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11106
+  },
+  {
+    "name": "Shelters Shelter Blueprints Level 2",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11107
+  },
+  {
+    "name": "Shelters Shelter Blueprints Level 3",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11108
+  },
+  {
+    "name": "Souvenir Shops Hats Fantastic",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11109
+  },
+  {
+    "name": "Souvenir Shops Just A Momento",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11110
+  },
+  {
+    "name": "Staff Facilities Keeper Hut Large",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11111
+  },
+  {
+    "name": "Staff Facilities Quarantine Large",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11112
+  },
+  {
+    "name": "Staff Facilities Research Centre Large",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11113
+  },
+  {
+    "name": "Staff Facilities Staff Centre Large",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11114
+  },
+  {
+    "name": "Transport Boat Ride Station",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11115
+  },
+  {
+    "name": "Transport Safari Jeep Station",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11116
+  },
+  {
+    "name": "Transport Steam Train Station",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11117
+  },
+  {
+    "name": "Transport Suspended Gondola",
+    "ap_classification": "Useful",
+    "version": "Base",
+    "quantity": 1,
+    "id": 11118
+  },
+  {
+    "name": "Water Habitat Tools",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 12003
+  },
+  {
+    "name": "Workshop",
+    "ap_classification": "Progression",
+    "version": "Base",
+    "quantity": 1,
+    "id": 12004
+  }
+]

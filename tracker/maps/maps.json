@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Overview",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Home_page.png"
+    },
+    {
+        "name": "Barrier Level 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Barrier_1_tab.png"
+    },
+    {
+        "name": "Barrier Level 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Barrier_2_tab.png"
+    },
+    {
+        "name": "Barrier Level 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Barrier_3_tab.png"
+    },
+    {
+        "name": "Barrier Level 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Barrier_4_tab.png"
+    },
+    {
+        "name": "Exhibits",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Exhibits_tab.png"
+    },
+    {
+        "name": "Mechanic Research",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Workshop_tab.png"
+    },
+    {
+        "name": "Milestones",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Milestones_tab.png"
+    }
+]

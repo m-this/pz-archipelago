@@ -1,0 +1,1793 @@
+[
+    {
+        "name": "Enrichment:Brachiationframe02",
+        "type": "toggle",
+        "img": "images/items/Enrichment:Brachiationframe02.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:Brachiationframe02"
+    },
+    {
+        "name": "Enrichment:dogballfeeder",
+        "type": "toggle",
+        "img": "images/items/Enrichment:dogballfeeder.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:dogballfeeder"
+    },
+    {
+        "name": "Permit_Nilemonitor",
+        "type": "toggle",
+        "img": "images/items/base_animals/nmonitor.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Nilemonitor"
+    },
+    {
+        "name": "Permit_Mandrill",
+        "type": "toggle",
+        "img": "images/items/base_animals/mandrill.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Mandrill"
+    },
+    {
+        "name": "Enrichment:Bloodpumpkin",
+        "type": "toggle",
+        "img": "images/items/Enrichment:Bloodpumpkin.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:Bloodpumpkin"
+    },
+    {
+        "name": "CashInjectMedium",
+        "type": "consumable",
+        "img": "images/items/CashInjectMedium.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "CashInjectMedium"
+    },
+    {
+        "name": "Enrichment:tyre",
+        "type": "toggle",
+        "img": "images/items/Enrichment:tyre.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:tyre"
+    },
+    {
+        "name": "Permit_Galapagosgianttortoise",
+        "type": "toggle",
+        "img": "images/items/base_animals/gtortoise.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Galapagosgianttortoise"
+    },
+    {
+        "name": "Enrichment:foragepool",
+        "type": "toggle",
+        "img": "images/items/Enrichment:foragepool.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:foragepool"
+    },
+    {
+        "name": "Permit_Indianpeafowl",
+        "type": "toggle",
+        "img": "images/items/base_animals/ipeafowl.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Indianpeafowl"
+    },
+    {
+        "name": "Permit_Bactriancamel",
+        "type": "toggle",
+        "img": "images/items/base_animals/bcamel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Bactriancamel"
+    },
+    {
+        "name": "EastAsianThemeSetsBlueprintsLevel1",
+        "type": "toggle",
+        "img": "images/items/EastAsianThemeSetsBlueprintsLevel1.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "EastAsianThemeSetsBlueprintsLevel1"
+    },
+    {
+        "name": "Permit_Goliathfrog",
+        "type": "toggle",
+        "img": "images/items/base_animals/gfrog.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Goliathfrog"
+    },
+    {
+        "name": "CashInjectSmall",
+        "type": "consumable",
+        "img": "images/items/CashInjectSmall.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "CashInjectSmall"
+    },
+    {
+        "name": "Enrichment:cardboardbox",
+        "type": "toggle",
+        "img": "images/items/Enrichment:cardboardbox.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:cardboardbox"
+    },
+    {
+        "name": "IndiaThemeSetsScenery",
+        "type": "toggle",
+        "img": "images/items/IndiaThemeSetsScenery.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "IndiaThemeSetsScenery"
+    },
+    {
+        "name": "Permit_Aldabragianttortoise",
+        "type": "toggle",
+        "img": "images/items/base_animals/atortoise.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Aldabragianttortoise"
+    },
+    {
+        "name": "Powersolarpanel",
+        "type": "toggle",
+        "img": "images/items/Powersolarpanel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Powersolarpanel"
+    },
+    {
+        "name": "Enrichment:rubbingpad",
+        "type": "toggle",
+        "img": "images/items/Enrichment:rubbingpad.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:rubbingpad"
+    },
+    {
+        "name": "HabitatsHabitatBlueprintsLevel2",
+        "type": "toggle",
+        "img": "images/items/HabitatsHabitatBlueprintsLevel2.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "HabitatsHabitatBlueprintsLevel2"
+    },
+    {
+        "name": "IndiaThemeSetsBlueprintsLevel2",
+        "type": "toggle",
+        "img": "images/items/IndiaThemeSetsBlueprintsLevel2.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "IndiaThemeSetsBlueprintsLevel2"
+    },
+    {
+        "name": "ModernThemeSetsBlueprintsLevel1",
+        "type": "toggle",
+        "img": "images/items/ModernThemeSetsBlueprintsLevel1.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ModernThemeSetsBlueprintsLevel1"
+    },
+    {
+        "name": "Permit_Titanbeetle",
+        "type": "toggle",
+        "img": "images/items/base_animals/tbeetle.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Titanbeetle"
+    },
+    {
+        "name": "DrinkShopsCosmicCowmilkshakes",
+        "type": "toggle",
+        "img": "images/items/DrinkShopsCosmicCowmilkshakes.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "DrinkShopsCosmicCowmilkshakes"
+    },
+    {
+        "name": "FoodShopsMexelente",
+        "type": "toggle",
+        "img": "images/items/FoodShopsMexelente.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "FoodShopsMexelente"
+    },
+    {
+        "name": "Permit_Grizzlybear",
+        "type": "toggle",
+        "img": "images/items/base_animals/gbear.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Grizzlybear"
+    },
+    {
+        "name": "Permit_Redruffedlemur",
+        "type": "toggle",
+        "img": "images/items/base_animals/relemur.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Redruffedlemur"
+    },
+    {
+        "name": "Permit_Chinesepangolin",
+        "type": "toggle",
+        "img": "images/items/base_animals/cpangolin.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Chinesepangolin"
+    },
+    {
+        "name": "Enrichment:grazingball",
+        "type": "toggle",
+        "img": "images/items/Enrichment:grazingball.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:grazingball"
+    },
+    {
+        "name": "Permit_Americanbison",
+        "type": "toggle",
+        "img": "images/items/base_animals/abison.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Americanbison"
+    },
+    {
+        "name": "Enrichment:Bobbin",
+        "type": "toggle",
+        "img": "images/items/Enrichment:Bobbin.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:Bobbin"
+    },
+    {
+        "name": "Enrichment:slowfeeder",
+        "type": "toggle",
+        "img": "images/items/Enrichment:slowfeeder.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:slowfeeder"
+    },
+    {
+        "name": "Permit_Puffadder",
+        "type": "toggle",
+        "img": "images/items/base_animals/padder.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Puffadder"
+    },
+    {
+        "name": "DrinkShopsPipshotJuice",
+        "type": "toggle",
+        "img": "images/items/DrinkShopsPipshotJuice.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "DrinkShopsPipshotJuice"
+    },
+    {
+        "name": "EastAsianThemeSetsScenery",
+        "type": "toggle",
+        "img": "images/items/EastAsianThemeSetsScenery.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "EastAsianThemeSetsScenery"
+    },
+    {
+        "name": "Enrichment:Bobbindrum",
+        "type": "toggle",
+        "img": "images/items/Enrichment:Bobbindrum.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:Bobbindrum"
+    },
+    {
+        "name": "Enrichment:rubbingpillar",
+        "type": "toggle",
+        "img": "images/items/Enrichment:rubbingpillar.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:rubbingpillar"
+    },
+    {
+        "name": "Enrichment:fruitspiketree",
+        "type": "toggle",
+        "img": "images/items/Enrichment:fruitspiketree.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:fruitspiketree"
+    },
+    {
+        "name": "Enrichment:toolpuzzlefeeder",
+        "type": "toggle",
+        "img": "images/items/Enrichment:toolpuzzlefeeder.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:toolpuzzlefeeder"
+    },
+    {
+        "name": "FoodShopsMissygood",
+        "type": "toggle",
+        "img": "images/items/FoodShopsMissygood.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "FoodShopsMissygood"
+    },
+    {
+        "name": "FoodShopsMonsieurfrites",
+        "type": "toggle",
+        "img": "images/items/FoodShopsMonsieurfrites.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "FoodShopsMonsieurfrites"
+    },
+    {
+        "name": "Permit_Redpanda",
+        "type": "toggle",
+        "img": "images/items/base_animals/rpanda.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Redpanda"
+    },
+    {
+        "name": "IndiaThemeSetsBlueprintsLevel3",
+        "type": "toggle",
+        "img": "images/items/IndiaThemeSetsBlueprintsLevel3.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "IndiaThemeSetsBlueprintsLevel3"
+    },
+    {
+        "name": "DrinkShopsGulpeeEnergy",
+        "type": "toggle",
+        "img": "images/items/DrinkShopsGulpeeEnergy.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "DrinkShopsGulpeeEnergy"
+    },
+    {
+        "name": "Permit_Giantdeserthairyscorpion",
+        "type": "toggle",
+        "img": "images/items/base_animals/gdscorpion.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Giantdeserthairyscorpion"
+    },
+    {
+        "name": "Permit_Ringtailedlemur",
+        "type": "toggle",
+        "img": "images/items/base_animals/rilemur.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Ringtailedlemur"
+    },
+    {
+        "name": "Stafffacilitiesquarantinelarge",
+        "type": "toggle",
+        "img": "images/items/Stafffacilitiesquarantinelarge.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Stafffacilitiesquarantinelarge"
+    },
+    {
+        "name": "Permit_Nyala",
+        "type": "toggle",
+        "img": "images/items/base_animals/nyala.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Nyala"
+    },
+    {
+        "name": "Permit_Siberiantiger",
+        "type": "toggle",
+        "img": "images/items/base_animals/stiger.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Siberiantiger"
+    },
+    {
+        "name": "Enrichment:Brachiationframe03",
+        "type": "toggle",
+        "img": "images/items/Enrichment:Brachiationframe03.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:Brachiationframe03"
+    },
+    {
+        "name": "ClassicThemeSetsBlueprintsLevel3",
+        "type": "toggle",
+        "img": "images/items/ClassicThemeSetsBlueprintsLevel3.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ClassicThemeSetsBlueprintsLevel3"
+    },
+    {
+        "name": "Enrichment:waterfallandmetalframe",
+        "type": "toggle",
+        "img": "images/items/Enrichment:waterfallandmetalframe.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:waterfallandmetalframe"
+    },
+    {
+        "name": "Permit_Gilamonster",
+        "type": "toggle",
+        "img": "images/items/base_animals/gmonster.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Gilamonster"
+    },
+    {
+        "name": "AfricaThemeSetsBlueprintsLevel1",
+        "type": "toggle",
+        "img": "images/items/AfricaThemeSetsBlueprintsLevel1.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "AfricaThemeSetsBlueprintsLevel1"
+    },
+    {
+        "name": "Enrichment:mudbath",
+        "type": "toggle",
+        "img": "images/items/Enrichment:mudbath.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:mudbath"
+    },
+    {
+        "name": "Enrichment:Brachiationframe04",
+        "type": "toggle",
+        "img": "images/items/Enrichment:Brachiationframe04.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:Brachiationframe04"
+    },
+    {
+        "name": "Permit_Spottedhyena",
+        "type": "toggle",
+        "img": "images/items/base_animals/shyena.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Spottedhyena"
+    },
+    {
+        "name": "ProgressivesupplementLevel",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "ProgressivesupplementLevel stage1",
+                "inherit_codes": true,
+                "img": "/images/items/progressives/food_sup0.png",
+                "codes": "ProgressivesupplementLevel, ProgressivesupplementLevel_stage1"
+            },
+            {
+                "name": "ProgressivesupplementLevel stage2",
+                "inherit_codes": true,
+                "img": "/images/items/progressives/food_sup1.png",
+                "codes": "ProgressivesupplementLevel_stage2"
+            },
+            {
+                "name": "ProgressivesupplementLevel stage3",
+                "inherit_codes": true,
+                "img": "/images/items/progressives/food_sup2.png",
+                "codes": "ProgressivesupplementLevel_stage3"
+            }
+        ]
+    },
+    {
+        "name": "ClassicThemeSetsBlueprintsLevel1",
+        "type": "toggle",
+        "img": "images/items/ClassicThemeSetsBlueprintsLevel1.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ClassicThemeSetsBlueprintsLevel1"
+    },
+    {
+        "name": "Researchcentre",
+        "type": "toggle",
+        "img": "images/items/progressives/research_centre.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Researchcentre"
+    },
+    {
+        "name": "ModernThemeSetsScenery",
+        "type": "toggle",
+        "img": "images/items/ModernThemeSetsScenery.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ModernThemeSetsScenery"
+    },
+    {
+        "name": "Enrichment:preyscentedsack",
+        "type": "toggle",
+        "img": "images/items/Enrichment:preyscentedsack.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:preyscentedsack"
+    },
+    {
+        "name": "Permit_Snowleopard",
+        "type": "toggle",
+        "img": "images/items/base_animals/sleopard.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Snowleopard"
+    },
+    {
+        "name": "Permit_Westernlowlandgorilla",
+        "type": "toggle",
+        "img": "images/items/base_animals/wgorilla.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Westernlowlandgorilla"
+    },
+    {
+        "name": "Permit_Reddeer",
+        "type": "toggle",
+        "img": "images/items/base_animals/rdeer.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Reddeer"
+    },
+    {
+        "name": "Permit_Commonwarthog",
+        "type": "toggle",
+        "img": "images/items/base_animals/cwarthog.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Commonwarthog"
+    },
+    {
+        "name": "Permit_Westerndiamondbackrattlesnake",
+        "type": "toggle",
+        "img": "images/items/base_animals/wrattlesnake.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Westerndiamondbackrattlesnake"
+    },
+    {
+        "name": "Enrichment:largeball",
+        "type": "toggle",
+        "img": "images/items/Enrichment:largeball.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:largeball"
+    },
+    {
+        "name": "Transportsafarijeepstation",
+        "type": "toggle",
+        "img": "images/items/Transportsafarijeepstation.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Transportsafarijeepstation"
+    },
+    {
+        "name": "Permit_Yellowanaconda",
+        "type": "toggle",
+        "img": "images/items/base_animals/yanaconda.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Yellowanaconda"
+    },
+    {
+        "name": "FoodShopsHotdogsquad",
+        "type": "toggle",
+        "img": "images/items/FoodShopsHotdogsquad.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "FoodShopsHotdogsquad"
+    },
+    {
+        "name": "Permit_Bengaltiger",
+        "type": "toggle",
+        "img": "images/items/base_animals/btiger.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Bengaltiger"
+    },
+    {
+        "name": "Permit_Collaredpeccary",
+        "type": "toggle",
+        "img": "images/items/base_animals/cpeccary.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Collaredpeccary"
+    },
+    {
+        "name": "Enrichment:smallbarrelfeeder",
+        "type": "toggle",
+        "img": "images/items/Enrichment:smallbarrelfeeder.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:smallbarrelfeeder"
+    },
+    {
+        "name": "Permit_Goliathbirdeater",
+        "type": "toggle",
+        "img": "images/items/base_animals/gbirdeater.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Goliathbirdeater"
+    },
+    {
+        "name": "Permit_Springbok",
+        "type": "toggle",
+        "img": "images/items/base_animals/springbok.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Springbok"
+    },
+    {
+        "name": "Enrichment:discoball",
+        "type": "toggle",
+        "img": "images/items/Enrichment:discoball.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:discoball"
+    },
+    {
+        "name": "Permit_Malabarrose",
+        "type": "toggle",
+        "img": "images/items/base_animals/mrose.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Malabarrose"
+    },
+    {
+        "name": "ModernThemeSetsBlueprintsLevel2",
+        "type": "toggle",
+        "img": "images/items/ModernThemeSetsBlueprintsLevel2.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ModernThemeSetsBlueprintsLevel2"
+    },
+    {
+        "name": "Permit_Hippopotamus",
+        "type": "toggle",
+        "img": "images/items/base_animals/hippo.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Hippopotamus"
+    },
+    {
+        "name": "Stafffacilitiesresearchcentrelarge",
+        "type": "toggle",
+        "img": "images/items/Stafffacilitiesresearchcentrelarge.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Stafffacilitiesresearchcentrelarge"
+    },
+    {
+        "name": "Permit_Formosanblackbear",
+        "type": "toggle",
+        "img": "images/items/base_animals/fbear.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Formosanblackbear"
+    },
+    {
+        "name": "Permit_Timberwolf",
+        "type": "toggle",
+        "img": "images/items/base_animals/twolf.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Timberwolf"
+    },
+    {
+        "name": "ConservationCreditsSmall",
+        "type": "consumable",
+        "img": "images/items/ConservationCreditsSmall.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "ConservationCreditsSmall"
+    },
+    {
+        "name": "Permit_Africansavannahelephant",
+        "type": "toggle",
+        "img": "images/items/base_animals/aelephant.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Africansavannahelephant"
+    },
+    {
+        "name": "Enrichment:treeforager",
+        "type": "toggle",
+        "img": "images/items/Enrichment:treeforager.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:treeforager"
+    },
+    {
+        "name": "ProgressiveexhibitenrichmentLevel",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "ProgressiveexhibitenrichmentLevel stage1",
+                "inherit_codes": true,
+                "img": "/images/items/progressives/progressive_exhibitOFF.png",
+                "codes": "ProgressiveexhibitenrichmentLevel, ProgressiveexhibitenrichmentLevel_stage1"
+            },
+            {
+                "name": "ProgressiveexhibitenrichmentLevel stage2",
+                "inherit_codes": true,
+                "img": "/images/items/progressives/progressive_exhibit1.png",
+                "codes": "ProgressiveexhibitenrichmentLevel_stage2"
+            },
+            {
+                "name": "ProgressiveexhibitenrichmentLevel stage3",
+                "inherit_codes": true,
+                "img": "/images/items/progressives/progressive_exhibit2.png",
+                "codes": "ProgressiveexhibitenrichmentLevel_stage3"
+            }
+        ]
+    },
+    {
+        "name": "Permit_Indianrhinoceros",
+        "type": "toggle",
+        "img": "images/items/base_animals/irhino.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Indianrhinoceros"
+    },
+    {
+        "name": "EastAsianThemeSetsBlueprintsLevel3",
+        "type": "toggle",
+        "img": "images/items/EastAsianThemeSetsBlueprintsLevel3.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "EastAsianThemeSetsBlueprintsLevel3"
+    },
+    {
+        "name": "Permit_Africanwilddog",
+        "type": "toggle",
+        "img": "images/items/base_animals/adog.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Africanwilddog"
+    },
+    {
+        "name": "Enrichment:scratchingpost",
+        "type": "toggle",
+        "img": "images/items/Enrichment:scratchingpost.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:scratchingpost"
+    },
+    {
+        "name": "Enrichment:pinata",
+        "type": "toggle",
+        "img": "images/items/Enrichment:pinata.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:pinata"
+    },
+    {
+        "name": "Permit_Mexicanredkneetarantula",
+        "type": "toggle",
+        "img": "images/items/base_animals/mtarantula.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Mexicanredkneetarantula"
+    },
+    {
+        "name": "SheltersshelterBlueprintsLevel3",
+        "type": "toggle",
+        "img": "images/items/SheltersshelterBlueprintsLevel3.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "SheltersshelterBlueprintsLevel3"
+    },
+    {
+        "name": "ClassicThemeSetsBlueprintsLevel2",
+        "type": "toggle",
+        "img": "images/items/ClassicThemeSetsBlueprintsLevel2.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ClassicThemeSetsBlueprintsLevel2"
+    },
+    {
+        "name": "Enrichment:grabball",
+        "type": "toggle",
+        "img": "images/items/Enrichment:grabball.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:grabball"
+    },
+    {
+        "name": "Permit_Africanbuffalo",
+        "type": "toggle",
+        "img": "images/items/base_animals/abuffalo.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Africanbuffalo"
+    },
+    {
+        "name": "Enrichment:naturalwaterjet",
+        "type": "toggle",
+        "img": "images/items/Enrichment:naturalwaterjet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:naturalwaterjet"
+    },
+    {
+        "name": "Stafffacilitieskeeperhutlarge",
+        "type": "toggle",
+        "img": "images/items/Stafffacilitieskeeperhutlarge.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Stafffacilitieskeeperhutlarge"
+    },
+    {
+        "name": "Permit_Easternbrownsnake",
+        "type": "toggle",
+        "img": "images/items/base_animals/esnake.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Easternbrownsnake"
+    },
+    {
+        "name": "Enrichment:treescatterfeeder",
+        "type": "toggle",
+        "img": "images/items/Enrichment:treescatterfeeder.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:treescatterfeeder"
+    },
+    {
+        "name": "Permit_Brazilianwanderingspider",
+        "type": "toggle",
+        "img": "images/items/base_animals/bspider.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Brazilianwanderingspider"
+    },
+    {
+        "name": "Permit_Africanleopard",
+        "type": "toggle",
+        "img": "images/items/base_animals/aleopard.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Africanleopard"
+    },
+    {
+        "name": "Permit_Bairdstapir",
+        "type": "toggle",
+        "img": "images/items/base_animals/btapir.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Bairdstapir"
+    },
+    {
+        "name": "SouvenirShopsjustamomento",
+        "type": "toggle",
+        "img": "images/items/SouvenirShopsjustamomento.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "SouvenirShopsjustamomento"
+    },
+    {
+        "name": "Enrichment:smallball",
+        "type": "toggle",
+        "img": "images/items/Enrichment:smallball.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:smallball"
+    },
+    {
+        "name": "Permit_Lehmannpoisonfrog",
+        "type": "toggle",
+        "img": "images/items/base_animals/lfrog.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Lehmannpoisonfrog"
+    },
+    {
+        "name": "Permit_Commonostrich",
+        "type": "toggle",
+        "img": "images/items/base_animals/costrich.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Commonostrich"
+    },
+    {
+        "name": "Permit_Borneanorangutan",
+        "type": "toggle",
+        "img": "images/items/base_animals/borangutan.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Borneanorangutan"
+    },
+    {
+        "name": "HabitatsHabitatBlueprintsLevel1",
+        "type": "toggle",
+        "img": "images/items/HabitatsHabitatBlueprintsLevel1.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "HabitatsHabitatBlueprintsLevel1"
+    },
+    {
+        "name": "Permit_Gianttigerlandsnail",
+        "type": "toggle",
+        "img": "images/items/base_animals/gsnail.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Gianttigerlandsnail"
+    },
+    {
+        "name": "DrinkShopsGulpeeSlush",
+        "type": "toggle",
+        "img": "images/items/DrinkShopsGulpeeSlush.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "DrinkShopsGulpeeSlush"
+    },
+    {
+        "name": "Permit_Japanesemacaque",
+        "type": "toggle",
+        "img": "images/items/base_animals/jmacaque.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Japanesemacaque"
+    },
+    {
+        "name": "AfricaThemeSetsBlueprintsLevel3",
+        "type": "toggle",
+        "img": "images/items/AfricaThemeSetsBlueprintsLevel3.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "AfricaThemeSetsBlueprintsLevel3"
+    },
+    {
+        "name": "ConservationCreditsMedium",
+        "type": "consumable",
+        "img": "images/items/ConservationCreditsMedium.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "ConservationCreditsMedium"
+    },
+    {
+        "name": "IndiaThemeSetsBlueprintsLevel1",
+        "type": "toggle",
+        "img": "images/items/IndiaThemeSetsBlueprintsLevel1.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "IndiaThemeSetsBlueprintsLevel1"
+    },
+    {
+        "name": "Workshop",
+        "type": "toggle",
+        "img": "images/items/progressives/workshop.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Workshop"
+    },
+    {
+        "name": "Permit_Pronghornantelope",
+        "type": "toggle",
+        "img": "images/items/base_animals/pantelope.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Pronghornantelope"
+    },
+    {
+        "name": "Permit_Blackandwhiteruffedlemur",
+        "type": "toggle",
+        "img": "images/items/base_animals/blemur.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Blackandwhiteruffedlemur"
+    },
+    {
+        "name": "ClassicThemeSetsScenery",
+        "type": "toggle",
+        "img": "images/items/ClassicThemeSetsScenery.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ClassicThemeSetsScenery"
+    },
+    {
+        "name": "Permit_Bonobo",
+        "type": "toggle",
+        "img": "images/items/base_animals/bonobo.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Bonobo"
+    },
+    {
+        "name": "Enrichment:restraintfeeder",
+        "type": "toggle",
+        "img": "images/items/Enrichment:restraintfeeder.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:restraintfeeder"
+    },
+    {
+        "name": "Enrichment:BambooFeeder",
+        "type": "toggle",
+        "img": "images/items/Enrichment:BambooFeeder.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:BambooFeeder"
+    },
+    {
+        "name": "FoodShopsPizzapen",
+        "type": "toggle",
+        "img": "images/items/FoodShopsPizzapen.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "FoodShopsPizzapen"
+    },
+    {
+        "name": "Permit_Amazoniangiantcentipede",
+        "type": "toggle",
+        "img": "images/items/base_animals/acentipede.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Amazoniangiantcentipede"
+    },
+    {
+        "name": "Enrichment:scratchingtreescotspine01",
+        "type": "toggle",
+        "img": "images/items/Enrichment:scratchingtreescotspine01.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:scratchingtreescotspine01"
+    },
+    {
+        "name": "ModernThemeSetsBlueprintsLevel3",
+        "type": "toggle",
+        "img": "images/items/ModernThemeSetsBlueprintsLevel3.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ModernThemeSetsBlueprintsLevel3"
+    },
+    {
+        "name": "Permit_Lesserantilleaniguana",
+        "type": "toggle",
+        "img": "images/items/base_animals/liguana.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Lesserantilleaniguana"
+    },
+    {
+        "name": "Permit_Goldenpoisonfrog",
+        "type": "toggle",
+        "img": "images/items/base_animals/gpfrog.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Goldenpoisonfrog"
+    },
+    {
+        "name": "DrinkShopsFoxyCoffee",
+        "type": "toggle",
+        "img": "images/items/DrinkShopsFoxyCoffee.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "DrinkShopsFoxyCoffee"
+    },
+    {
+        "name": "Enrichment:hangingbarrelfeeder",
+        "type": "toggle",
+        "img": "images/items/Enrichment:hangingbarrelfeeder.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:hangingbarrelfeeder"
+    },
+    {
+        "name": "DrinkShopsPipshotSmoothies",
+        "type": "toggle",
+        "img": "images/items/DrinkShopsPipshotSmoothies.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "DrinkShopsPipshotSmoothies"
+    },
+    {
+        "name": "Enrichment:smallballice",
+        "type": "toggle",
+        "img": "images/items/Enrichment:smallballice.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:smallballice"
+    },
+    {
+        "name": "Permit_Giantpanda",
+        "type": "toggle",
+        "img": "images/items/base_animals/gpanda.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Giantpanda"
+    },
+    {
+        "name": "ProgressiveeducationLevel",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "ProgressiveeducationLevel stage1",
+                "inherit_codes": true,
+                "img": "/images/items/progressives/progressive_educationOFF.png",
+                "codes": "ProgressiveeducationLevel, ProgressiveeducationLevel_stage1"
+            },
+            {
+                "name": "ProgressiveeducationLevel stage2",
+                "inherit_codes": true,
+                "img": "/images/items/progressives/progressive_education1.png",
+                "codes": "ProgressiveeducationLevel_stage2"
+            },
+            {
+                "name": "ProgressiveeducationLevel stage3",
+                "inherit_codes": true,
+                "img": "/images/items/progressives/progressive_education2.png",
+                "codes": "ProgressiveeducationLevel_stage3"
+            }
+        ]
+    },
+    {
+        "name": "AfricaThemeSetsBlueprintsLevel2",
+        "type": "toggle",
+        "img": "images/items/AfricaThemeSetsBlueprintsLevel2.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "AfricaThemeSetsBlueprintsLevel2"
+    },
+    {
+        "name": "Permit_Sableantelope",
+        "type": "toggle",
+        "img": "images/items/base_animals/santelope.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Sableantelope"
+    },
+    {
+        "name": "Enrichment:Blockofice",
+        "type": "toggle",
+        "img": "images/items/Enrichment:Blockofice.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:Blockofice"
+    },
+    {
+        "name": "Permit_Indianelephant",
+        "type": "toggle",
+        "img": "images/items/base_animals/ielephant.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Indianelephant"
+    },
+    {
+        "name": "FoodShopsCosmiccowicecream",
+        "type": "toggle",
+        "img": "images/items/FoodShopsCosmiccowicecream.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "FoodShopsCosmiccowicecream"
+    },
+    {
+        "name": "Stafffacilitiesstaffcentrelarge",
+        "type": "toggle",
+        "img": "images/items/Stafffacilitiesstaffcentrelarge.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Stafffacilitiesstaffcentrelarge"
+    },
+    {
+        "name": "Permit_WestAfricanlion",
+        "type": "toggle",
+        "img": "images/items/base_animals/wlion.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_WestAfricanlion"
+    },
+    {
+        "name": "Permit_Gemsbok",
+        "type": "toggle",
+        "img": "images/items/base_animals/gemsbok.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Gemsbok"
+    },
+    {
+        "name": "WaterHabitattools",
+        "type": "toggle",
+        "img": "images/items/progressives/water_toolsON.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "WaterHabitattools"
+    },
+    {
+        "name": "Enrichment:termitemound",
+        "type": "toggle",
+        "img": "images/items/Enrichment:termitemound.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:termitemound"
+    },
+    {
+        "name": "ProgressivebreedingLevel",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "ProgressivebreedingLevel stage1",
+                "inherit_codes": true,
+                "img": "/images/items/progressives/progressive_breedingOFF.png",
+                "codes": "ProgressivebreedingLevel, ProgressivebreedingLevel_stage1"
+            },
+            {
+                "name": "ProgressivebreedingLevel stage2",
+                "inherit_codes": true,
+                "img": "/images/items/progressives/progressive_breedingON.png",
+                "codes": "ProgressivebreedingLevel_stage2"
+            },
+            {
+                "name": "ProgressivebreedingLevel stage3",
+                "inherit_codes": true,
+                "img": "/images/items/progressives/progressive_breeding1.png",
+                "codes": "ProgressivebreedingLevel_stage3"
+            }
+        ]
+    },
+    {
+        "name": "Permit_Aardvark",
+        "type": "toggle",
+        "img": "images/items/base_animals/aardvark.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Aardvark"
+    },
+    {
+        "name": "Enrichment:tyrelarge",
+        "type": "toggle",
+        "img": "images/items/Enrichment:tyrelarge.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:tyrelarge"
+    },
+    {
+        "name": "ConservationCreditsLarge",
+        "type": "consumable",
+        "img": "images/items/ConservationCreditsLarge.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "ConservationCreditsLarge"
+    },
+    {
+        "name": "Permit_Braziliansalmonpinktarantula",
+        "type": "toggle",
+        "img": "images/items/base_animals/btarantula.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Braziliansalmonpinktarantula"
+    },
+    {
+        "name": "ConservationProgram",
+        "type": "toggle",
+        "img": "images/items/progressives/conservation_credits.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ConservationProgram"
+    },
+    {
+        "name": "Powerwindturbine",
+        "type": "toggle",
+        "img": "images/items/Powerwindturbine.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Powerwindturbine"
+    },
+    {
+        "name": "SheltersshelterBlueprintsLevel2",
+        "type": "toggle",
+        "img": "images/items/SheltersshelterBlueprintsLevel2.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "SheltersshelterBlueprintsLevel2"
+    },
+    {
+        "name": "Enrichment:smallfixedrollerfeeder",
+        "type": "toggle",
+        "img": "images/items/Enrichment:smallfixedrollerfeeder.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:smallfixedrollerfeeder"
+    },
+    {
+        "name": "Largefixedroller",
+        "type": "toggle",
+        "img": "images/items/Largefixedroller.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Largefixedroller"
+    },
+    {
+        "name": "SouvenirShopshatsfantastic",
+        "type": "toggle",
+        "img": "images/items/SouvenirShopshatsfantastic.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "SouvenirShopshatsfantastic"
+    },
+    {
+        "name": "Enrichment:present",
+        "type": "toggle",
+        "img": "images/items/Enrichment:present.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:present"
+    },
+    {
+        "name": "ProgressivebarrierLevel",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 6,
+        "increment": 1,
+        "initial_quantity": 0,
+        "img": "images/items/progressives/barrier_lvl_ON.png",
+        "overlay_font_size": 20,
+        "codes": "ProgressivebarrierLevel"
+    },
+    {
+        "name": "Enrichment:Bloodtrail",
+        "type": "toggle",
+        "img": "images/items/Enrichment:Bloodtrail.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:Bloodtrail"
+    },
+    {
+        "name": "Permit_Cheetah",
+        "type": "toggle",
+        "img": "images/items/base_animals/cheetah.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Cheetah"
+    },
+    {
+        "name": "Enrichment:scratchingtreetamarind01",
+        "type": "toggle",
+        "img": "images/items/Enrichment:scratchingtreetamarind01.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:scratchingtreetamarind01"
+    },
+    {
+        "name": "Enrichment:firehoseball",
+        "type": "toggle",
+        "img": "images/items/Enrichment:firehoseball.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:firehoseball"
+    },
+    {
+        "name": "Permit_Plainszebra",
+        "type": "toggle",
+        "img": "images/items/base_animals/pzebra.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Plainszebra"
+    },
+    {
+        "name": "Enrichment:gyro",
+        "type": "toggle",
+        "img": "images/items/Enrichment:gyro.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:gyro"
+    },
+    {
+        "name": "Enrichment:suspendedhighgrazer",
+        "type": "toggle",
+        "img": "images/items/Enrichment:suspendedhighgrazer.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:suspendedhighgrazer"
+    },
+    {
+        "name": "AfricaThemeSetsScenery",
+        "type": "toggle",
+        "img": "images/items/AfricaThemeSetsScenery.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "AfricaThemeSetsScenery"
+    },
+    {
+        "name": "Enrichment:Blockoficefruit",
+        "type": "toggle",
+        "img": "images/items/Enrichment:Blockoficefruit.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:Blockoficefruit"
+    },
+    {
+        "name": "Enrichment:windchimes",
+        "type": "toggle",
+        "img": "images/items/Enrichment:windchimes.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:windchimes"
+    },
+    {
+        "name": "Permit_Giantburrowingcockroach",
+        "type": "toggle",
+        "img": "images/items/base_animals/groach.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Giantburrowingcockroach"
+    },
+    {
+        "name": "Enrichment:waterjet",
+        "type": "toggle",
+        "img": "images/items/Enrichment:waterjet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:waterjet"
+    },
+    {
+        "name": "Enrichment:foragebox",
+        "type": "toggle",
+        "img": "images/items/Enrichment:foragebox.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:foragebox"
+    },
+    {
+        "name": "Enrichment:sprinkler",
+        "type": "toggle",
+        "img": "images/items/Enrichment:sprinkler.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:sprinkler"
+    },
+    {
+        "name": "Permit_Saltwatercrocodile",
+        "type": "toggle",
+        "img": "images/items/base_animals/scroc.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Saltwatercrocodile"
+    },
+    {
+        "name": "Permit_Himalayanbrownbear",
+        "type": "toggle",
+        "img": "images/items/base_animals/hbear.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Himalayanbrownbear"
+    },
+    {
+        "name": "Permit_Westernchimpanzee",
+        "type": "toggle",
+        "img": "images/items/base_animals/wchimp.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Westernchimpanzee"
+    },
+    {
+        "name": "EastAsianThemeSetsBlueprintsLevel2",
+        "type": "toggle",
+        "img": "images/items/EastAsianThemeSetsBlueprintsLevel2.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "EastAsianThemeSetsBlueprintsLevel2"
+    },
+    {
+        "name": "Permit_Goliathbeetle",
+        "type": "toggle",
+        "img": "images/items/base_animals/gbeetle.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Goliathbeetle"
+    },
+    {
+        "name": "Enrichment:largeballsnow",
+        "type": "toggle",
+        "img": "images/items/Enrichment:largeballsnow.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:largeballsnow"
+    },
+    {
+        "name": "Transportsuspendedgondola",
+        "type": "toggle",
+        "img": "images/items/Transportsuspendedgondola.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Transportsuspendedgondola"
+    },
+    {
+        "name": "Enrichment:plantscreen",
+        "type": "toggle",
+        "img": "images/items/Enrichment:plantscreen.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:plantscreen"
+    },
+    {
+        "name": "Transportboatridestation",
+        "type": "toggle",
+        "img": "images/items/Transportboatridestation.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Transportboatridestation"
+    },
+    {
+        "name": "Enrichment:herbs",
+        "type": "toggle",
+        "img": "images/items/Enrichment:herbs.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:herbs"
+    },
+    {
+        "name": "Permit_Boaconstrictor",
+        "type": "toggle",
+        "img": "images/items/base_animals/bconstrictor.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Boaconstrictor"
+    },
+    {
+        "name": "Permit_Giantforestscorpion",
+        "type": "toggle",
+        "img": "images/items/base_animals/gfscorpion.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Giantforestscorpion"
+    },
+    {
+        "name": "HabitatsHabitatBlueprintsLevel3",
+        "type": "toggle",
+        "img": "images/items/HabitatsHabitatBlueprintsLevel3.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "HabitatsHabitatBlueprintsLevel3"
+    },
+    {
+        "name": "DrinkShopsPipshotWater",
+        "type": "toggle",
+        "img": "images/items/DrinkShopsPipshotWater.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "DrinkShopsPipshotWater"
+    },
+    {
+        "name": "Enrichment:Brachiationframe01",
+        "type": "toggle",
+        "img": "images/items/Enrichment:Brachiationframe01.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:Brachiationframe01"
+    },
+    {
+        "name": "Transportsteamtrainstation",
+        "type": "toggle",
+        "img": "images/items/Transportsteamtrainstation.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Transportsteamtrainstation"
+    },
+    {
+        "name": "Permit_Commondeathadder",
+        "type": "toggle",
+        "img": "images/items/base_animals/cadder.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Commondeathadder"
+    },
+    {
+        "name": "Enrichment:Brachiationframeextension",
+        "type": "toggle",
+        "img": "images/items/Enrichment:Brachiationframeextension.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:Brachiationframeextension"
+    },
+    {
+        "name": "Enrichment:smallballsouthamerica",
+        "type": "toggle",
+        "img": "images/items/Enrichment:smallballsouthamerica.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:smallballsouthamerica"
+    },
+    {
+        "name": "CashInjectLarge",
+        "type": "consumable",
+        "img": "images/items/CashInjectLarge.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "CashInjectLarge"
+    },
+    {
+        "name": "Enrichment:hanginggrazer",
+        "type": "toggle",
+        "img": "images/items/Enrichment:hanginggrazer.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:hanginggrazer"
+    },
+    {
+        "name": "Permit_Gharial",
+        "type": "toggle",
+        "img": "images/items/base_animals/gharial.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Gharial"
+    },
+    {
+        "name": "Enrichment:Blockoficefish",
+        "type": "toggle",
+        "img": "images/items/Enrichment:Blockoficefish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:Blockoficefish"
+    },
+    {
+        "name": "Enrichment:musicalkeyboard",
+        "type": "toggle",
+        "img": "images/items/Enrichment:musicalkeyboard.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:musicalkeyboard"
+    },
+    {
+        "name": "Enrichment:rotationlinefeeder",
+        "type": "toggle",
+        "img": "images/items/Enrichment:rotationlinefeeder.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:rotationlinefeeder"
+    },
+    {
+        "name": "Enrichment:mirrormobile",
+        "type": "toggle",
+        "img": "images/items/Enrichment:mirrormobile.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:mirrormobile"
+    },
+    {
+        "name": "Enrichment:suspendedforager",
+        "type": "toggle",
+        "img": "images/items/Enrichment:suspendedforager.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:suspendedforager"
+    },
+    {
+        "name": "Enrichment:largebarrelfeeder",
+        "type": "toggle",
+        "img": "images/items/Enrichment:largebarrelfeeder.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:largebarrelfeeder"
+    },
+    {
+        "name": "SheltersshelterBlueprintsLevel1",
+        "type": "toggle",
+        "img": "images/items/SheltersshelterBlueprintsLevel1.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "SheltersshelterBlueprintsLevel1"
+    },
+    {
+        "name": "Enrichment:chewtoy",
+        "type": "toggle",
+        "img": "images/items/Enrichment:chewtoy.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Enrichment:chewtoy"
+    },
+    {
+        "name": "Permit_Blackwildebeest",
+        "type": "toggle",
+        "img": "images/items/base_animals/bwildebeest.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Blackwildebeest"
+    },
+    {
+        "name": "Permit_Greaterflamingo",
+        "type": "toggle",
+        "img": "images/items/base_animals/gflamingo.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Greaterflamingo"
+    },
+    {
+        "name": "Permit_Greeniguana",
+        "type": "toggle",
+        "img": "images/items/base_animals/giguana.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Greeniguana"
+    },
+    {
+        "name": "Permit_Bongo",
+        "type": "toggle",
+        "img": "images/items/base_animals/bongo.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Bongo"
+    },
+    {
+        "name": "Permit_Reticulatedgiraffe",
+        "type": "toggle",
+        "img": "images/items/base_animals/rgiraffe.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Reticulatedgiraffe"
+    },
+    {
+        "name": "Permit_Okapi",
+        "type": "toggle",
+        "img": "images/items/base_animals/okapi.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "Permit_Okapi"
+    },
+    {
+        "name": "update",
+        "type": "toggle",
+        "img": "images/items/update.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "update"
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "name": "Milestones",
+        "children": [
+            {
+                "name": "",
+                "children": [
+                    {
+                        "name": "Guests - 1000",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Milestones",
+                                "x": 1246,
+                                "y": 295,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_permits|10, ProgressivebarrierLevel:3"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Guests - 1250",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Milestones",
+                                "x": 1259,
+                                "y": 368,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_permits|12, ProgressivebarrierLevel:3"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Guests - 250",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Milestones",
+                                "x": 1273,
+                                "y": 105,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Guests - 2500",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Milestones",
+                                "x": 1261,
+                                "y": 434,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_permits|18, ProgressivebarrierLevel:4"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Guests - 500",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Milestones",
+                                "x": 1261,
+                                "y": 173,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_permits|6, ProgressivebarrierLevel:2"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Guests - 750",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Milestones",
+                                "x": 1257,
+                                "y": 233,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_permits|8, ProgressivebarrierLevel:2"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Zoo Rating - 1",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Milestones",
+                                "x": 584,
+                                "y": 96,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Zoo Rating - 2",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Milestones",
+                                "x": 594,
+                                "y": 160,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_permits|4, ProgressivebarrierLevel:1"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Zoo Rating - 3",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Milestones",
+                                "x": 588,
+                                "y": 235,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_permits|6, ProgressivebarrierLevel:1"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Zoo Rating - 4",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Milestones",
+                                "x": 588,
+                                "y": 298,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_permits|8, ProgressivebarrierLevel:2"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    },
+                    {
+                        "name": "Zoo Rating - 5",
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Milestones",
+                                "x": 597,
+                                "y": 364,
+                                "size": 10,
+                                "shape": "rect"
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_permits|18, ProgressivebarrierLevel:3"
+                        ],
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000"
+                    }
+                ],
+                "access_rules": [],
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000"
+            }
+        ],
+        "access_rules": [],
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000"
+    }
+]

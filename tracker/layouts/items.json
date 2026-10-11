@@ -1,0 +1,254 @@
+{
+    "shared_item_grid_horizontal": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "Researchcentre",
+                                "Workshop",
+                                "WaterHabitattools",
+                                "ConservationProgram",
+                                "ProgressivebarrierLevel"
+                            ],
+                            [
+                                "ProgressivebreedingLevel",
+                                "ProgressivesupplementLevel",
+                                "ProgressiveexhibitenrichmentLevel",
+                                "ProgressiveeducationLevel"
+                            ],
+                            [
+                                "Permit_Aldabragianttortoise",
+                                "Permit_Galapagosgianttortoise",
+                                "Permit_Indianpeafowl",
+                                "Permit_Greaterflamingo"
+                            ],
+                            [
+                                "Permit_Mandrill",
+                                "Permit_Bactriancamel",
+                                "Permit_Redruffedlemur",
+                                "Permit_Chinesepangolin",
+                                "Permit_Redpanda",
+                                "Permit_Ringtailedlemur",
+                                "Permit_Nyala",
+                                "Permit_Spottedhyena",
+                                "Permit_Snowleopard",
+                                "Permit_Reddeer",
+                                "Permit_Commonwarthog",
+                                "Permit_Collaredpeccary",
+                                "Permit_Timberwolf",
+                                "Permit_Springbok",
+                                "Permit_Africanwilddog",
+                                "Permit_Commonostrich",
+                                "Permit_Japanesemacaque",
+                                "Permit_Pronghornantelope",
+                                "Permit_Blackandwhiteruffedlemur",
+                                "Permit_Sableantelope",
+                                "Permit_Gemsbok",
+                                "Permit_Aardvark",
+                                "Permit_Cheetah",
+                                "Permit_Plainszebra",
+                                "Permit_Blackwildebeest",
+                                "Permit_Bongo",
+                                "Permit_Okapi",
+                                "Permit_Bairdstapir",
+                                "Permit_Gharial",
+                                "Permit_Nilemonitor",
+                                "Permit_Saltwatercrocodile"
+                            ],
+                            [
+                                "Permit_Americanbison",
+                                "Permit_Siberiantiger",
+                                "Permit_Westernlowlandgorilla",
+                                "Permit_Bengaltiger",
+                                "Permit_Africanleopard",
+                                "Permit_Borneanorangutan",
+                                "Permit_Bonobo",
+                                "Permit_WestAfricanlion",
+                                "Permit_Westernchimpanzee",
+                                "Permit_Reticulatedgiraffe",
+                                "Permit_Africanbuffalo"
+                            ],
+                            [
+                                "Permit_Giantpanda",
+                                "Permit_Himalayanbrownbear",
+                                "Permit_Grizzlybear",
+                                "Permit_Formosanblackbear",
+                                "Permit_Africansavannahelephant",
+                                "Permit_Indianrhinoceros",
+                                "Permit_Indianelephant",
+                                "Permit_Hippopotamus"
+                            ],
+                            [
+                                "Permit_Goliathfrog",
+                                "Permit_Titanbeetle",
+                                "Permit_Puffadder",
+                                "Permit_Giantdeserthairyscorpion",
+                                "Permit_Gilamonster",
+                                "Permit_Westerndiamondbackrattlesnake",
+                                "Permit_Yellowanaconda",
+                                "Permit_Goliathbirdeater",
+                                "Permit_Malabarrose",
+                                "Permit_Mexicanredkneetarantula",
+                                "Permit_Easternbrownsnake",
+                                "Permit_Brazilianwanderingspider",
+                                "Permit_Lehmannpoisonfrog",
+                                "Permit_Gianttigerlandsnail",
+                                "Permit_Amazoniangiantcentipede",
+                                "Permit_Lesserantilleaniguana",
+                                "Permit_Goldenpoisonfrog",
+                                "Permit_Braziliansalmonpinktarantula",
+                                "Permit_Giantburrowingcockroach",
+                                "Permit_Goliathbeetle",
+                                "Permit_Boaconstrictor",
+                                "Permit_Giantforestscorpion",
+                                "Permit_Commondeathadder",
+                                "Permit_Greeniguana"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "shared_item_grid_vertical": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "Researchcentre",
+                                "Workshop",
+                                "WaterHabitattools",
+                                "ConservationProgram",
+                                "ProgressivebarrierLevel"
+                            ],
+                            [
+                                "ProgressivebreedingLevel",
+                                "ProgressivesupplementLevel",
+                                "ProgressiveexhibitenrichmentLevel",
+                                "ProgressiveeducationLevel"
+                            ],
+                            [
+                                "Permit_Aldabragianttortoise",
+                                "Permit_Galapagosgianttortoise",
+                                "Permit_Indianpeafowl",
+                                "Permit_Greaterflamingo"
+                            ],
+                            [
+                                "Permit_Mandrill",
+                                "Permit_Bactriancamel",
+                                "Permit_Redruffedlemur",
+                                "Permit_Chinesepangolin",
+                                "Permit_Redpanda",
+                                "Permit_Ringtailedlemur",
+                                "Permit_Nyala",
+                                "Permit_Spottedhyena",
+                                "Permit_Snowleopard",
+                                "Permit_Reddeer",
+                                "Permit_Commonwarthog",
+                                "Permit_Collaredpeccary",
+                                "Permit_Timberwolf",
+                                "Permit_Springbok",
+                                "Permit_Africanwilddog",
+                                "Permit_Commonostrich",
+                                "Permit_Japanesemacaque",
+                                "Permit_Pronghornantelope",
+                                "Permit_Blackandwhiteruffedlemur",
+                                "Permit_Sableantelope",
+                                "Permit_Gemsbok",
+                                "Permit_Aardvark",
+                                "Permit_Cheetah",
+                                "Permit_Plainszebra",
+                                "Permit_Blackwildebeest",
+                                "Permit_Bongo",
+                                "Permit_Okapi",
+                                "Permit_Bairdstapir",
+                                "Permit_Gharial",
+                                "Permit_Nilemonitor",
+                                "Permit_Saltwatercrocodile"
+                            ],
+                            [
+                                "Permit_Americanbison",
+                                "Permit_Siberiantiger",
+                                "Permit_Westernlowlandgorilla",
+                                "Permit_Bengaltiger",
+                                "Permit_Africanleopard",
+                                "Permit_Borneanorangutan",
+                                "Permit_Bonobo",
+                                "Permit_WestAfricanlion",
+                                "Permit_Westernchimpanzee",
+                                "Permit_Reticulatedgiraffe",
+                                "Permit_Africanbuffalo"
+                            ],
+                            [
+                                "Permit_Giantpanda",
+                                "Permit_Himalayanbrownbear",
+                                "Permit_Grizzlybear",
+                                "Permit_Formosanblackbear",
+                                "Permit_Africansavannahelephant",
+                                "Permit_Indianrhinoceros",
+                                "Permit_Indianelephant",
+                                "Permit_Hippopotamus"
+                            ],
+                            [
+                                "Permit_Goliathfrog",
+                                "Permit_Titanbeetle",
+                                "Permit_Puffadder",
+                                "Permit_Giantdeserthairyscorpion",
+                                "Permit_Gilamonster",
+                                "Permit_Westerndiamondbackrattlesnake",
+                                "Permit_Yellowanaconda",
+                                "Permit_Goliathbirdeater",
+                                "Permit_Malabarrose",
+                                "Permit_Mexicanredkneetarantula",
+                                "Permit_Easternbrownsnake",
+                                "Permit_Brazilianwanderingspider",
+                                "Permit_Lehmannpoisonfrog",
+                                "Permit_Gianttigerlandsnail",
+                                "Permit_Amazoniangiantcentipede",
+                                "Permit_Lesserantilleaniguana",
+                                "Permit_Goldenpoisonfrog",
+                                "Permit_Braziliansalmonpinktarantula",
+                                "Permit_Giantburrowingcockroach",
+                                "Permit_Goliathbeetle",
+                                "Permit_Boaconstrictor",
+                                "Permit_Giantforestscorpion",
+                                "Permit_Commondeathadder",
+                                "Permit_Greeniguana"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

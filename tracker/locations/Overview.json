@@ -1,0 +1,3117 @@
+[
+    {
+        "name": "Overview",
+        "children": [
+            {
+                "name": "Barrier Level 1",
+                "sections": [
+                    {
+                        "name": "Barrier Level 1 - Aldabra Giant Tortoise - Conservation Release",
+                        "ref": "Barrier Level 1//Aldabra Giant Tortoise - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Aldabra Giant Tortoise - First Acquisition",
+                        "ref": "Barrier Level 1//Aldabra Giant Tortoise - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Aldabra Giant Tortoise - First Breeding",
+                        "ref": "Barrier Level 1//Aldabra Giant Tortoise - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Aldabra Giant Tortoise - Research Welfare 1",
+                        "ref": "Barrier Level 1//Aldabra Giant Tortoise - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Aldabra Giant Tortoise - Research Welfare 2",
+                        "ref": "Barrier Level 1//Aldabra Giant Tortoise - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Aldabra Giant Tortoise - Research Welfare 3",
+                        "ref": "Barrier Level 1//Aldabra Giant Tortoise - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Aldabra Giant Tortoise - Research Welfare 4",
+                        "ref": "Barrier Level 1//Aldabra Giant Tortoise - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Aldabra Giant Tortoise - Research Welfare 5",
+                        "ref": "Barrier Level 1//Aldabra Giant Tortoise - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Aldabra Giant Tortoise - Research Welfare 6",
+                        "ref": "Barrier Level 1//Aldabra Giant Tortoise - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Galapagos Giant Tortoise - Conservation Release",
+                        "ref": "Barrier Level 1//Galapagos Giant Tortoise - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Galapagos Giant Tortoise - First Acquisition",
+                        "ref": "Barrier Level 1//Galapagos Giant Tortoise - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Galapagos Giant Tortoise - First Breeding",
+                        "ref": "Barrier Level 1//Galapagos Giant Tortoise - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Galapagos Giant Tortoise - Research Welfare 1",
+                        "ref": "Barrier Level 1//Galapagos Giant Tortoise - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Galapagos Giant Tortoise - Research Welfare 2",
+                        "ref": "Barrier Level 1//Galapagos Giant Tortoise - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Galapagos Giant Tortoise - Research Welfare 3",
+                        "ref": "Barrier Level 1//Galapagos Giant Tortoise - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Galapagos Giant Tortoise - Research Welfare 4",
+                        "ref": "Barrier Level 1//Galapagos Giant Tortoise - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Galapagos Giant Tortoise - Research Welfare 5",
+                        "ref": "Barrier Level 1//Galapagos Giant Tortoise - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Galapagos Giant Tortoise - Research Welfare 6",
+                        "ref": "Barrier Level 1//Galapagos Giant Tortoise - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Greater Flamingo - Conservation Release",
+                        "ref": "Barrier Level 1//Greater Flamingo - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Greater Flamingo - First Acquisition",
+                        "ref": "Barrier Level 1//Greater Flamingo - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Greater Flamingo - First Breeding",
+                        "ref": "Barrier Level 1//Greater Flamingo - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Greater Flamingo - Research Welfare 1",
+                        "ref": "Barrier Level 1//Greater Flamingo - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Greater Flamingo - Research Welfare 2",
+                        "ref": "Barrier Level 1//Greater Flamingo - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Greater Flamingo - Research Welfare 3",
+                        "ref": "Barrier Level 1//Greater Flamingo - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Greater Flamingo - Research Welfare 4",
+                        "ref": "Barrier Level 1//Greater Flamingo - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Greater Flamingo - Research Welfare 5",
+                        "ref": "Barrier Level 1//Greater Flamingo - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Greater Flamingo - Research Welfare 6",
+                        "ref": "Barrier Level 1//Greater Flamingo - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Indian Peafowl - Conservation Release",
+                        "ref": "Barrier Level 1//Indian Peafowl - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Indian Peafowl - First Acquisition",
+                        "ref": "Barrier Level 1//Indian Peafowl - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Indian Peafowl - First Breeding",
+                        "ref": "Barrier Level 1//Indian Peafowl - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Indian Peafowl - Research Welfare 1",
+                        "ref": "Barrier Level 1//Indian Peafowl - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Indian Peafowl - Research Welfare 2",
+                        "ref": "Barrier Level 1//Indian Peafowl - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Indian Peafowl - Research Welfare 3",
+                        "ref": "Barrier Level 1//Indian Peafowl - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Indian Peafowl - Research Welfare 4",
+                        "ref": "Barrier Level 1//Indian Peafowl - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Indian Peafowl - Research Welfare 5",
+                        "ref": "Barrier Level 1//Indian Peafowl - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 1 - Indian Peafowl - Research Welfare 6",
+                        "ref": "Barrier Level 1//Indian Peafowl - Research Welfare 6/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 507,
+                        "y": 201,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ],
+                "access_rules": [],
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000"
+            },
+            {
+                "name": "Barrier Level 2",
+                "sections": [
+                    {
+                        "name": "Barrier Level 2 - Aardvark - Conservation Release",
+                        "ref": "Barrier Level 2//Aardvark - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Aardvark - First Acquisition",
+                        "ref": "Barrier Level 2//Aardvark - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Aardvark - First Breeding",
+                        "ref": "Barrier Level 2//Aardvark - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Aardvark - Research Welfare 1",
+                        "ref": "Barrier Level 2//Aardvark - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Aardvark - Research Welfare 2",
+                        "ref": "Barrier Level 2//Aardvark - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Aardvark - Research Welfare 3",
+                        "ref": "Barrier Level 2//Aardvark - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Aardvark - Research Welfare 4",
+                        "ref": "Barrier Level 2//Aardvark - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Aardvark - Research Welfare 5",
+                        "ref": "Barrier Level 2//Aardvark - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Aardvark - Research Welfare 6",
+                        "ref": "Barrier Level 2//Aardvark - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - African Wild Dog - Conservation Release",
+                        "ref": "Barrier Level 2//African Wild Dog - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - African Wild Dog - First Acquisition",
+                        "ref": "Barrier Level 2//African Wild Dog - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - African Wild Dog - First Breeding",
+                        "ref": "Barrier Level 2//African Wild Dog - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - African Wild Dog - Research Welfare 1",
+                        "ref": "Barrier Level 2//African Wild Dog - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - African Wild Dog - Research Welfare 2",
+                        "ref": "Barrier Level 2//African Wild Dog - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - African Wild Dog - Research Welfare 3",
+                        "ref": "Barrier Level 2//African Wild Dog - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - African Wild Dog - Research Welfare 4",
+                        "ref": "Barrier Level 2//African Wild Dog - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - African Wild Dog - Research Welfare 5",
+                        "ref": "Barrier Level 2//African Wild Dog - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - African Wild Dog - Research Welfare 6",
+                        "ref": "Barrier Level 2//African Wild Dog - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Bactrian Camel - First Acquisition",
+                        "ref": "Barrier Level 2//Bactrian Camel - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Bactrian Camel - First Breeding",
+                        "ref": "Barrier Level 2//Bactrian Camel - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Bactrian Camel - Research Welfare 1",
+                        "ref": "Barrier Level 2//Bactrian Camel - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Bactrian Camel - Research Welfare 2",
+                        "ref": "Barrier Level 2//Bactrian Camel - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Bactrian Camel - Research Welfare 3",
+                        "ref": "Barrier Level 2//Bactrian Camel - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Bactrian Camel - Research Welfare 4",
+                        "ref": "Barrier Level 2//Bactrian Camel - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Bactrian Camel - Research Welfare 5",
+                        "ref": "Barrier Level 2//Bactrian Camel - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Bactrian Camel - Research Welfare 6",
+                        "ref": "Barrier Level 2//Bactrian Camel - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Baird's Tapir - Conservation Release",
+                        "ref": "Barrier Level 2//Baird's Tapir - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Baird's Tapir - First Acquisition",
+                        "ref": "Barrier Level 2//Baird's Tapir - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Baird's Tapir - First Breeding",
+                        "ref": "Barrier Level 2//Baird's Tapir - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Baird's Tapir - Research Welfare 1",
+                        "ref": "Barrier Level 2//Baird's Tapir - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Baird's Tapir - Research Welfare 2",
+                        "ref": "Barrier Level 2//Baird's Tapir - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Baird's Tapir - Research Welfare 3",
+                        "ref": "Barrier Level 2//Baird's Tapir - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Baird's Tapir - Research Welfare 4",
+                        "ref": "Barrier Level 2//Baird's Tapir - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Baird's Tapir - Research Welfare 5",
+                        "ref": "Barrier Level 2//Baird's Tapir - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Baird's Tapir - Research Welfare 6",
+                        "ref": "Barrier Level 2//Baird's Tapir - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Black Wildebeest - Conservation Release",
+                        "ref": "Barrier Level 2//Black Wildebeest - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Black Wildebeest - First Acquisition",
+                        "ref": "Barrier Level 2//Black Wildebeest - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Black Wildebeest - First Breeding",
+                        "ref": "Barrier Level 2//Black Wildebeest - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Black Wildebeest - Research Welfare 1",
+                        "ref": "Barrier Level 2//Black Wildebeest - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Black Wildebeest - Research Welfare 2",
+                        "ref": "Barrier Level 2//Black Wildebeest - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Black Wildebeest - Research Welfare 3",
+                        "ref": "Barrier Level 2//Black Wildebeest - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Black Wildebeest - Research Welfare 4",
+                        "ref": "Barrier Level 2//Black Wildebeest - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Black Wildebeest - Research Welfare 5",
+                        "ref": "Barrier Level 2//Black Wildebeest - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Black Wildebeest - Research Welfare 6",
+                        "ref": "Barrier Level 2//Black Wildebeest - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Black and White Ruffed Lemur - Conservation Release",
+                        "ref": "Barrier Level 2//Black and White Ruffed Lemur - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Black and White Ruffed Lemur - First Acquisition",
+                        "ref": "Barrier Level 2//Black and White Ruffed Lemur - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Black and White Ruffed Lemur - First Breeding",
+                        "ref": "Barrier Level 2//Black and White Ruffed Lemur - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Black and White Ruffed Lemur - Research Welfare 1",
+                        "ref": "Barrier Level 2//Black and White Ruffed Lemur - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Black and White Ruffed Lemur - Research Welfare 2",
+                        "ref": "Barrier Level 2//Black and White Ruffed Lemur - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Black and White Ruffed Lemur - Research Welfare 3",
+                        "ref": "Barrier Level 2//Black and White Ruffed Lemur - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Black and White Ruffed Lemur - Research Welfare 4",
+                        "ref": "Barrier Level 2//Black and White Ruffed Lemur - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Black and White Ruffed Lemur - Research Welfare 5",
+                        "ref": "Barrier Level 2//Black and White Ruffed Lemur - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Black and White Ruffed Lemur - Research Welfare 6",
+                        "ref": "Barrier Level 2//Black and White Ruffed Lemur - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Bongo - Conservation Release",
+                        "ref": "Barrier Level 2//Bongo - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Bongo - First Acquisition",
+                        "ref": "Barrier Level 2//Bongo - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Bongo - First Breeding",
+                        "ref": "Barrier Level 2//Bongo - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Bongo - Research Welfare 1",
+                        "ref": "Barrier Level 2//Bongo - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Bongo - Research Welfare 2",
+                        "ref": "Barrier Level 2//Bongo - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Bongo - Research Welfare 3",
+                        "ref": "Barrier Level 2//Bongo - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Bongo - Research Welfare 4",
+                        "ref": "Barrier Level 2//Bongo - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Bongo - Research Welfare 5",
+                        "ref": "Barrier Level 2//Bongo - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Bongo - Research Welfare 6",
+                        "ref": "Barrier Level 2//Bongo - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Cheetah - Conservation Release",
+                        "ref": "Barrier Level 2//Cheetah - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Cheetah - First Acquisition",
+                        "ref": "Barrier Level 2//Cheetah - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Cheetah - First Breeding",
+                        "ref": "Barrier Level 2//Cheetah - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Cheetah - Research Welfare 1",
+                        "ref": "Barrier Level 2//Cheetah - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Cheetah - Research Welfare 2",
+                        "ref": "Barrier Level 2//Cheetah - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Cheetah - Research Welfare 3",
+                        "ref": "Barrier Level 2//Cheetah - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Cheetah - Research Welfare 4",
+                        "ref": "Barrier Level 2//Cheetah - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Cheetah - Research Welfare 5",
+                        "ref": "Barrier Level 2//Cheetah - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Cheetah - Research Welfare 6",
+                        "ref": "Barrier Level 2//Cheetah - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Chinese Pangolin - Conservation Release",
+                        "ref": "Barrier Level 2//Chinese Pangolin - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Chinese Pangolin - First Acquisition",
+                        "ref": "Barrier Level 2//Chinese Pangolin - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Chinese Pangolin - First Breeding",
+                        "ref": "Barrier Level 2//Chinese Pangolin - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Chinese Pangolin - Research Welfare 1",
+                        "ref": "Barrier Level 2//Chinese Pangolin - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Chinese Pangolin - Research Welfare 2",
+                        "ref": "Barrier Level 2//Chinese Pangolin - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Chinese Pangolin - Research Welfare 3",
+                        "ref": "Barrier Level 2//Chinese Pangolin - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Chinese Pangolin - Research Welfare 4",
+                        "ref": "Barrier Level 2//Chinese Pangolin - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Chinese Pangolin - Research Welfare 5",
+                        "ref": "Barrier Level 2//Chinese Pangolin - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Chinese Pangolin - Research Welfare 6",
+                        "ref": "Barrier Level 2//Chinese Pangolin - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Collared Peccary - Conservation Release",
+                        "ref": "Barrier Level 2//Collared Peccary - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Collared Peccary - First Acquisition",
+                        "ref": "Barrier Level 2//Collared Peccary - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Collared Peccary - First Breeding",
+                        "ref": "Barrier Level 2//Collared Peccary - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Collared Peccary - Research Welfare 1",
+                        "ref": "Barrier Level 2//Collared Peccary - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Collared Peccary - Research Welfare 2",
+                        "ref": "Barrier Level 2//Collared Peccary - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Collared Peccary - Research Welfare 3",
+                        "ref": "Barrier Level 2//Collared Peccary - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Collared Peccary - Research Welfare 4",
+                        "ref": "Barrier Level 2//Collared Peccary - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Collared Peccary - Research Welfare 5",
+                        "ref": "Barrier Level 2//Collared Peccary - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Collared Peccary - Research Welfare 6",
+                        "ref": "Barrier Level 2//Collared Peccary - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Common Ostrich - Conservation Release",
+                        "ref": "Barrier Level 2//Common Ostrich - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Common Ostrich - First Acquisition",
+                        "ref": "Barrier Level 2//Common Ostrich - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Common Ostrich - First Breeding",
+                        "ref": "Barrier Level 2//Common Ostrich - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Common Ostrich - Research Welfare 1",
+                        "ref": "Barrier Level 2//Common Ostrich - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Common Ostrich - Research Welfare 2",
+                        "ref": "Barrier Level 2//Common Ostrich - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Common Ostrich - Research Welfare 3",
+                        "ref": "Barrier Level 2//Common Ostrich - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Common Ostrich - Research Welfare 4",
+                        "ref": "Barrier Level 2//Common Ostrich - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Common Ostrich - Research Welfare 5",
+                        "ref": "Barrier Level 2//Common Ostrich - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Common Ostrich - Research Welfare 6",
+                        "ref": "Barrier Level 2//Common Ostrich - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Common Warthog - Conservation Release",
+                        "ref": "Barrier Level 2//Common Warthog - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Common Warthog - First Acquisition",
+                        "ref": "Barrier Level 2//Common Warthog - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Common Warthog - First Breeding",
+                        "ref": "Barrier Level 2//Common Warthog - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Common Warthog - Research Welfare 1",
+                        "ref": "Barrier Level 2//Common Warthog - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Common Warthog - Research Welfare 2",
+                        "ref": "Barrier Level 2//Common Warthog - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Common Warthog - Research Welfare 3",
+                        "ref": "Barrier Level 2//Common Warthog - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Common Warthog - Research Welfare 4",
+                        "ref": "Barrier Level 2//Common Warthog - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Common Warthog - Research Welfare 5",
+                        "ref": "Barrier Level 2//Common Warthog - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Common Warthog - Research Welfare 6",
+                        "ref": "Barrier Level 2//Common Warthog - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Gemsbok - Conservation Release",
+                        "ref": "Barrier Level 2//Gemsbok - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Gemsbok - First Acquisition",
+                        "ref": "Barrier Level 2//Gemsbok - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Gemsbok - First Breeding",
+                        "ref": "Barrier Level 2//Gemsbok - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Gemsbok - Research Welfare 1",
+                        "ref": "Barrier Level 2//Gemsbok - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Gemsbok - Research Welfare 2",
+                        "ref": "Barrier Level 2//Gemsbok - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Gemsbok - Research Welfare 3",
+                        "ref": "Barrier Level 2//Gemsbok - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Gemsbok - Research Welfare 4",
+                        "ref": "Barrier Level 2//Gemsbok - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Gemsbok - Research Welfare 5",
+                        "ref": "Barrier Level 2//Gemsbok - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Gemsbok - Research Welfare 6",
+                        "ref": "Barrier Level 2//Gemsbok - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Gharial - Conservation Release",
+                        "ref": "Barrier Level 2//Gharial - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Gharial - First Acquisition",
+                        "ref": "Barrier Level 2//Gharial - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Gharial - First Breeding",
+                        "ref": "Barrier Level 2//Gharial - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Gharial - Research Welfare 1",
+                        "ref": "Barrier Level 2//Gharial - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Gharial - Research Welfare 2",
+                        "ref": "Barrier Level 2//Gharial - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Gharial - Research Welfare 3",
+                        "ref": "Barrier Level 2//Gharial - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Gharial - Research Welfare 4",
+                        "ref": "Barrier Level 2//Gharial - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Gharial - Research Welfare 5",
+                        "ref": "Barrier Level 2//Gharial - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Gharial - Research Welfare 6",
+                        "ref": "Barrier Level 2//Gharial - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Japanese Macaque - Conservation Release",
+                        "ref": "Barrier Level 2//Japanese Macaque - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Japanese Macaque - First Acquisition",
+                        "ref": "Barrier Level 2//Japanese Macaque - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Japanese Macaque - First Breeding",
+                        "ref": "Barrier Level 2//Japanese Macaque - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Japanese Macaque - Research Welfare 1",
+                        "ref": "Barrier Level 2//Japanese Macaque - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Japanese Macaque - Research Welfare 2",
+                        "ref": "Barrier Level 2//Japanese Macaque - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Japanese Macaque - Research Welfare 3",
+                        "ref": "Barrier Level 2//Japanese Macaque - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Japanese Macaque - Research Welfare 4",
+                        "ref": "Barrier Level 2//Japanese Macaque - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Japanese Macaque - Research Welfare 5",
+                        "ref": "Barrier Level 2//Japanese Macaque - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Japanese Macaque - Research Welfare 6",
+                        "ref": "Barrier Level 2//Japanese Macaque - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Mandrill - Conservation Release",
+                        "ref": "Barrier Level 2//Mandrill - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Mandrill - First Acquisition",
+                        "ref": "Barrier Level 2//Mandrill - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Mandrill - First Breeding",
+                        "ref": "Barrier Level 2//Mandrill - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Mandrill - Research Welfare 1",
+                        "ref": "Barrier Level 2//Mandrill - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Mandrill - Research Welfare 2",
+                        "ref": "Barrier Level 2//Mandrill - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Mandrill - Research Welfare 3",
+                        "ref": "Barrier Level 2//Mandrill - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Mandrill - Research Welfare 4",
+                        "ref": "Barrier Level 2//Mandrill - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Mandrill - Research Welfare 5",
+                        "ref": "Barrier Level 2//Mandrill - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Mandrill - Research Welfare 6",
+                        "ref": "Barrier Level 2//Mandrill - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Nile Monitor - Conservation Release",
+                        "ref": "Barrier Level 2//Nile Monitor - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Nile Monitor - First Acquisition",
+                        "ref": "Barrier Level 2//Nile Monitor - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Nile Monitor - First Breeding",
+                        "ref": "Barrier Level 2//Nile Monitor - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Nile Monitor - Research Welfare 1",
+                        "ref": "Barrier Level 2//Nile Monitor - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Nile Monitor - Research Welfare 2",
+                        "ref": "Barrier Level 2//Nile Monitor - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Nile Monitor - Research Welfare 3",
+                        "ref": "Barrier Level 2//Nile Monitor - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Nile Monitor - Research Welfare 4",
+                        "ref": "Barrier Level 2//Nile Monitor - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Nile Monitor - Research Welfare 5",
+                        "ref": "Barrier Level 2//Nile Monitor - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Nile Monitor - Research Welfare 6",
+                        "ref": "Barrier Level 2//Nile Monitor - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Nyala - Conservation Release",
+                        "ref": "Barrier Level 2//Nyala - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Nyala - First Acquisition",
+                        "ref": "Barrier Level 2//Nyala - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Nyala - First Breeding",
+                        "ref": "Barrier Level 2//Nyala - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Nyala - Research Welfare 1",
+                        "ref": "Barrier Level 2//Nyala - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Nyala - Research Welfare 2",
+                        "ref": "Barrier Level 2//Nyala - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Nyala - Research Welfare 3",
+                        "ref": "Barrier Level 2//Nyala - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Nyala - Research Welfare 4",
+                        "ref": "Barrier Level 2//Nyala - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Nyala - Research Welfare 5",
+                        "ref": "Barrier Level 2//Nyala - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Nyala - Research Welfare 6",
+                        "ref": "Barrier Level 2//Nyala - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Okapi - Conservation Release",
+                        "ref": "Barrier Level 2//Okapi - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Okapi - First Acquisition",
+                        "ref": "Barrier Level 2//Okapi - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Okapi - First Breeding",
+                        "ref": "Barrier Level 2//Okapi - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Okapi - Research Welfare 1",
+                        "ref": "Barrier Level 2//Okapi - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Okapi - Research Welfare 2",
+                        "ref": "Barrier Level 2//Okapi - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Okapi - Research Welfare 3",
+                        "ref": "Barrier Level 2//Okapi - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Okapi - Research Welfare 4",
+                        "ref": "Barrier Level 2//Okapi - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Okapi - Research Welfare 5",
+                        "ref": "Barrier Level 2//Okapi - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Okapi - Research Welfare 6",
+                        "ref": "Barrier Level 2//Okapi - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Plains Zebra - Conservation Release",
+                        "ref": "Barrier Level 2//Plains Zebra - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Plains Zebra - First Acquisition",
+                        "ref": "Barrier Level 2//Plains Zebra - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Plains Zebra - First Breeding",
+                        "ref": "Barrier Level 2//Plains Zebra - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Plains Zebra - Research Welfare 1",
+                        "ref": "Barrier Level 2//Plains Zebra - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Plains Zebra - Research Welfare 2",
+                        "ref": "Barrier Level 2//Plains Zebra - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Plains Zebra - Research Welfare 3",
+                        "ref": "Barrier Level 2//Plains Zebra - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Plains Zebra - Research Welfare 4",
+                        "ref": "Barrier Level 2//Plains Zebra - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Plains Zebra - Research Welfare 5",
+                        "ref": "Barrier Level 2//Plains Zebra - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Plains Zebra - Research Welfare 6",
+                        "ref": "Barrier Level 2//Plains Zebra - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Pronghorn Antelope - Conservation Release",
+                        "ref": "Barrier Level 2//Pronghorn Antelope - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Pronghorn Antelope - First Acquisition",
+                        "ref": "Barrier Level 2//Pronghorn Antelope - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Pronghorn Antelope - First Breeding",
+                        "ref": "Barrier Level 2//Pronghorn Antelope - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Pronghorn Antelope - Research Welfare 1",
+                        "ref": "Barrier Level 2//Pronghorn Antelope - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Pronghorn Antelope - Research Welfare 2",
+                        "ref": "Barrier Level 2//Pronghorn Antelope - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Pronghorn Antelope - Research Welfare 3",
+                        "ref": "Barrier Level 2//Pronghorn Antelope - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Pronghorn Antelope - Research Welfare 4",
+                        "ref": "Barrier Level 2//Pronghorn Antelope - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Pronghorn Antelope - Research Welfare 5",
+                        "ref": "Barrier Level 2//Pronghorn Antelope - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Pronghorn Antelope - Research Welfare 6",
+                        "ref": "Barrier Level 2//Pronghorn Antelope - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Deer - Conservation Release",
+                        "ref": "Barrier Level 2//Red Deer - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Deer - First Acquisition",
+                        "ref": "Barrier Level 2//Red Deer - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Deer - First Breeding",
+                        "ref": "Barrier Level 2//Red Deer - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Deer - Research Welfare 1",
+                        "ref": "Barrier Level 2//Red Deer - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Deer - Research Welfare 2",
+                        "ref": "Barrier Level 2//Red Deer - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Deer - Research Welfare 3",
+                        "ref": "Barrier Level 2//Red Deer - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Deer - Research Welfare 4",
+                        "ref": "Barrier Level 2//Red Deer - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Deer - Research Welfare 5",
+                        "ref": "Barrier Level 2//Red Deer - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Deer - Research Welfare 6",
+                        "ref": "Barrier Level 2//Red Deer - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Panda - Conservation Release",
+                        "ref": "Barrier Level 2//Red Panda - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Panda - First Acquisition",
+                        "ref": "Barrier Level 2//Red Panda - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Panda - First Breeding",
+                        "ref": "Barrier Level 2//Red Panda - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Panda - Research Welfare 1",
+                        "ref": "Barrier Level 2//Red Panda - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Panda - Research Welfare 2",
+                        "ref": "Barrier Level 2//Red Panda - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Panda - Research Welfare 3",
+                        "ref": "Barrier Level 2//Red Panda - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Panda - Research Welfare 4",
+                        "ref": "Barrier Level 2//Red Panda - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Panda - Research Welfare 5",
+                        "ref": "Barrier Level 2//Red Panda - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Panda - Research Welfare 6",
+                        "ref": "Barrier Level 2//Red Panda - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Ruffed Lemur - Conservation Release",
+                        "ref": "Barrier Level 2//Red Ruffed Lemur - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Ruffed Lemur - First Acquisition",
+                        "ref": "Barrier Level 2//Red Ruffed Lemur - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Ruffed Lemur - First Breeding",
+                        "ref": "Barrier Level 2//Red Ruffed Lemur - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Ruffed Lemur - Research Welfare 1",
+                        "ref": "Barrier Level 2//Red Ruffed Lemur - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Ruffed Lemur - Research Welfare 2",
+                        "ref": "Barrier Level 2//Red Ruffed Lemur - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Ruffed Lemur - Research Welfare 3",
+                        "ref": "Barrier Level 2//Red Ruffed Lemur - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Ruffed Lemur - Research Welfare 4",
+                        "ref": "Barrier Level 2//Red Ruffed Lemur - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Ruffed Lemur - Research Welfare 5",
+                        "ref": "Barrier Level 2//Red Ruffed Lemur - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Red Ruffed Lemur - Research Welfare 6",
+                        "ref": "Barrier Level 2//Red Ruffed Lemur - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Ring Tailed Lemur - Conservation Release",
+                        "ref": "Barrier Level 2//Ring Tailed Lemur - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Ring Tailed Lemur - First Acquisition",
+                        "ref": "Barrier Level 2//Ring Tailed Lemur - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Ring Tailed Lemur - First Breeding",
+                        "ref": "Barrier Level 2//Ring Tailed Lemur - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Ring Tailed Lemur - Research Welfare 1",
+                        "ref": "Barrier Level 2//Ring Tailed Lemur - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Ring Tailed Lemur - Research Welfare 2",
+                        "ref": "Barrier Level 2//Ring Tailed Lemur - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Ring Tailed Lemur - Research Welfare 3",
+                        "ref": "Barrier Level 2//Ring Tailed Lemur - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Ring Tailed Lemur - Research Welfare 4",
+                        "ref": "Barrier Level 2//Ring Tailed Lemur - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Ring Tailed Lemur - Research Welfare 5",
+                        "ref": "Barrier Level 2//Ring Tailed Lemur - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Ring Tailed Lemur - Research Welfare 6",
+                        "ref": "Barrier Level 2//Ring Tailed Lemur - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Sable Antelope - Conservation Release",
+                        "ref": "Barrier Level 2//Sable Antelope - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Sable Antelope - First Acquisition",
+                        "ref": "Barrier Level 2//Sable Antelope - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Sable Antelope - First Breeding",
+                        "ref": "Barrier Level 2//Sable Antelope - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Sable Antelope - Research Welfare 1",
+                        "ref": "Barrier Level 2//Sable Antelope - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Sable Antelope - Research Welfare 2",
+                        "ref": "Barrier Level 2//Sable Antelope - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Sable Antelope - Research Welfare 3",
+                        "ref": "Barrier Level 2//Sable Antelope - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Sable Antelope - Research Welfare 4",
+                        "ref": "Barrier Level 2//Sable Antelope - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Sable Antelope - Research Welfare 5",
+                        "ref": "Barrier Level 2//Sable Antelope - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Sable Antelope - Research Welfare 6",
+                        "ref": "Barrier Level 2//Sable Antelope - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Saltwater Crocodile - Conservation Release",
+                        "ref": "Barrier Level 2//Saltwater Crocodile - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Saltwater Crocodile - First Acquisition",
+                        "ref": "Barrier Level 2//Saltwater Crocodile - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Saltwater Crocodile - First Breeding",
+                        "ref": "Barrier Level 2//Saltwater Crocodile - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Saltwater Crocodile - Research Welfare 1",
+                        "ref": "Barrier Level 2//Saltwater Crocodile - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Saltwater Crocodile - Research Welfare 2",
+                        "ref": "Barrier Level 2//Saltwater Crocodile - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Saltwater Crocodile - Research Welfare 3",
+                        "ref": "Barrier Level 2//Saltwater Crocodile - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Saltwater Crocodile - Research Welfare 4",
+                        "ref": "Barrier Level 2//Saltwater Crocodile - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Saltwater Crocodile - Research Welfare 5",
+                        "ref": "Barrier Level 2//Saltwater Crocodile - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Saltwater Crocodile - Research Welfare 6",
+                        "ref": "Barrier Level 2//Saltwater Crocodile - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Snow Leopard - Conservation Release",
+                        "ref": "Barrier Level 2//Snow Leopard - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Snow Leopard - First Acquisition",
+                        "ref": "Barrier Level 2//Snow Leopard - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Snow Leopard - First Breeding",
+                        "ref": "Barrier Level 2//Snow Leopard - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Snow Leopard - Research Welfare 1",
+                        "ref": "Barrier Level 2//Snow Leopard - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Snow Leopard - Research Welfare 2",
+                        "ref": "Barrier Level 2//Snow Leopard - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Snow Leopard - Research Welfare 3",
+                        "ref": "Barrier Level 2//Snow Leopard - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Snow Leopard - Research Welfare 4",
+                        "ref": "Barrier Level 2//Snow Leopard - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Snow Leopard - Research Welfare 5",
+                        "ref": "Barrier Level 2//Snow Leopard - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Snow Leopard - Research Welfare 6",
+                        "ref": "Barrier Level 2//Snow Leopard - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Spotted Hyena - Conservation Release",
+                        "ref": "Barrier Level 2//Spotted Hyena - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Spotted Hyena - First Acquisition",
+                        "ref": "Barrier Level 2//Spotted Hyena - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Spotted Hyena - First Breeding",
+                        "ref": "Barrier Level 2//Spotted Hyena - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Spotted Hyena - Research Welfare 1",
+                        "ref": "Barrier Level 2//Spotted Hyena - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Spotted Hyena - Research Welfare 2",
+                        "ref": "Barrier Level 2//Spotted Hyena - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Spotted Hyena - Research Welfare 3",
+                        "ref": "Barrier Level 2//Spotted Hyena - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Spotted Hyena - Research Welfare 4",
+                        "ref": "Barrier Level 2//Spotted Hyena - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Spotted Hyena - Research Welfare 5",
+                        "ref": "Barrier Level 2//Spotted Hyena - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Spotted Hyena - Research Welfare 6",
+                        "ref": "Barrier Level 2//Spotted Hyena - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Springbok - Conservation Release",
+                        "ref": "Barrier Level 2//Springbok - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Springbok - First Acquisition",
+                        "ref": "Barrier Level 2//Springbok - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Springbok - First Breeding",
+                        "ref": "Barrier Level 2//Springbok - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Springbok - Research Welfare 1",
+                        "ref": "Barrier Level 2//Springbok - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Springbok - Research Welfare 2",
+                        "ref": "Barrier Level 2//Springbok - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Springbok - Research Welfare 3",
+                        "ref": "Barrier Level 2//Springbok - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Springbok - Research Welfare 4",
+                        "ref": "Barrier Level 2//Springbok - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Springbok - Research Welfare 5",
+                        "ref": "Barrier Level 2//Springbok - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Springbok - Research Welfare 6",
+                        "ref": "Barrier Level 2//Springbok - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Timber Wolf - Conservation Release",
+                        "ref": "Barrier Level 2//Timber Wolf - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Timber Wolf - First Acquisition",
+                        "ref": "Barrier Level 2//Timber Wolf - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Timber Wolf - First Breeding",
+                        "ref": "Barrier Level 2//Timber Wolf - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Timber Wolf - Research Welfare 1",
+                        "ref": "Barrier Level 2//Timber Wolf - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Timber Wolf - Research Welfare 2",
+                        "ref": "Barrier Level 2//Timber Wolf - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Timber Wolf - Research Welfare 3",
+                        "ref": "Barrier Level 2//Timber Wolf - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Timber Wolf - Research Welfare 4",
+                        "ref": "Barrier Level 2//Timber Wolf - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Timber Wolf - Research Welfare 5",
+                        "ref": "Barrier Level 2//Timber Wolf - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 2 - Timber Wolf - Research Welfare 6",
+                        "ref": "Barrier Level 2//Timber Wolf - Research Welfare 6/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 507,
+                        "y": 264,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ],
+                "access_rules": [],
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000"
+            },
+            {
+                "name": "Barrier Level 3",
+                "sections": [
+                    {
+                        "name": "Barrier Level 3 - African Buffalo - Conservation Release",
+                        "ref": "Barrier Level 3//African Buffalo - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - African Buffalo - First Acquisition",
+                        "ref": "Barrier Level 3//African Buffalo - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - African Buffalo - First Breeding",
+                        "ref": "Barrier Level 3//African Buffalo - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - African Buffalo - Research Welfare 1",
+                        "ref": "Barrier Level 3//African Buffalo - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - African Buffalo - Research Welfare 2",
+                        "ref": "Barrier Level 3//African Buffalo - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - African Buffalo - Research Welfare 3",
+                        "ref": "Barrier Level 3//African Buffalo - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - African Buffalo - Research Welfare 4",
+                        "ref": "Barrier Level 3//African Buffalo - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - African Buffalo - Research Welfare 5",
+                        "ref": "Barrier Level 3//African Buffalo - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - African Buffalo - Research Welfare 6",
+                        "ref": "Barrier Level 3//African Buffalo - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - African Leopard - Conservation Release",
+                        "ref": "Barrier Level 3//African Leopard - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - African Leopard - First Acquisition",
+                        "ref": "Barrier Level 3//African Leopard - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - African Leopard - First Breeding",
+                        "ref": "Barrier Level 3//African Leopard - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - African Leopard - Research Welfare 1",
+                        "ref": "Barrier Level 3//African Leopard - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - African Leopard - Research Welfare 2",
+                        "ref": "Barrier Level 3//African Leopard - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - African Leopard - Research Welfare 3",
+                        "ref": "Barrier Level 3//African Leopard - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - African Leopard - Research Welfare 4",
+                        "ref": "Barrier Level 3//African Leopard - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - African Leopard - Research Welfare 5",
+                        "ref": "Barrier Level 3//African Leopard - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - African Leopard - Research Welfare 6",
+                        "ref": "Barrier Level 3//African Leopard - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - American Bison - Conservation Release",
+                        "ref": "Barrier Level 3//American Bison - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - American Bison - First Acquisition",
+                        "ref": "Barrier Level 3//American Bison - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - American Bison - First Breeding",
+                        "ref": "Barrier Level 3//American Bison - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - American Bison - Research Welfare 1",
+                        "ref": "Barrier Level 3//American Bison - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - American Bison - Research Welfare 2",
+                        "ref": "Barrier Level 3//American Bison - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - American Bison - Research Welfare 3",
+                        "ref": "Barrier Level 3//American Bison - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - American Bison - Research Welfare 4",
+                        "ref": "Barrier Level 3//American Bison - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - American Bison - Research Welfare 5",
+                        "ref": "Barrier Level 3//American Bison - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - American Bison - Research Welfare 6",
+                        "ref": "Barrier Level 3//American Bison - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bengal Tiger - Conservation Release",
+                        "ref": "Barrier Level 3//Bengal Tiger - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bengal Tiger - First Acquisition",
+                        "ref": "Barrier Level 3//Bengal Tiger - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bengal Tiger - First Breeding",
+                        "ref": "Barrier Level 3//Bengal Tiger - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bengal Tiger - Research Welfare 1",
+                        "ref": "Barrier Level 3//Bengal Tiger - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bengal Tiger - Research Welfare 2",
+                        "ref": "Barrier Level 3//Bengal Tiger - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bengal Tiger - Research Welfare 3",
+                        "ref": "Barrier Level 3//Bengal Tiger - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bengal Tiger - Research Welfare 4",
+                        "ref": "Barrier Level 3//Bengal Tiger - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bengal Tiger - Research Welfare 5",
+                        "ref": "Barrier Level 3//Bengal Tiger - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bengal Tiger - Research Welfare 6",
+                        "ref": "Barrier Level 3//Bengal Tiger - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bonobo - Conservation Release",
+                        "ref": "Barrier Level 3//Bonobo - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bonobo - First Acquisition",
+                        "ref": "Barrier Level 3//Bonobo - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bonobo - First Breeding",
+                        "ref": "Barrier Level 3//Bonobo - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bonobo - Research Welfare 1",
+                        "ref": "Barrier Level 3//Bonobo - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bonobo - Research Welfare 2",
+                        "ref": "Barrier Level 3//Bonobo - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bonobo - Research Welfare 3",
+                        "ref": "Barrier Level 3//Bonobo - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bonobo - Research Welfare 4",
+                        "ref": "Barrier Level 3//Bonobo - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bonobo - Research Welfare 5",
+                        "ref": "Barrier Level 3//Bonobo - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bonobo - Research Welfare 6",
+                        "ref": "Barrier Level 3//Bonobo - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bornean Orangutan - Conservation Release",
+                        "ref": "Barrier Level 3//Bornean Orangutan - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bornean Orangutan - First Acquisition",
+                        "ref": "Barrier Level 3//Bornean Orangutan - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bornean Orangutan - First Breeding",
+                        "ref": "Barrier Level 3//Bornean Orangutan - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bornean Orangutan - Research Welfare 1",
+                        "ref": "Barrier Level 3//Bornean Orangutan - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bornean Orangutan - Research Welfare 2",
+                        "ref": "Barrier Level 3//Bornean Orangutan - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bornean Orangutan - Research Welfare 3",
+                        "ref": "Barrier Level 3//Bornean Orangutan - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bornean Orangutan - Research Welfare 4",
+                        "ref": "Barrier Level 3//Bornean Orangutan - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bornean Orangutan - Research Welfare 5",
+                        "ref": "Barrier Level 3//Bornean Orangutan - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Bornean Orangutan - Research Welfare 6",
+                        "ref": "Barrier Level 3//Bornean Orangutan - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Reticulated Giraffe - Conservation Release",
+                        "ref": "Barrier Level 3//Reticulated Giraffe - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Reticulated Giraffe - First Acquisition",
+                        "ref": "Barrier Level 3//Reticulated Giraffe - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Reticulated Giraffe - First Breeding",
+                        "ref": "Barrier Level 3//Reticulated Giraffe - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Reticulated Giraffe - Research Welfare 1",
+                        "ref": "Barrier Level 3//Reticulated Giraffe - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Reticulated Giraffe - Research Welfare 2",
+                        "ref": "Barrier Level 3//Reticulated Giraffe - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Reticulated Giraffe - Research Welfare 3",
+                        "ref": "Barrier Level 3//Reticulated Giraffe - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Reticulated Giraffe - Research Welfare 4",
+                        "ref": "Barrier Level 3//Reticulated Giraffe - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Reticulated Giraffe - Research Welfare 5",
+                        "ref": "Barrier Level 3//Reticulated Giraffe - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Reticulated Giraffe - Research Welfare 6",
+                        "ref": "Barrier Level 3//Reticulated Giraffe - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Siberian Tiger - Conservation Release",
+                        "ref": "Barrier Level 3//Siberian Tiger - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Siberian Tiger - First Acquisition",
+                        "ref": "Barrier Level 3//Siberian Tiger - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Siberian Tiger - First Breeding",
+                        "ref": "Barrier Level 3//Siberian Tiger - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Siberian Tiger - Research Welfare 1",
+                        "ref": "Barrier Level 3//Siberian Tiger - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Siberian Tiger - Research Welfare 2",
+                        "ref": "Barrier Level 3//Siberian Tiger - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Siberian Tiger - Research Welfare 3",
+                        "ref": "Barrier Level 3//Siberian Tiger - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Siberian Tiger - Research Welfare 4",
+                        "ref": "Barrier Level 3//Siberian Tiger - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Siberian Tiger - Research Welfare 5",
+                        "ref": "Barrier Level 3//Siberian Tiger - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Siberian Tiger - Research Welfare 6",
+                        "ref": "Barrier Level 3//Siberian Tiger - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - West African Lion - Conservation Release",
+                        "ref": "Barrier Level 3//West African Lion - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - West African Lion - First Acquisition",
+                        "ref": "Barrier Level 3//West African Lion - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - West African Lion - First Breeding",
+                        "ref": "Barrier Level 3//West African Lion - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - West African Lion - Research Welfare 1",
+                        "ref": "Barrier Level 3//West African Lion - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - West African Lion - Research Welfare 2",
+                        "ref": "Barrier Level 3//West African Lion - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - West African Lion - Research Welfare 3",
+                        "ref": "Barrier Level 3//West African Lion - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - West African Lion - Research Welfare 4",
+                        "ref": "Barrier Level 3//West African Lion - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - West African Lion - Research Welfare 5",
+                        "ref": "Barrier Level 3//West African Lion - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - West African Lion - Research Welfare 6",
+                        "ref": "Barrier Level 3//West African Lion - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Western Chimpanzee - Conservation Release",
+                        "ref": "Barrier Level 3//Western Chimpanzee - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Western Chimpanzee - First Acquisition",
+                        "ref": "Barrier Level 3//Western Chimpanzee - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Western Chimpanzee - First Breeding",
+                        "ref": "Barrier Level 3//Western Chimpanzee - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Western Chimpanzee - Research Welfare 1",
+                        "ref": "Barrier Level 3//Western Chimpanzee - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Western Chimpanzee - Research Welfare 2",
+                        "ref": "Barrier Level 3//Western Chimpanzee - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Western Chimpanzee - Research Welfare 3",
+                        "ref": "Barrier Level 3//Western Chimpanzee - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Western Chimpanzee - Research Welfare 4",
+                        "ref": "Barrier Level 3//Western Chimpanzee - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Western Chimpanzee - Research Welfare 5",
+                        "ref": "Barrier Level 3//Western Chimpanzee - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Western Chimpanzee - Research Welfare 6",
+                        "ref": "Barrier Level 3//Western Chimpanzee - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Western Lowland Gorilla - Conservation Release",
+                        "ref": "Barrier Level 3//Western Lowland Gorilla - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Western Lowland Gorilla - First Acquisition",
+                        "ref": "Barrier Level 3//Western Lowland Gorilla - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Western Lowland Gorilla - First Breeding",
+                        "ref": "Barrier Level 3//Western Lowland Gorilla - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Western Lowland Gorilla - Research Welfare 1",
+                        "ref": "Barrier Level 3//Western Lowland Gorilla - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Western Lowland Gorilla - Research Welfare 2",
+                        "ref": "Barrier Level 3//Western Lowland Gorilla - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Western Lowland Gorilla - Research Welfare 3",
+                        "ref": "Barrier Level 3//Western Lowland Gorilla - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Western Lowland Gorilla - Research Welfare 4",
+                        "ref": "Barrier Level 3//Western Lowland Gorilla - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Western Lowland Gorilla - Research Welfare 5",
+                        "ref": "Barrier Level 3//Western Lowland Gorilla - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 3 - Western Lowland Gorilla - Research Welfare 6",
+                        "ref": "Barrier Level 3//Western Lowland Gorilla - Research Welfare 6/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 504,
+                        "y": 330,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ],
+                "access_rules": [],
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000"
+            },
+            {
+                "name": "Barrier Level 4",
+                "sections": [
+                    {
+                        "name": "Barrier Level 4 - African Savannah Elephant - Conservation Release",
+                        "ref": "Barrier Level 4//African Savannah Elephant - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - African Savannah Elephant - First Acquisition",
+                        "ref": "Barrier Level 4//African Savannah Elephant - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - African Savannah Elephant - First Breeding",
+                        "ref": "Barrier Level 4//African Savannah Elephant - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - African Savannah Elephant - Research Welfare 1",
+                        "ref": "Barrier Level 4//African Savannah Elephant - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - African Savannah Elephant - Research Welfare 2",
+                        "ref": "Barrier Level 4//African Savannah Elephant - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - African Savannah Elephant - Research Welfare 3",
+                        "ref": "Barrier Level 4//African Savannah Elephant - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - African Savannah Elephant - Research Welfare 4",
+                        "ref": "Barrier Level 4//African Savannah Elephant - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - African Savannah Elephant - Research Welfare 5",
+                        "ref": "Barrier Level 4//African Savannah Elephant - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - African Savannah Elephant - Research Welfare 6",
+                        "ref": "Barrier Level 4//African Savannah Elephant - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Formosan Black Bear - Conservation Release",
+                        "ref": "Barrier Level 4//Formosan Black Bear - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Formosan Black Bear - First Acquisition",
+                        "ref": "Barrier Level 4//Formosan Black Bear - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Formosan Black Bear - First Breeding",
+                        "ref": "Barrier Level 4//Formosan Black Bear - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Formosan Black Bear - Research Welfare 1",
+                        "ref": "Barrier Level 4//Formosan Black Bear - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Formosan Black Bear - Research Welfare 2",
+                        "ref": "Barrier Level 4//Formosan Black Bear - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Formosan Black Bear - Research Welfare 3",
+                        "ref": "Barrier Level 4//Formosan Black Bear - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Formosan Black Bear - Research Welfare 4",
+                        "ref": "Barrier Level 4//Formosan Black Bear - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Formosan Black Bear - Research Welfare 5",
+                        "ref": "Barrier Level 4//Formosan Black Bear - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Formosan Black Bear - Research Welfare 6",
+                        "ref": "Barrier Level 4//Formosan Black Bear - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Giant Panda - Conservation Release",
+                        "ref": "Barrier Level 4//Giant Panda - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Giant Panda - First Acquisition",
+                        "ref": "Barrier Level 4//Giant Panda - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Giant Panda - First Breeding",
+                        "ref": "Barrier Level 4//Giant Panda - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Giant Panda - Research Welfare 1",
+                        "ref": "Barrier Level 4//Giant Panda - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Giant Panda - Research Welfare 2",
+                        "ref": "Barrier Level 4//Giant Panda - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Giant Panda - Research Welfare 3",
+                        "ref": "Barrier Level 4//Giant Panda - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Giant Panda - Research Welfare 4",
+                        "ref": "Barrier Level 4//Giant Panda - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Giant Panda - Research Welfare 5",
+                        "ref": "Barrier Level 4//Giant Panda - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Giant Panda - Research Welfare 6",
+                        "ref": "Barrier Level 4//Giant Panda - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Grizzly Bear - Conservation Release",
+                        "ref": "Barrier Level 4//Grizzly Bear - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Grizzly Bear - First Acquisition",
+                        "ref": "Barrier Level 4//Grizzly Bear - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Grizzly Bear - First Breeding",
+                        "ref": "Barrier Level 4//Grizzly Bear - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Grizzly Bear - Research Welfare 1",
+                        "ref": "Barrier Level 4//Grizzly Bear - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Grizzly Bear - Research Welfare 2",
+                        "ref": "Barrier Level 4//Grizzly Bear - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Grizzly Bear - Research Welfare 3",
+                        "ref": "Barrier Level 4//Grizzly Bear - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Grizzly Bear - Research Welfare 4",
+                        "ref": "Barrier Level 4//Grizzly Bear - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Grizzly Bear - Research Welfare 5",
+                        "ref": "Barrier Level 4//Grizzly Bear - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Grizzly Bear - Research Welfare 6",
+                        "ref": "Barrier Level 4//Grizzly Bear - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Himalayan Brown Bear - Conservation Release",
+                        "ref": "Barrier Level 4//Himalayan Brown Bear - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Himalayan Brown Bear - First Acquisition",
+                        "ref": "Barrier Level 4//Himalayan Brown Bear - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Himalayan Brown Bear - First Breeding",
+                        "ref": "Barrier Level 4//Himalayan Brown Bear - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Himalayan Brown Bear - Research Welfare 1",
+                        "ref": "Barrier Level 4//Himalayan Brown Bear - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Himalayan Brown Bear - Research Welfare 2",
+                        "ref": "Barrier Level 4//Himalayan Brown Bear - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Himalayan Brown Bear - Research Welfare 3",
+                        "ref": "Barrier Level 4//Himalayan Brown Bear - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Himalayan Brown Bear - Research Welfare 4",
+                        "ref": "Barrier Level 4//Himalayan Brown Bear - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Himalayan Brown Bear - Research Welfare 5",
+                        "ref": "Barrier Level 4//Himalayan Brown Bear - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Himalayan Brown Bear - Research Welfare 6",
+                        "ref": "Barrier Level 4//Himalayan Brown Bear - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Hippopotamus - Conservation Release",
+                        "ref": "Barrier Level 4//Hippopotamus - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Hippopotamus - First Acquisition",
+                        "ref": "Barrier Level 4//Hippopotamus - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Hippopotamus - First Breeding",
+                        "ref": "Barrier Level 4//Hippopotamus - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Hippopotamus - Research Welfare 1",
+                        "ref": "Barrier Level 4//Hippopotamus - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Hippopotamus - Research Welfare 2",
+                        "ref": "Barrier Level 4//Hippopotamus - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Hippopotamus - Research Welfare 3",
+                        "ref": "Barrier Level 4//Hippopotamus - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Hippopotamus - Research Welfare 4",
+                        "ref": "Barrier Level 4//Hippopotamus - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Hippopotamus - Research Welfare 5",
+                        "ref": "Barrier Level 4//Hippopotamus - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Hippopotamus - Research Welfare 6",
+                        "ref": "Barrier Level 4//Hippopotamus - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Indian Elephant - Conservation Release",
+                        "ref": "Barrier Level 4//Indian Elephant - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Indian Elephant - First Acquisition",
+                        "ref": "Barrier Level 4//Indian Elephant - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Indian Elephant - First Breeding",
+                        "ref": "Barrier Level 4//Indian Elephant - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Indian Elephant - Research Welfare 1",
+                        "ref": "Barrier Level 4//Indian Elephant - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Indian Elephant - Research Welfare 2",
+                        "ref": "Barrier Level 4//Indian Elephant - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Indian Elephant - Research Welfare 3",
+                        "ref": "Barrier Level 4//Indian Elephant - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Indian Elephant - Research Welfare 4",
+                        "ref": "Barrier Level 4//Indian Elephant - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Indian Elephant - Research Welfare 5",
+                        "ref": "Barrier Level 4//Indian Elephant - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Indian Elephant - Research Welfare 6",
+                        "ref": "Barrier Level 4//Indian Elephant - Research Welfare 6/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Indian Rhinoceros - Conservation Release",
+                        "ref": "Barrier Level 4//Indian Rhinoceros - Conservation Release/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Indian Rhinoceros - First Acquisition",
+                        "ref": "Barrier Level 4//Indian Rhinoceros - First Acquisition/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Indian Rhinoceros - First Breeding",
+                        "ref": "Barrier Level 4//Indian Rhinoceros - First Breeding/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Indian Rhinoceros - Research Welfare 1",
+                        "ref": "Barrier Level 4//Indian Rhinoceros - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Indian Rhinoceros - Research Welfare 2",
+                        "ref": "Barrier Level 4//Indian Rhinoceros - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Indian Rhinoceros - Research Welfare 3",
+                        "ref": "Barrier Level 4//Indian Rhinoceros - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Indian Rhinoceros - Research Welfare 4",
+                        "ref": "Barrier Level 4//Indian Rhinoceros - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Indian Rhinoceros - Research Welfare 5",
+                        "ref": "Barrier Level 4//Indian Rhinoceros - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Barrier Level 4 - Indian Rhinoceros - Research Welfare 6",
+                        "ref": "Barrier Level 4//Indian Rhinoceros - Research Welfare 6/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 507,
+                        "y": 399,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ],
+                "access_rules": [],
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000"
+            },
+            {
+                "name": "Exhibits",
+                "sections": [
+                    {
+                        "name": "Exhibits - Amazonian Giant Centipede - Conservation Release",
+                        "ref": "Exhibits//Amazonian Giant Centipede - Conservation Release/"
+                    },
+                    {
+                        "name": "Exhibits - Amazonian Giant Centipede - First Acquisition",
+                        "ref": "Exhibits//Amazonian Giant Centipede - First Acquisition/"
+                    },
+                    {
+                        "name": "Exhibits - Amazonian Giant Centipede - First Breeding",
+                        "ref": "Exhibits//Amazonian Giant Centipede - First Breeding/"
+                    },
+                    {
+                        "name": "Exhibits - Amazonian Giant Centipede - Research Welfare 1",
+                        "ref": "Exhibits//Amazonian Giant Centipede - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Exhibits - Amazonian Giant Centipede - Research Welfare 2",
+                        "ref": "Exhibits//Amazonian Giant Centipede - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Exhibits - Amazonian Giant Centipede - Research Welfare 3",
+                        "ref": "Exhibits//Amazonian Giant Centipede - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Exhibits - Amazonian Giant Centipede - Research Welfare 4",
+                        "ref": "Exhibits//Amazonian Giant Centipede - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Exhibits - Amazonian Giant Centipede - Research Welfare 5",
+                        "ref": "Exhibits//Amazonian Giant Centipede - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Exhibits - Boa Constrictor - Conservation Release",
+                        "ref": "Exhibits//Boa Constrictor - Conservation Release/"
+                    },
+                    {
+                        "name": "Exhibits - Boa Constrictor - First Acquisition",
+                        "ref": "Exhibits//Boa Constrictor - First Acquisition/"
+                    },
+                    {
+                        "name": "Exhibits - Boa Constrictor - First Breeding",
+                        "ref": "Exhibits//Boa Constrictor - First Breeding/"
+                    },
+                    {
+                        "name": "Exhibits - Boa Constrictor - Research Welfare 1",
+                        "ref": "Exhibits//Boa Constrictor - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Exhibits - Boa Constrictor - Research Welfare 2",
+                        "ref": "Exhibits//Boa Constrictor - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Exhibits - Boa Constrictor - Research Welfare 3",
+                        "ref": "Exhibits//Boa Constrictor - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Exhibits - Boa Constrictor - Research Welfare 4",
+                        "ref": "Exhibits//Boa Constrictor - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Exhibits - Boa Constrictor - Research Welfare 5",
+                        "ref": "Exhibits//Boa Constrictor - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Exhibits - Brazilian Salmon Pink Tarantula - Conservation Release",
+                        "ref": "Exhibits//Brazilian Salmon Pink Tarantula - Conservation Release/"
+                    },
+                    {
+                        "name": "Exhibits - Brazilian Salmon Pink Tarantula - First Acquisition",
+                        "ref": "Exhibits//Brazilian Salmon Pink Tarantula - First Acquisition/"
+                    },
+                    {
+                        "name": "Exhibits - Brazilian Salmon Pink Tarantula - First Breeding",
+                        "ref": "Exhibits//Brazilian Salmon Pink Tarantula - First Breeding/"
+                    },
+                    {
+                        "name": "Exhibits - Brazilian Salmon Pink Tarantula - Research Welfare 1",
+                        "ref": "Exhibits//Brazilian Salmon Pink Tarantula - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Exhibits - Brazilian Salmon Pink Tarantula - Research Welfare 2",
+                        "ref": "Exhibits//Brazilian Salmon Pink Tarantula - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Exhibits - Brazilian Salmon Pink Tarantula - Research Welfare 3",
+                        "ref": "Exhibits//Brazilian Salmon Pink Tarantula - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Exhibits - Brazilian Salmon Pink Tarantula - Research Welfare 4",
+                        "ref": "Exhibits//Brazilian Salmon Pink Tarantula - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Exhibits - Brazilian Salmon Pink Tarantula - Research Welfare 5",
+                        "ref": "Exhibits//Brazilian Salmon Pink Tarantula - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Exhibits - Brazilian Wandering Spider - Conservation Release",
+                        "ref": "Exhibits//Brazilian Wandering Spider - Conservation Release/"
+                    },
+                    {
+                        "name": "Exhibits - Brazilian Wandering Spider - First Acquisition",
+                        "ref": "Exhibits//Brazilian Wandering Spider - First Acquisition/"
+                    },
+                    {
+                        "name": "Exhibits - Brazilian Wandering Spider - First Breeding",
+                        "ref": "Exhibits//Brazilian Wandering Spider - First Breeding/"
+                    },
+                    {
+                        "name": "Exhibits - Brazilian Wandering Spider - Research Welfare 1",
+                        "ref": "Exhibits//Brazilian Wandering Spider - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Exhibits - Brazilian Wandering Spider - Research Welfare 2",
+                        "ref": "Exhibits//Brazilian Wandering Spider - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Exhibits - Brazilian Wandering Spider - Research Welfare 3",
+                        "ref": "Exhibits//Brazilian Wandering Spider - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Exhibits - Brazilian Wandering Spider - Research Welfare 4",
+                        "ref": "Exhibits//Brazilian Wandering Spider - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Exhibits - Brazilian Wandering Spider - Research Welfare 5",
+                        "ref": "Exhibits//Brazilian Wandering Spider - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Exhibits - Common Death Adder - Conservation Release",
+                        "ref": "Exhibits//Common Death Adder - Conservation Release/"
+                    },
+                    {
+                        "name": "Exhibits - Common Death Adder - First Acquisition",
+                        "ref": "Exhibits//Common Death Adder - First Acquisition/"
+                    },
+                    {
+                        "name": "Exhibits - Common Death Adder - First Breeding",
+                        "ref": "Exhibits//Common Death Adder - First Breeding/"
+                    },
+                    {
+                        "name": "Exhibits - Common Death Adder - Research Welfare 1",
+                        "ref": "Exhibits//Common Death Adder - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Exhibits - Common Death Adder - Research Welfare 2",
+                        "ref": "Exhibits//Common Death Adder - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Exhibits - Common Death Adder - Research Welfare 3",
+                        "ref": "Exhibits//Common Death Adder - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Exhibits - Common Death Adder - Research Welfare 4",
+                        "ref": "Exhibits//Common Death Adder - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Exhibits - Common Death Adder - Research Welfare 5",
+                        "ref": "Exhibits//Common Death Adder - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Exhibits - Eastern Brown Snake - Conservation Release",
+                        "ref": "Exhibits//Eastern Brown Snake - Conservation Release/"
+                    },
+                    {
+                        "name": "Exhibits - Eastern Brown Snake - First Acquisition",
+                        "ref": "Exhibits//Eastern Brown Snake - First Acquisition/"
+                    },
+                    {
+                        "name": "Exhibits - Eastern Brown Snake - First Breeding",
+                        "ref": "Exhibits//Eastern Brown Snake - First Breeding/"
+                    },
+                    {
+                        "name": "Exhibits - Eastern Brown Snake - Research Welfare 1",
+                        "ref": "Exhibits//Eastern Brown Snake - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Exhibits - Eastern Brown Snake - Research Welfare 2",
+                        "ref": "Exhibits//Eastern Brown Snake - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Exhibits - Eastern Brown Snake - Research Welfare 3",
+                        "ref": "Exhibits//Eastern Brown Snake - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Exhibits - Eastern Brown Snake - Research Welfare 4",
+                        "ref": "Exhibits//Eastern Brown Snake - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Exhibits - Eastern Brown Snake - Research Welfare 5",
+                        "ref": "Exhibits//Eastern Brown Snake - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Burrowing Cockroach - Conservation Release",
+                        "ref": "Exhibits//Giant Burrowing Cockroach - Conservation Release/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Burrowing Cockroach - First Acquisition",
+                        "ref": "Exhibits//Giant Burrowing Cockroach - First Acquisition/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Burrowing Cockroach - First Breeding",
+                        "ref": "Exhibits//Giant Burrowing Cockroach - First Breeding/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Burrowing Cockroach - Research Welfare 1",
+                        "ref": "Exhibits//Giant Burrowing Cockroach - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Burrowing Cockroach - Research Welfare 2",
+                        "ref": "Exhibits//Giant Burrowing Cockroach - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Burrowing Cockroach - Research Welfare 3",
+                        "ref": "Exhibits//Giant Burrowing Cockroach - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Burrowing Cockroach - Research Welfare 4",
+                        "ref": "Exhibits//Giant Burrowing Cockroach - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Burrowing Cockroach - Research Welfare 5",
+                        "ref": "Exhibits//Giant Burrowing Cockroach - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Desert Hairy Scorpion - Conservation Release",
+                        "ref": "Exhibits//Giant Desert Hairy Scorpion - Conservation Release/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Desert Hairy Scorpion - First Acquisition",
+                        "ref": "Exhibits//Giant Desert Hairy Scorpion - First Acquisition/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Desert Hairy Scorpion - First Breeding",
+                        "ref": "Exhibits//Giant Desert Hairy Scorpion - First Breeding/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Desert Hairy Scorpion - Research Welfare 1",
+                        "ref": "Exhibits//Giant Desert Hairy Scorpion - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Desert Hairy Scorpion - Research Welfare 2",
+                        "ref": "Exhibits//Giant Desert Hairy Scorpion - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Desert Hairy Scorpion - Research Welfare 3",
+                        "ref": "Exhibits//Giant Desert Hairy Scorpion - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Desert Hairy Scorpion - Research Welfare 4",
+                        "ref": "Exhibits//Giant Desert Hairy Scorpion - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Desert Hairy Scorpion - Research Welfare 5",
+                        "ref": "Exhibits//Giant Desert Hairy Scorpion - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Forest Scorpion - Conservation Release",
+                        "ref": "Exhibits//Giant Forest Scorpion - Conservation Release/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Forest Scorpion - First Acquisition",
+                        "ref": "Exhibits//Giant Forest Scorpion - First Acquisition/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Forest Scorpion - First Breeding",
+                        "ref": "Exhibits//Giant Forest Scorpion - First Breeding/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Forest Scorpion - Research Welfare 1",
+                        "ref": "Exhibits//Giant Forest Scorpion - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Forest Scorpion - Research Welfare 2",
+                        "ref": "Exhibits//Giant Forest Scorpion - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Forest Scorpion - Research Welfare 3",
+                        "ref": "Exhibits//Giant Forest Scorpion - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Forest Scorpion - Research Welfare 4",
+                        "ref": "Exhibits//Giant Forest Scorpion - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Forest Scorpion - Research Welfare 5",
+                        "ref": "Exhibits//Giant Forest Scorpion - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Tiger Land Snail - Conservation Release",
+                        "ref": "Exhibits//Giant Tiger Land Snail - Conservation Release/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Tiger Land Snail - First Acquisition",
+                        "ref": "Exhibits//Giant Tiger Land Snail - First Acquisition/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Tiger Land Snail - First Breeding",
+                        "ref": "Exhibits//Giant Tiger Land Snail - First Breeding/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Tiger Land Snail - Research Welfare 1",
+                        "ref": "Exhibits//Giant Tiger Land Snail - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Tiger Land Snail - Research Welfare 2",
+                        "ref": "Exhibits//Giant Tiger Land Snail - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Tiger Land Snail - Research Welfare 3",
+                        "ref": "Exhibits//Giant Tiger Land Snail - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Tiger Land Snail - Research Welfare 4",
+                        "ref": "Exhibits//Giant Tiger Land Snail - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Exhibits - Giant Tiger Land Snail - Research Welfare 5",
+                        "ref": "Exhibits//Giant Tiger Land Snail - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Exhibits - Gila Monster - Conservation Release",
+                        "ref": "Exhibits//Gila Monster - Conservation Release/"
+                    },
+                    {
+                        "name": "Exhibits - Gila Monster - First Acquisition",
+                        "ref": "Exhibits//Gila Monster - First Acquisition/"
+                    },
+                    {
+                        "name": "Exhibits - Gila Monster - First Breeding",
+                        "ref": "Exhibits//Gila Monster - First Breeding/"
+                    },
+                    {
+                        "name": "Exhibits - Gila Monster - Research Welfare 1",
+                        "ref": "Exhibits//Gila Monster - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Exhibits - Gila Monster - Research Welfare 2",
+                        "ref": "Exhibits//Gila Monster - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Exhibits - Gila Monster - Research Welfare 3",
+                        "ref": "Exhibits//Gila Monster - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Exhibits - Gila Monster - Research Welfare 4",
+                        "ref": "Exhibits//Gila Monster - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Exhibits - Gila Monster - Research Welfare 5",
+                        "ref": "Exhibits//Gila Monster - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Exhibits - Golden Poison Frog - Conservation Release",
+                        "ref": "Exhibits//Golden Poison Frog - Conservation Release/"
+                    },
+                    {
+                        "name": "Exhibits - Golden Poison Frog - First Acquisition",
+                        "ref": "Exhibits//Golden Poison Frog - First Acquisition/"
+                    },
+                    {
+                        "name": "Exhibits - Golden Poison Frog - First Breeding",
+                        "ref": "Exhibits//Golden Poison Frog - First Breeding/"
+                    },
+                    {
+                        "name": "Exhibits - Golden Poison Frog - Research Welfare 1",
+                        "ref": "Exhibits//Golden Poison Frog - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Exhibits - Golden Poison Frog - Research Welfare 2",
+                        "ref": "Exhibits//Golden Poison Frog - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Exhibits - Golden Poison Frog - Research Welfare 3",
+                        "ref": "Exhibits//Golden Poison Frog - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Exhibits - Golden Poison Frog - Research Welfare 4",
+                        "ref": "Exhibits//Golden Poison Frog - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Exhibits - Golden Poison Frog - Research Welfare 5",
+                        "ref": "Exhibits//Golden Poison Frog - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Exhibits - Goliath Beetle - Conservation Release",
+                        "ref": "Exhibits//Goliath Beetle - Conservation Release/"
+                    },
+                    {
+                        "name": "Exhibits - Goliath Beetle - First Acquisition",
+                        "ref": "Exhibits//Goliath Beetle - First Acquisition/"
+                    },
+                    {
+                        "name": "Exhibits - Goliath Beetle - First Breeding",
+                        "ref": "Exhibits//Goliath Beetle - First Breeding/"
+                    },
+                    {
+                        "name": "Exhibits - Goliath Beetle - Research Welfare 1",
+                        "ref": "Exhibits//Goliath Beetle - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Exhibits - Goliath Beetle - Research Welfare 2",
+                        "ref": "Exhibits//Goliath Beetle - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Exhibits - Goliath Beetle - Research Welfare 3",
+                        "ref": "Exhibits//Goliath Beetle - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Exhibits - Goliath Beetle - Research Welfare 4",
+                        "ref": "Exhibits//Goliath Beetle - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Exhibits - Goliath Beetle - Research Welfare 5",
+                        "ref": "Exhibits//Goliath Beetle - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Exhibits - Goliath Birdeater - Conservation Release",
+                        "ref": "Exhibits//Goliath Birdeater - Conservation Release/"
+                    },
+                    {
+                        "name": "Exhibits - Goliath Birdeater - First Acquisition",
+                        "ref": "Exhibits//Goliath Birdeater - First Acquisition/"
+                    },
+                    {
+                        "name": "Exhibits - Goliath Birdeater - First Breeding",
+                        "ref": "Exhibits//Goliath Birdeater - First Breeding/"
+                    },
+                    {
+                        "name": "Exhibits - Goliath Birdeater - Research Welfare 1",
+                        "ref": "Exhibits//Goliath Birdeater - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Exhibits - Goliath Birdeater - Research Welfare 2",
+                        "ref": "Exhibits//Goliath Birdeater - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Exhibits - Goliath Birdeater - Research Welfare 3",
+                        "ref": "Exhibits//Goliath Birdeater - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Exhibits - Goliath Birdeater - Research Welfare 4",
+                        "ref": "Exhibits//Goliath Birdeater - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Exhibits - Goliath Birdeater - Research Welfare 5",
+                        "ref": "Exhibits//Goliath Birdeater - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Exhibits - Goliath Frog - Conservation Release",
+                        "ref": "Exhibits//Goliath Frog - Conservation Release/"
+                    },
+                    {
+                        "name": "Exhibits - Goliath Frog - First Acquisition",
+                        "ref": "Exhibits//Goliath Frog - First Acquisition/"
+                    },
+                    {
+                        "name": "Exhibits - Goliath Frog - First Breeding",
+                        "ref": "Exhibits//Goliath Frog - First Breeding/"
+                    },
+                    {
+                        "name": "Exhibits - Goliath Frog - Research Welfare 1",
+                        "ref": "Exhibits//Goliath Frog - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Exhibits - Goliath Frog - Research Welfare 2",
+                        "ref": "Exhibits//Goliath Frog - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Exhibits - Goliath Frog - Research Welfare 3",
+                        "ref": "Exhibits//Goliath Frog - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Exhibits - Goliath Frog - Research Welfare 4",
+                        "ref": "Exhibits//Goliath Frog - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Exhibits - Goliath Frog - Research Welfare 5",
+                        "ref": "Exhibits//Goliath Frog - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Exhibits - Green Iguana - Conservation Release",
+                        "ref": "Exhibits//Green Iguana - Conservation Release/"
+                    },
+                    {
+                        "name": "Exhibits - Green Iguana - First Acquisition",
+                        "ref": "Exhibits//Green Iguana - First Acquisition/"
+                    },
+                    {
+                        "name": "Exhibits - Green Iguana - First Breeding",
+                        "ref": "Exhibits//Green Iguana - First Breeding/"
+                    },
+                    {
+                        "name": "Exhibits - Green Iguana - Research Welfare 1",
+                        "ref": "Exhibits//Green Iguana - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Exhibits - Green Iguana - Research Welfare 2",
+                        "ref": "Exhibits//Green Iguana - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Exhibits - Green Iguana - Research Welfare 3",
+                        "ref": "Exhibits//Green Iguana - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Exhibits - Green Iguana - Research Welfare 4",
+                        "ref": "Exhibits//Green Iguana - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Exhibits - Green Iguana - Research Welfare 5",
+                        "ref": "Exhibits//Green Iguana - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Exhibits - Lehmann Poison Frog - Conservation Release",
+                        "ref": "Exhibits//Lehmann Poison Frog - Conservation Release/"
+                    },
+                    {
+                        "name": "Exhibits - Lehmann Poison Frog - First Acquisition",
+                        "ref": "Exhibits//Lehmann Poison Frog - First Acquisition/"
+                    },
+                    {
+                        "name": "Exhibits - Lehmann Poison Frog - First Breeding",
+                        "ref": "Exhibits//Lehmann Poison Frog - First Breeding/"
+                    },
+                    {
+                        "name": "Exhibits - Lehmann Poison Frog - Research Welfare 1",
+                        "ref": "Exhibits//Lehmann Poison Frog - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Exhibits - Lehmann Poison Frog - Research Welfare 2",
+                        "ref": "Exhibits//Lehmann Poison Frog - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Exhibits - Lehmann Poison Frog - Research Welfare 3",
+                        "ref": "Exhibits//Lehmann Poison Frog - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Exhibits - Lehmann Poison Frog - Research Welfare 4",
+                        "ref": "Exhibits//Lehmann Poison Frog - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Exhibits - Lehmann Poison Frog - Research Welfare 5",
+                        "ref": "Exhibits//Lehmann Poison Frog - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Exhibits - Lesser Antillean Iguana - Conservation Release",
+                        "ref": "Exhibits//Lesser Antillean Iguana - Conservation Release/"
+                    },
+                    {
+                        "name": "Exhibits - Lesser Antillean Iguana - First Acquisition",
+                        "ref": "Exhibits//Lesser Antillean Iguana - First Acquisition/"
+                    },
+                    {
+                        "name": "Exhibits - Lesser Antillean Iguana - First Breeding",
+                        "ref": "Exhibits//Lesser Antillean Iguana - First Breeding/"
+                    },
+                    {
+                        "name": "Exhibits - Lesser Antillean Iguana - Research Welfare 1",
+                        "ref": "Exhibits//Lesser Antillean Iguana - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Exhibits - Lesser Antillean Iguana - Research Welfare 2",
+                        "ref": "Exhibits//Lesser Antillean Iguana - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Exhibits - Lesser Antillean Iguana - Research Welfare 3",
+                        "ref": "Exhibits//Lesser Antillean Iguana - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Exhibits - Lesser Antillean Iguana - Research Welfare 4",
+                        "ref": "Exhibits//Lesser Antillean Iguana - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Exhibits - Lesser Antillean Iguana - Research Welfare 5",
+                        "ref": "Exhibits//Lesser Antillean Iguana - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Exhibits - Malabar Rose - Conservation Release",
+                        "ref": "Exhibits//Malabar Rose - Conservation Release/"
+                    },
+                    {
+                        "name": "Exhibits - Malabar Rose - First Acquisition",
+                        "ref": "Exhibits//Malabar Rose - First Acquisition/"
+                    },
+                    {
+                        "name": "Exhibits - Malabar Rose - First Breeding",
+                        "ref": "Exhibits//Malabar Rose - First Breeding/"
+                    },
+                    {
+                        "name": "Exhibits - Malabar Rose - Research Welfare 1",
+                        "ref": "Exhibits//Malabar Rose - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Exhibits - Malabar Rose - Research Welfare 2",
+                        "ref": "Exhibits//Malabar Rose - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Exhibits - Malabar Rose - Research Welfare 3",
+                        "ref": "Exhibits//Malabar Rose - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Exhibits - Malabar Rose - Research Welfare 4",
+                        "ref": "Exhibits//Malabar Rose - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Exhibits - Malabar Rose - Research Welfare 5",
+                        "ref": "Exhibits//Malabar Rose - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Exhibits - Mexican Red Knee Tarantula - Conservation Release",
+                        "ref": "Exhibits//Mexican Red Knee Tarantula - Conservation Release/"
+                    },
+                    {
+                        "name": "Exhibits - Mexican Red Knee Tarantula - First Acquisition",
+                        "ref": "Exhibits//Mexican Red Knee Tarantula - First Acquisition/"
+                    },
+                    {
+                        "name": "Exhibits - Mexican Red Knee Tarantula - First Breeding",
+                        "ref": "Exhibits//Mexican Red Knee Tarantula - First Breeding/"
+                    },
+                    {
+                        "name": "Exhibits - Mexican Red Knee Tarantula - Research Welfare 1",
+                        "ref": "Exhibits//Mexican Red Knee Tarantula - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Exhibits - Mexican Red Knee Tarantula - Research Welfare 2",
+                        "ref": "Exhibits//Mexican Red Knee Tarantula - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Exhibits - Mexican Red Knee Tarantula - Research Welfare 3",
+                        "ref": "Exhibits//Mexican Red Knee Tarantula - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Exhibits - Mexican Red Knee Tarantula - Research Welfare 4",
+                        "ref": "Exhibits//Mexican Red Knee Tarantula - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Exhibits - Mexican Red Knee Tarantula - Research Welfare 5",
+                        "ref": "Exhibits//Mexican Red Knee Tarantula - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Exhibits - Puff Adder - Conservation Release",
+                        "ref": "Exhibits//Puff Adder - Conservation Release/"
+                    },
+                    {
+                        "name": "Exhibits - Puff Adder - First Acquisition",
+                        "ref": "Exhibits//Puff Adder - First Acquisition/"
+                    },
+                    {
+                        "name": "Exhibits - Puff Adder - First Breeding",
+                        "ref": "Exhibits//Puff Adder - First Breeding/"
+                    },
+                    {
+                        "name": "Exhibits - Puff Adder - Research Welfare 1",
+                        "ref": "Exhibits//Puff Adder - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Exhibits - Puff Adder - Research Welfare 2",
+                        "ref": "Exhibits//Puff Adder - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Exhibits - Puff Adder - Research Welfare 3",
+                        "ref": "Exhibits//Puff Adder - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Exhibits - Puff Adder - Research Welfare 4",
+                        "ref": "Exhibits//Puff Adder - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Exhibits - Puff Adder - Research Welfare 5",
+                        "ref": "Exhibits//Puff Adder - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Exhibits - Titan Beetle - Conservation Release",
+                        "ref": "Exhibits//Titan Beetle - Conservation Release/"
+                    },
+                    {
+                        "name": "Exhibits - Titan Beetle - First Acquisition",
+                        "ref": "Exhibits//Titan Beetle - First Acquisition/"
+                    },
+                    {
+                        "name": "Exhibits - Titan Beetle - First Breeding",
+                        "ref": "Exhibits//Titan Beetle - First Breeding/"
+                    },
+                    {
+                        "name": "Exhibits - Titan Beetle - Research Welfare 1",
+                        "ref": "Exhibits//Titan Beetle - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Exhibits - Titan Beetle - Research Welfare 2",
+                        "ref": "Exhibits//Titan Beetle - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Exhibits - Titan Beetle - Research Welfare 3",
+                        "ref": "Exhibits//Titan Beetle - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Exhibits - Titan Beetle - Research Welfare 4",
+                        "ref": "Exhibits//Titan Beetle - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Exhibits - Titan Beetle - Research Welfare 5",
+                        "ref": "Exhibits//Titan Beetle - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Exhibits - Western Diamondback Rattlesnake - Conservation Release",
+                        "ref": "Exhibits//Western Diamondback Rattlesnake - Conservation Release/"
+                    },
+                    {
+                        "name": "Exhibits - Western Diamondback Rattlesnake - First Acquisition",
+                        "ref": "Exhibits//Western Diamondback Rattlesnake - First Acquisition/"
+                    },
+                    {
+                        "name": "Exhibits - Western Diamondback Rattlesnake - First Breeding",
+                        "ref": "Exhibits//Western Diamondback Rattlesnake - First Breeding/"
+                    },
+                    {
+                        "name": "Exhibits - Western Diamondback Rattlesnake - Research Welfare 1",
+                        "ref": "Exhibits//Western Diamondback Rattlesnake - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Exhibits - Western Diamondback Rattlesnake - Research Welfare 2",
+                        "ref": "Exhibits//Western Diamondback Rattlesnake - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Exhibits - Western Diamondback Rattlesnake - Research Welfare 3",
+                        "ref": "Exhibits//Western Diamondback Rattlesnake - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Exhibits - Western Diamondback Rattlesnake - Research Welfare 4",
+                        "ref": "Exhibits//Western Diamondback Rattlesnake - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Exhibits - Western Diamondback Rattlesnake - Research Welfare 5",
+                        "ref": "Exhibits//Western Diamondback Rattlesnake - Research Welfare 5/"
+                    },
+                    {
+                        "name": "Exhibits - Yellow Anaconda - Conservation Release",
+                        "ref": "Exhibits//Yellow Anaconda - Conservation Release/"
+                    },
+                    {
+                        "name": "Exhibits - Yellow Anaconda - First Acquisition",
+                        "ref": "Exhibits//Yellow Anaconda - First Acquisition/"
+                    },
+                    {
+                        "name": "Exhibits - Yellow Anaconda - First Breeding",
+                        "ref": "Exhibits//Yellow Anaconda - First Breeding/"
+                    },
+                    {
+                        "name": "Exhibits - Yellow Anaconda - Research Welfare 1",
+                        "ref": "Exhibits//Yellow Anaconda - Research Welfare 1/"
+                    },
+                    {
+                        "name": "Exhibits - Yellow Anaconda - Research Welfare 2",
+                        "ref": "Exhibits//Yellow Anaconda - Research Welfare 2/"
+                    },
+                    {
+                        "name": "Exhibits - Yellow Anaconda - Research Welfare 3",
+                        "ref": "Exhibits//Yellow Anaconda - Research Welfare 3/"
+                    },
+                    {
+                        "name": "Exhibits - Yellow Anaconda - Research Welfare 4",
+                        "ref": "Exhibits//Yellow Anaconda - Research Welfare 4/"
+                    },
+                    {
+                        "name": "Exhibits - Yellow Anaconda - Research Welfare 5",
+                        "ref": "Exhibits//Yellow Anaconda - Research Welfare 5/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 505,
+                        "y": 129,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ],
+                "access_rules": [],
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000"
+            },
+            {
+                "name": "Mechanic Research",
+                "sections": [
+                    {
+                        "name": "Mechanic Research - Africa Theme Sets Blueprints Level 1",
+                        "ref": "Mechanic Research//Africa Theme Sets Blueprints Level 1/"
+                    },
+                    {
+                        "name": "Mechanic Research - Africa Theme Sets Blueprints Level 2",
+                        "ref": "Mechanic Research//Africa Theme Sets Blueprints Level 2/"
+                    },
+                    {
+                        "name": "Mechanic Research - Africa Theme Sets Blueprints Level 3",
+                        "ref": "Mechanic Research//Africa Theme Sets Blueprints Level 3/"
+                    },
+                    {
+                        "name": "Mechanic Research - Africa Theme Sets Scenery",
+                        "ref": "Mechanic Research//Africa Theme Sets Scenery/"
+                    },
+                    {
+                        "name": "Mechanic Research - Barriers Chain Steel Posts",
+                        "ref": "Mechanic Research//Barriers Chain Steel Posts/"
+                    },
+                    {
+                        "name": "Mechanic Research - Barriers Concrete",
+                        "ref": "Mechanic Research//Barriers Concrete/"
+                    },
+                    {
+                        "name": "Mechanic Research - Barriers Electric",
+                        "ref": "Mechanic Research//Barriers Electric/"
+                    },
+                    {
+                        "name": "Mechanic Research - Barriers One Way Glass",
+                        "ref": "Mechanic Research//Barriers One Way Glass/"
+                    },
+                    {
+                        "name": "Mechanic Research - Barriers Rebar Stone Cages",
+                        "ref": "Mechanic Research//Barriers Rebar Stone Cages/"
+                    },
+                    {
+                        "name": "Mechanic Research - Barriers Thick Glass",
+                        "ref": "Mechanic Research//Barriers Thick Glass/"
+                    },
+                    {
+                        "name": "Mechanic Research - Classic Theme Sets Blueprints Level 1",
+                        "ref": "Mechanic Research//Classic Theme Sets Blueprints Level 1/"
+                    },
+                    {
+                        "name": "Mechanic Research - Classic Theme Sets Blueprints Level 2",
+                        "ref": "Mechanic Research//Classic Theme Sets Blueprints Level 2/"
+                    },
+                    {
+                        "name": "Mechanic Research - Classic Theme Sets Blueprints Level 3",
+                        "ref": "Mechanic Research//Classic Theme Sets Blueprints Level 3/"
+                    },
+                    {
+                        "name": "Mechanic Research - Classic Theme Sets Scenery",
+                        "ref": "Mechanic Research//Classic Theme Sets Scenery/"
+                    },
+                    {
+                        "name": "Mechanic Research - Drink Shops Cosmic Cow Milkshakes",
+                        "ref": "Mechanic Research//Drink Shops Cosmic Cow Milkshakes/"
+                    },
+                    {
+                        "name": "Mechanic Research - Drink Shops Foxy Coffee",
+                        "ref": "Mechanic Research//Drink Shops Foxy Coffee/"
+                    },
+                    {
+                        "name": "Mechanic Research - Drink Shops Gulpee Energy",
+                        "ref": "Mechanic Research//Drink Shops Gulpee Energy/"
+                    },
+                    {
+                        "name": "Mechanic Research - Drink Shops Gulpee Slush",
+                        "ref": "Mechanic Research//Drink Shops Gulpee Slush/"
+                    },
+                    {
+                        "name": "Mechanic Research - Drink Shops Pipshot Juice",
+                        "ref": "Mechanic Research//Drink Shops Pipshot Juice/"
+                    },
+                    {
+                        "name": "Mechanic Research - Drink Shops Pipshot Smoothies",
+                        "ref": "Mechanic Research//Drink Shops Pipshot Smoothies/"
+                    },
+                    {
+                        "name": "Mechanic Research - Drink Shops Pipshot Water",
+                        "ref": "Mechanic Research//Drink Shops Pipshot Water/"
+                    },
+                    {
+                        "name": "Mechanic Research - East Asian Theme Sets Blueprints Level 1",
+                        "ref": "Mechanic Research//East Asian Theme Sets Blueprints Level 1/"
+                    },
+                    {
+                        "name": "Mechanic Research - East Asian Theme Sets Blueprints Level 2",
+                        "ref": "Mechanic Research//East Asian Theme Sets Blueprints Level 2/"
+                    },
+                    {
+                        "name": "Mechanic Research - East Asian Theme Sets Blueprints Level 3",
+                        "ref": "Mechanic Research//East Asian Theme Sets Blueprints Level 3/"
+                    },
+                    {
+                        "name": "Mechanic Research - East Asian Theme Sets Scenery",
+                        "ref": "Mechanic Research//East Asian Theme Sets Scenery/"
+                    },
+                    {
+                        "name": "Mechanic Research - Food Shops Cosmic Cow Ice Cream",
+                        "ref": "Mechanic Research//Food Shops Cosmic Cow Ice Cream/"
+                    },
+                    {
+                        "name": "Mechanic Research - Food Shops Hotdog Squad",
+                        "ref": "Mechanic Research//Food Shops Hotdog Squad/"
+                    },
+                    {
+                        "name": "Mechanic Research - Food Shops Mexelente",
+                        "ref": "Mechanic Research//Food Shops Mexelente/"
+                    },
+                    {
+                        "name": "Mechanic Research - Food Shops Missy Good",
+                        "ref": "Mechanic Research//Food Shops Missy Good/"
+                    },
+                    {
+                        "name": "Mechanic Research - Food Shops Monsieur Frites",
+                        "ref": "Mechanic Research//Food Shops Monsieur Frites/"
+                    },
+                    {
+                        "name": "Mechanic Research - Food Shops Pizza Pen",
+                        "ref": "Mechanic Research//Food Shops Pizza Pen/"
+                    },
+                    {
+                        "name": "Mechanic Research - Habitats Habitat Blueprints Level 1",
+                        "ref": "Mechanic Research//Habitats Habitat Blueprints Level 1/"
+                    },
+                    {
+                        "name": "Mechanic Research - Habitats Habitat Blueprints Level 2",
+                        "ref": "Mechanic Research//Habitats Habitat Blueprints Level 2/"
+                    },
+                    {
+                        "name": "Mechanic Research - Habitats Habitat Blueprints Level 3",
+                        "ref": "Mechanic Research//Habitats Habitat Blueprints Level 3/"
+                    },
+                    {
+                        "name": "Mechanic Research - India Theme Sets Blueprints Level 1",
+                        "ref": "Mechanic Research//India Theme Sets Blueprints Level 1/"
+                    },
+                    {
+                        "name": "Mechanic Research - India Theme Sets Blueprints Level 2",
+                        "ref": "Mechanic Research//India Theme Sets Blueprints Level 2/"
+                    },
+                    {
+                        "name": "Mechanic Research - India Theme Sets Blueprints Level 3",
+                        "ref": "Mechanic Research//India Theme Sets Blueprints Level 3/"
+                    },
+                    {
+                        "name": "Mechanic Research - India Theme Sets Scenery",
+                        "ref": "Mechanic Research//India Theme Sets Scenery/"
+                    },
+                    {
+                        "name": "Mechanic Research - New World Theme Sets Blueprints Level 1",
+                        "ref": "Mechanic Research//New World Theme Sets Blueprints Level 1/"
+                    },
+                    {
+                        "name": "Mechanic Research - New World Theme Sets Blueprints Level 2",
+                        "ref": "Mechanic Research//New World Theme Sets Blueprints Level 2/"
+                    },
+                    {
+                        "name": "Mechanic Research - New World Theme Sets Blueprints Level 3",
+                        "ref": "Mechanic Research//New World Theme Sets Blueprints Level 3/"
+                    },
+                    {
+                        "name": "Mechanic Research - New World Theme Sets Scenery",
+                        "ref": "Mechanic Research//New World Theme Sets Scenery/"
+                    },
+                    {
+                        "name": "Mechanic Research - Power Solar Panel",
+                        "ref": "Mechanic Research//Power Solar Panel/"
+                    },
+                    {
+                        "name": "Mechanic Research - Power Wind Turbine",
+                        "ref": "Mechanic Research//Power Wind Turbine/"
+                    },
+                    {
+                        "name": "Mechanic Research - Shelters Shelter Blueprints Level 1",
+                        "ref": "Mechanic Research//Shelters Shelter Blueprints Level 1/"
+                    },
+                    {
+                        "name": "Mechanic Research - Shelters Shelter Blueprints Level 2",
+                        "ref": "Mechanic Research//Shelters Shelter Blueprints Level 2/"
+                    },
+                    {
+                        "name": "Mechanic Research - Shelters Shelter Blueprints Level 3",
+                        "ref": "Mechanic Research//Shelters Shelter Blueprints Level 3/"
+                    },
+                    {
+                        "name": "Mechanic Research - Souvenir Shops Hats Fantastic",
+                        "ref": "Mechanic Research//Souvenir Shops Hats Fantastic/"
+                    },
+                    {
+                        "name": "Mechanic Research - Souvenir Shops Just A Momento",
+                        "ref": "Mechanic Research//Souvenir Shops Just A Momento/"
+                    },
+                    {
+                        "name": "Mechanic Research - Staff Facilities Keeper Hut Large",
+                        "ref": "Mechanic Research//Staff Facilities Keeper Hut Large/"
+                    },
+                    {
+                        "name": "Mechanic Research - Staff Facilities Quarantine Large",
+                        "ref": "Mechanic Research//Staff Facilities Quarantine Large/"
+                    },
+                    {
+                        "name": "Mechanic Research - Staff Facilities Research Centre Large",
+                        "ref": "Mechanic Research//Staff Facilities Research Centre Large/"
+                    },
+                    {
+                        "name": "Mechanic Research - Staff Facilities Staff Centre Large",
+                        "ref": "Mechanic Research//Staff Facilities Staff Centre Large/"
+                    },
+                    {
+                        "name": "Mechanic Research - Transport Boat Ride Station",
+                        "ref": "Mechanic Research//Transport Boat Ride Station/"
+                    },
+                    {
+                        "name": "Mechanic Research - Transport Safari Jeep Station",
+                        "ref": "Mechanic Research//Transport Safari Jeep Station/"
+                    },
+                    {
+                        "name": "Mechanic Research - Transport Steam Train Station",
+                        "ref": "Mechanic Research//Transport Steam Train Station/"
+                    },
+                    {
+                        "name": "Mechanic Research - Transport Suspended Gondola",
+                        "ref": "Mechanic Research//Transport Suspended Gondola/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 511,
+                        "y": 524,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ],
+                "access_rules": [],
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000"
+            },
+            {
+                "name": "Milestones",
+                "sections": [
+                    {
+                        "name": "Milestones - Guests - 1000",
+                        "ref": "Milestones//Guests - 1000/"
+                    },
+                    {
+                        "name": "Milestones - Guests - 1250",
+                        "ref": "Milestones//Guests - 1250/"
+                    },
+                    {
+                        "name": "Milestones - Guests - 250",
+                        "ref": "Milestones//Guests - 250/"
+                    },
+                    {
+                        "name": "Milestones - Guests - 2500",
+                        "ref": "Milestones//Guests - 2500/"
+                    },
+                    {
+                        "name": "Milestones - Guests - 500",
+                        "ref": "Milestones//Guests - 500/"
+                    },
+                    {
+                        "name": "Milestones - Guests - 750",
+                        "ref": "Milestones//Guests - 750/"
+                    },
+                    {
+                        "name": "Milestones - Zoo Rating - 1",
+                        "ref": "Milestones//Zoo Rating - 1/"
+                    },
+                    {
+                        "name": "Milestones - Zoo Rating - 2",
+                        "ref": "Milestones//Zoo Rating - 2/"
+                    },
+                    {
+                        "name": "Milestones - Zoo Rating - 3",
+                        "ref": "Milestones//Zoo Rating - 3/"
+                    },
+                    {
+                        "name": "Milestones - Zoo Rating - 4",
+                        "ref": "Milestones//Zoo Rating - 4/"
+                    },
+                    {
+                        "name": "Milestones - Zoo Rating - 5",
+                        "ref": "Milestones//Zoo Rating - 5/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 509,
+                        "y": 456,
+                        "size": 10,
+                        "shape": "rect"
+                    }
+                ],
+                "access_rules": [],
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000"
+            }
+        ],
+        "access_rules": [],
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000"
+    }
+]

@@ -1,0 +1,7452 @@
+[
+  {
+    "stringid": "cr_aardvark",
+    "label": "Aardvark - Conservation Release",
+    "type": "conservation",
+    "species_type": "aardvark",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23000
+  },
+  {
+    "stringid": "fa_aardvark",
+    "label": "Aardvark - First Acquisition",
+    "type": "firsts",
+    "species_type": "aardvark",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22000
+  },
+  {
+    "stringid": "fb_aardvark",
+    "label": "Aardvark - First Breeding",
+    "type": "firsts",
+    "species_type": "aardvark",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22001
+  },
+  {
+    "stringid": "welfare1_aardvark",
+    "label": "Aardvark - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "aardvark",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24000
+  },
+  {
+    "stringid": "welfare2_aardvark",
+    "label": "Aardvark - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "aardvark",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24001
+  },
+  {
+    "stringid": "welfare3_aardvark",
+    "label": "Aardvark - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "aardvark",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24002
+  },
+  {
+    "stringid": "welfare4_aardvark",
+    "label": "Aardvark - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "aardvark",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24003
+  },
+  {
+    "stringid": "welfare5_aardvark",
+    "label": "Aardvark - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "aardvark",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24004
+  },
+  {
+    "stringid": "welfare6_aardvark",
+    "label": "Aardvark - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "aardvark",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24005
+  },
+  {
+    "stringid": "A2",
+    "label": "Africa Theme Sets Blueprints Level 1",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21000
+  },
+  {
+    "stringid": "A3",
+    "label": "Africa Theme Sets Blueprints Level 2",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21001
+  },
+  {
+    "stringid": "A4",
+    "label": "Africa Theme Sets Blueprints Level 3",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21002
+  },
+  {
+    "stringid": "A1",
+    "label": "Africa Theme Sets Scenery",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21003
+  },
+  {
+    "stringid": "cr_abuffalo",
+    "label": "African Buffalo - Conservation Release",
+    "type": "conservation",
+    "species_type": "abuffalo",
+    "water_needed": true,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 23001
+  },
+  {
+    "stringid": "fa_abuffalo",
+    "label": "African Buffalo - First Acquisition",
+    "type": "firsts",
+    "species_type": "abuffalo",
+    "water_needed": true,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 22002
+  },
+  {
+    "stringid": "fb_abuffalo",
+    "label": "African Buffalo - First Breeding",
+    "type": "firsts",
+    "species_type": "abuffalo",
+    "water_needed": true,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 22003
+  },
+  {
+    "stringid": "welfare1_abuffalo",
+    "label": "African Buffalo - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "abuffalo",
+    "water_needed": true,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24006
+  },
+  {
+    "stringid": "welfare2_abuffalo",
+    "label": "African Buffalo - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "abuffalo",
+    "water_needed": true,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24007
+  },
+  {
+    "stringid": "welfare3_abuffalo",
+    "label": "African Buffalo - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "abuffalo",
+    "water_needed": true,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24008
+  },
+  {
+    "stringid": "welfare4_abuffalo",
+    "label": "African Buffalo - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "abuffalo",
+    "water_needed": true,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24009
+  },
+  {
+    "stringid": "welfare5_abuffalo",
+    "label": "African Buffalo - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "abuffalo",
+    "water_needed": true,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24010
+  },
+  {
+    "stringid": "welfare6_abuffalo",
+    "label": "African Buffalo - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "abuffalo",
+    "water_needed": true,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24011
+  },
+  {
+    "stringid": "cr_aleopard",
+    "label": "African Leopard - Conservation Release",
+    "type": "conservation",
+    "species_type": "aleopard",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 23002
+  },
+  {
+    "stringid": "fa_aleopard",
+    "label": "African Leopard - First Acquisition",
+    "type": "firsts",
+    "species_type": "aleopard",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 22004
+  },
+  {
+    "stringid": "fb_aleopard",
+    "label": "African Leopard - First Breeding",
+    "type": "firsts",
+    "species_type": "aleopard",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 22005
+  },
+  {
+    "stringid": "welfare1_aleopard",
+    "label": "African Leopard - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "aleopard",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24012
+  },
+  {
+    "stringid": "welfare2_aleopard",
+    "label": "African Leopard - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "aleopard",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24013
+  },
+  {
+    "stringid": "welfare3_aleopard",
+    "label": "African Leopard - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "aleopard",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24014
+  },
+  {
+    "stringid": "welfare4_aleopard",
+    "label": "African Leopard - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "aleopard",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24015
+  },
+  {
+    "stringid": "welfare5_aleopard",
+    "label": "African Leopard - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "aleopard",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24016
+  },
+  {
+    "stringid": "welfare6_aleopard",
+    "label": "African Leopard - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "aleopard",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24017
+  },
+  {
+    "stringid": "cr_aelephant",
+    "label": "African Savannah Elephant - Conservation Release",
+    "type": "conservation",
+    "species_type": "aelephant",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 23003
+  },
+  {
+    "stringid": "fa_aelephant",
+    "label": "African Savannah Elephant - First Acquisition",
+    "type": "firsts",
+    "species_type": "aelephant",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 22006
+  },
+  {
+    "stringid": "fb_aelephant",
+    "label": "African Savannah Elephant - First Breeding",
+    "type": "firsts",
+    "species_type": "aelephant",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 22007
+  },
+  {
+    "stringid": "welfare1_aelephant",
+    "label": "African Savannah Elephant - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "aelephant",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24018
+  },
+  {
+    "stringid": "welfare2_aelephant",
+    "label": "African Savannah Elephant - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "aelephant",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24019
+  },
+  {
+    "stringid": "welfare3_aelephant",
+    "label": "African Savannah Elephant - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "aelephant",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24020
+  },
+  {
+    "stringid": "welfare4_aelephant",
+    "label": "African Savannah Elephant - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "aelephant",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24021
+  },
+  {
+    "stringid": "welfare5_aelephant",
+    "label": "African Savannah Elephant - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "aelephant",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24022
+  },
+  {
+    "stringid": "welfare6_aelephant",
+    "label": "African Savannah Elephant - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "aelephant",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24023
+  },
+  {
+    "stringid": "cr_adog",
+    "label": "African Wild Dog - Conservation Release",
+    "type": "conservation",
+    "species_type": "adog",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23004
+  },
+  {
+    "stringid": "fa_adog",
+    "label": "African Wild Dog - First Acquisition",
+    "type": "firsts",
+    "species_type": "adog",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22008
+  },
+  {
+    "stringid": "fb_adog",
+    "label": "African Wild Dog - First Breeding",
+    "type": "firsts",
+    "species_type": "adog",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22009
+  },
+  {
+    "stringid": "welfare1_adog",
+    "label": "African Wild Dog - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "adog",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24024
+  },
+  {
+    "stringid": "welfare2_adog",
+    "label": "African Wild Dog - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "adog",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24025
+  },
+  {
+    "stringid": "welfare3_adog",
+    "label": "African Wild Dog - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "adog",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24026
+  },
+  {
+    "stringid": "welfare4_adog",
+    "label": "African Wild Dog - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "adog",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24027
+  },
+  {
+    "stringid": "welfare5_adog",
+    "label": "African Wild Dog - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "adog",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24028
+  },
+  {
+    "stringid": "welfare6_adog",
+    "label": "African Wild Dog - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "adog",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24029
+  },
+  {
+    "stringid": "cr_atortoise",
+    "label": "Aldabra Giant Tortoise - Conservation Release",
+    "type": "conservation",
+    "species_type": "atortoise",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 23005
+  },
+  {
+    "stringid": "fa_atortoise",
+    "label": "Aldabra Giant Tortoise - First Acquisition",
+    "type": "firsts",
+    "species_type": "atortoise",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 22010
+  },
+  {
+    "stringid": "fb_atortoise",
+    "label": "Aldabra Giant Tortoise - First Breeding",
+    "type": "firsts",
+    "species_type": "atortoise",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 22011
+  },
+  {
+    "stringid": "welfare1_atortoise",
+    "label": "Aldabra Giant Tortoise - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "atortoise",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 24030
+  },
+  {
+    "stringid": "welfare2_atortoise",
+    "label": "Aldabra Giant Tortoise - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "atortoise",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 24031
+  },
+  {
+    "stringid": "welfare3_atortoise",
+    "label": "Aldabra Giant Tortoise - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "atortoise",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 24032
+  },
+  {
+    "stringid": "welfare4_atortoise",
+    "label": "Aldabra Giant Tortoise - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "atortoise",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 24033
+  },
+  {
+    "stringid": "welfare5_atortoise",
+    "label": "Aldabra Giant Tortoise - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "atortoise",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 24034
+  },
+  {
+    "stringid": "welfare6_atortoise",
+    "label": "Aldabra Giant Tortoise - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "atortoise",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 24035
+  },
+  {
+    "stringid": "cr_acentipede",
+    "label": "Amazonian Giant Centipede - Conservation Release",
+    "type": "conservation",
+    "species_type": "acentipede",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 23006
+  },
+  {
+    "stringid": "fa_acentipede",
+    "label": "Amazonian Giant Centipede - First Acquisition",
+    "type": "firsts",
+    "species_type": "acentipede",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22012
+  },
+  {
+    "stringid": "fb_acentipede",
+    "label": "Amazonian Giant Centipede - First Breeding",
+    "type": "firsts",
+    "species_type": "acentipede",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22013
+  },
+  {
+    "stringid": "e_welfare1_acentipede",
+    "label": "Amazonian Giant Centipede - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "acentipede",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24036
+  },
+  {
+    "stringid": "e_welfare2_acentipede",
+    "label": "Amazonian Giant Centipede - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "acentipede",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24037
+  },
+  {
+    "stringid": "e_welfare3_acentipede",
+    "label": "Amazonian Giant Centipede - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "acentipede",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24038
+  },
+  {
+    "stringid": "e_welfare4_acentipede",
+    "label": "Amazonian Giant Centipede - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "acentipede",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24039
+  },
+  {
+    "stringid": "e_welfare5_acentipede",
+    "label": "Amazonian Giant Centipede - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "acentipede",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24040
+  },
+  {
+    "stringid": "cr_abison",
+    "label": "American Bison - Conservation Release",
+    "type": "conservation",
+    "species_type": "abison",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 23007
+  },
+  {
+    "stringid": "fa_abison",
+    "label": "American Bison - First Acquisition",
+    "type": "firsts",
+    "species_type": "abison",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 22014
+  },
+  {
+    "stringid": "fb_abison",
+    "label": "American Bison - First Breeding",
+    "type": "firsts",
+    "species_type": "abison",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 22015
+  },
+  {
+    "stringid": "welfare1_abison",
+    "label": "American Bison - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "abison",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24041
+  },
+  {
+    "stringid": "welfare2_abison",
+    "label": "American Bison - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "abison",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24042
+  },
+  {
+    "stringid": "welfare3_abison",
+    "label": "American Bison - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "abison",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24043
+  },
+  {
+    "stringid": "welfare4_abison",
+    "label": "American Bison - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "abison",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24044
+  },
+  {
+    "stringid": "welfare5_abison",
+    "label": "American Bison - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "abison",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24045
+  },
+  {
+    "stringid": "welfare6_abison",
+    "label": "American Bison - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "abison",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24046
+  },
+  {
+    "stringid": "fa_bcamel",
+    "label": "Bactrian Camel - First Acquisition",
+    "type": "firsts",
+    "species_type": "bcamel",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": true,
+    "id": 22016
+  },
+  {
+    "stringid": "fb_bcamel",
+    "label": "Bactrian Camel - First Breeding",
+    "type": "firsts",
+    "species_type": "bcamel",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": true,
+    "id": 22017
+  },
+  {
+    "stringid": "welfare1_bcamel",
+    "label": "Bactrian Camel - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "bcamel",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": true,
+    "id": 24047
+  },
+  {
+    "stringid": "welfare2_bcamel",
+    "label": "Bactrian Camel - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "bcamel",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": true,
+    "id": 24048
+  },
+  {
+    "stringid": "welfare3_bcamel",
+    "label": "Bactrian Camel - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "bcamel",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": true,
+    "id": 24049
+  },
+  {
+    "stringid": "welfare4_bcamel",
+    "label": "Bactrian Camel - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "bcamel",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": true,
+    "id": 24050
+  },
+  {
+    "stringid": "welfare5_bcamel",
+    "label": "Bactrian Camel - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "bcamel",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": true,
+    "id": 24051
+  },
+  {
+    "stringid": "welfare6_bcamel",
+    "label": "Bactrian Camel - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "bcamel",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": true,
+    "id": 24052
+  },
+  {
+    "stringid": "cr_btapir",
+    "label": "Bairds Tapir - Conservation Release",
+    "type": "conservation",
+    "species_type": "btapir",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23008
+  },
+  {
+    "stringid": "fa_btapir",
+    "label": "Bairds Tapir - First Acquisition",
+    "type": "firsts",
+    "species_type": "btapir",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22018
+  },
+  {
+    "stringid": "fb_btapir",
+    "label": "Bairds Tapir - First Breeding",
+    "type": "firsts",
+    "species_type": "btapir",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22019
+  },
+  {
+    "stringid": "welfare1_btapir",
+    "label": "Bairds Tapir - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "btapir",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24053
+  },
+  {
+    "stringid": "welfare2_btapir",
+    "label": "Bairds Tapir - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "btapir",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24054
+  },
+  {
+    "stringid": "welfare3_btapir",
+    "label": "Bairds Tapir - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "btapir",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24055
+  },
+  {
+    "stringid": "welfare4_btapir",
+    "label": "Bairds Tapir - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "btapir",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24056
+  },
+  {
+    "stringid": "welfare5_btapir",
+    "label": "Bairds Tapir - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "btapir",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24057
+  },
+  {
+    "stringid": "welfare6_btapir",
+    "label": "Bairds Tapir - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "btapir",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24058
+  },
+  {
+    "stringid": "barrier2",
+    "label": "Barriers Chain Steel Posts",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21004
+  },
+  {
+    "stringid": "barrier3",
+    "label": "Barriers Concrete",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21005
+  },
+  {
+    "stringid": "barrier4",
+    "label": "Barriers Electric",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21006
+  },
+  {
+    "stringid": "barrier5",
+    "label": "Barriers One Way Glass",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21007
+  },
+  {
+    "stringid": "barrier1",
+    "label": "Barriers Rebar Stone Cages",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21008
+  },
+  {
+    "stringid": "barrier6",
+    "label": "Barriers Thick Glass",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21009
+  },
+  {
+    "stringid": "cr_btiger",
+    "label": "Bengal Tiger - Conservation Release",
+    "type": "conservation",
+    "species_type": "btiger",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 23009
+  },
+  {
+    "stringid": "fa_btiger",
+    "label": "Bengal Tiger - First Acquisition",
+    "type": "firsts",
+    "species_type": "btiger",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 22020
+  },
+  {
+    "stringid": "fb_btiger",
+    "label": "Bengal Tiger - First Breeding",
+    "type": "firsts",
+    "species_type": "btiger",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 22021
+  },
+  {
+    "stringid": "welfare1_btiger",
+    "label": "Bengal Tiger - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "btiger",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24059
+  },
+  {
+    "stringid": "welfare2_btiger",
+    "label": "Bengal Tiger - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "btiger",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24060
+  },
+  {
+    "stringid": "welfare3_btiger",
+    "label": "Bengal Tiger - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "btiger",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24061
+  },
+  {
+    "stringid": "welfare4_btiger",
+    "label": "Bengal Tiger - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "btiger",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24062
+  },
+  {
+    "stringid": "welfare5_btiger",
+    "label": "Bengal Tiger - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "btiger",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24063
+  },
+  {
+    "stringid": "welfare6_btiger",
+    "label": "Bengal Tiger - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "btiger",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24064
+  },
+  {
+    "stringid": "cr_bwildebeest",
+    "label": "Black Wildebeest - Conservation Release",
+    "type": "conservation",
+    "species_type": "bwildebeest",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23010
+  },
+  {
+    "stringid": "fa_bwildebeest",
+    "label": "Black Wildebeest - First Acquisition",
+    "type": "firsts",
+    "species_type": "bwildebeest",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22022
+  },
+  {
+    "stringid": "fb_bwildebeest",
+    "label": "Black Wildebeest - First Breeding",
+    "type": "firsts",
+    "species_type": "bwildebeest",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22023
+  },
+  {
+    "stringid": "welfare1_bwildebeest",
+    "label": "Black Wildebeest - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "bwildebeest",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24065
+  },
+  {
+    "stringid": "welfare2_bwildebeest",
+    "label": "Black Wildebeest - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "bwildebeest",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24066
+  },
+  {
+    "stringid": "welfare3_bwildebeest",
+    "label": "Black Wildebeest - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "bwildebeest",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24067
+  },
+  {
+    "stringid": "welfare4_bwildebeest",
+    "label": "Black Wildebeest - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "bwildebeest",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24068
+  },
+  {
+    "stringid": "welfare5_bwildebeest",
+    "label": "Black Wildebeest - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "bwildebeest",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24069
+  },
+  {
+    "stringid": "welfare6_bwildebeest",
+    "label": "Black Wildebeest - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "bwildebeest",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24070
+  },
+  {
+    "stringid": "cr_blemur",
+    "label": "Black and White Ruffed Lemur - Conservation Release",
+    "type": "conservation",
+    "species_type": "blemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23011
+  },
+  {
+    "stringid": "fa_blemur",
+    "label": "Black and White Ruffed Lemur - First Acquisition",
+    "type": "firsts",
+    "species_type": "blemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22024
+  },
+  {
+    "stringid": "fb_blemur",
+    "label": "Black and White Ruffed Lemur - First Breeding",
+    "type": "firsts",
+    "species_type": "blemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22025
+  },
+  {
+    "stringid": "welfare1_blemur",
+    "label": "Black and White Ruffed Lemur - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "blemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24071
+  },
+  {
+    "stringid": "welfare2_blemur",
+    "label": "Black and White Ruffed Lemur - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "blemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24072
+  },
+  {
+    "stringid": "welfare3_blemur",
+    "label": "Black and White Ruffed Lemur - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "blemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24073
+  },
+  {
+    "stringid": "welfare4_blemur",
+    "label": "Black and White Ruffed Lemur - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "blemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24074
+  },
+  {
+    "stringid": "welfare5_blemur",
+    "label": "Black and White Ruffed Lemur - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "blemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24075
+  },
+  {
+    "stringid": "welfare6_blemur",
+    "label": "Black and White Ruffed Lemur - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "blemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24076
+  },
+  {
+    "stringid": "cr_bconstrictor",
+    "label": "Boa Constrictor - Conservation Release",
+    "type": "conservation",
+    "species_type": "bconstrictor",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 23012
+  },
+  {
+    "stringid": "fa_bconstrictor",
+    "label": "Boa Constrictor - First Acquisition",
+    "type": "firsts",
+    "species_type": "bconstrictor",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22026
+  },
+  {
+    "stringid": "fb_bconstrictor",
+    "label": "Boa Constrictor - First Breeding",
+    "type": "firsts",
+    "species_type": "bconstrictor",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22027
+  },
+  {
+    "stringid": "e_welfare1_bconstrictor",
+    "label": "Boa Constrictor - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "bconstrictor",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24077
+  },
+  {
+    "stringid": "e_welfare2_bconstrictor",
+    "label": "Boa Constrictor - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "bconstrictor",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24078
+  },
+  {
+    "stringid": "e_welfare3_bconstrictor",
+    "label": "Boa Constrictor - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "bconstrictor",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24079
+  },
+  {
+    "stringid": "e_welfare4_bconstrictor",
+    "label": "Boa Constrictor - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "bconstrictor",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24080
+  },
+  {
+    "stringid": "e_welfare5_bconstrictor",
+    "label": "Boa Constrictor - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "bconstrictor",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24081
+  },
+  {
+    "stringid": "cr_bongo",
+    "label": "Bongo - Conservation Release",
+    "type": "conservation",
+    "species_type": "bongo",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23013
+  },
+  {
+    "stringid": "fa_bongo",
+    "label": "Bongo - First Acquisition",
+    "type": "firsts",
+    "species_type": "bongo",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22028
+  },
+  {
+    "stringid": "fb_bongo",
+    "label": "Bongo - First Breeding",
+    "type": "firsts",
+    "species_type": "bongo",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22029
+  },
+  {
+    "stringid": "welfare1_bongo",
+    "label": "Bongo - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "bongo",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24082
+  },
+  {
+    "stringid": "welfare2_bongo",
+    "label": "Bongo - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "bongo",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24083
+  },
+  {
+    "stringid": "welfare3_bongo",
+    "label": "Bongo - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "bongo",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24084
+  },
+  {
+    "stringid": "welfare4_bongo",
+    "label": "Bongo - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "bongo",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24085
+  },
+  {
+    "stringid": "welfare5_bongo",
+    "label": "Bongo - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "bongo",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24086
+  },
+  {
+    "stringid": "welfare6_bongo",
+    "label": "Bongo - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "bongo",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24087
+  },
+  {
+    "stringid": "cr_bonobo",
+    "label": "Bonobo - Conservation Release",
+    "type": "conservation",
+    "species_type": "bonobo",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 23014
+  },
+  {
+    "stringid": "fa_bonobo",
+    "label": "Bonobo - First Acquisition",
+    "type": "firsts",
+    "species_type": "bonobo",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 22030
+  },
+  {
+    "stringid": "fb_bonobo",
+    "label": "Bonobo - First Breeding",
+    "type": "firsts",
+    "species_type": "bonobo",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 22031
+  },
+  {
+    "stringid": "welfare1_bonobo",
+    "label": "Bonobo - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "bonobo",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24088
+  },
+  {
+    "stringid": "welfare2_bonobo",
+    "label": "Bonobo - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "bonobo",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24089
+  },
+  {
+    "stringid": "welfare3_bonobo",
+    "label": "Bonobo - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "bonobo",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24090
+  },
+  {
+    "stringid": "welfare4_bonobo",
+    "label": "Bonobo - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "bonobo",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24091
+  },
+  {
+    "stringid": "welfare5_bonobo",
+    "label": "Bonobo - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "bonobo",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24092
+  },
+  {
+    "stringid": "welfare6_bonobo",
+    "label": "Bonobo - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "bonobo",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24093
+  },
+  {
+    "stringid": "cr_borangutan",
+    "label": "Bornean Orangutan - Conservation Release",
+    "type": "conservation",
+    "species_type": "borangutan",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 23015
+  },
+  {
+    "stringid": "fa_borangutan",
+    "label": "Bornean Orangutan - First Acquisition",
+    "type": "firsts",
+    "species_type": "borangutan",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 22032
+  },
+  {
+    "stringid": "fb_borangutan",
+    "label": "Bornean Orangutan - First Breeding",
+    "type": "firsts",
+    "species_type": "borangutan",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 22033
+  },
+  {
+    "stringid": "welfare1_borangutan",
+    "label": "Bornean Orangutan - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "borangutan",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24094
+  },
+  {
+    "stringid": "welfare2_borangutan",
+    "label": "Bornean Orangutan - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "borangutan",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24095
+  },
+  {
+    "stringid": "welfare3_borangutan",
+    "label": "Bornean Orangutan - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "borangutan",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24096
+  },
+  {
+    "stringid": "welfare4_borangutan",
+    "label": "Bornean Orangutan - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "borangutan",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24097
+  },
+  {
+    "stringid": "welfare5_borangutan",
+    "label": "Bornean Orangutan - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "borangutan",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24098
+  },
+  {
+    "stringid": "welfare6_borangutan",
+    "label": "Bornean Orangutan - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "borangutan",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24099
+  },
+  {
+    "stringid": "cr_btarantula",
+    "label": "Brazilian Salmon Pink Tarantula - Conservation Release",
+    "type": "conservation",
+    "species_type": "btarantula",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 23016
+  },
+  {
+    "stringid": "fa_btarantula",
+    "label": "Brazilian Salmon Pink Tarantula - First Acquisition",
+    "type": "firsts",
+    "species_type": "btarantula",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22034
+  },
+  {
+    "stringid": "fb_btarantula",
+    "label": "Brazilian Salmon Pink Tarantula - First Breeding",
+    "type": "firsts",
+    "species_type": "btarantula",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22035
+  },
+  {
+    "stringid": "e_welfare1_btarantula",
+    "label": "Brazilian Salmon Pink Tarantula - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "btarantula",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24100
+  },
+  {
+    "stringid": "e_welfare2_btarantula",
+    "label": "Brazilian Salmon Pink Tarantula - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "btarantula",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24101
+  },
+  {
+    "stringid": "e_welfare3_btarantula",
+    "label": "Brazilian Salmon Pink Tarantula - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "btarantula",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24102
+  },
+  {
+    "stringid": "e_welfare4_btarantula",
+    "label": "Brazilian Salmon Pink Tarantula - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "btarantula",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24103
+  },
+  {
+    "stringid": "e_welfare5_btarantula",
+    "label": "Brazilian Salmon Pink Tarantula - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "btarantula",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24104
+  },
+  {
+    "stringid": "cr_bspider",
+    "label": "Brazilian Wandering Spider - Conservation Release",
+    "type": "conservation",
+    "species_type": "bspider",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 23017
+  },
+  {
+    "stringid": "fa_bspider",
+    "label": "Brazilian Wandering Spider - First Acquisition",
+    "type": "firsts",
+    "species_type": "bspider",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22036
+  },
+  {
+    "stringid": "fb_bspider",
+    "label": "Brazilian Wandering Spider - First Breeding",
+    "type": "firsts",
+    "species_type": "bspider",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22037
+  },
+  {
+    "stringid": "e_welfare1_bspider",
+    "label": "Brazilian Wandering Spider - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "bspider",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24105
+  },
+  {
+    "stringid": "e_welfare2_bspider",
+    "label": "Brazilian Wandering Spider - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "bspider",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24106
+  },
+  {
+    "stringid": "e_welfare3_bspider",
+    "label": "Brazilian Wandering Spider - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "bspider",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24107
+  },
+  {
+    "stringid": "e_welfare4_bspider",
+    "label": "Brazilian Wandering Spider - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "bspider",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24108
+  },
+  {
+    "stringid": "e_welfare5_bspider",
+    "label": "Brazilian Wandering Spider - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "bspider",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24109
+  },
+  {
+    "stringid": "cr_cheetah",
+    "label": "Cheetah - Conservation Release",
+    "type": "conservation",
+    "species_type": "cheetah",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23018
+  },
+  {
+    "stringid": "fa_cheetah",
+    "label": "Cheetah - First Acquisition",
+    "type": "firsts",
+    "species_type": "cheetah",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22038
+  },
+  {
+    "stringid": "fb_cheetah",
+    "label": "Cheetah - First Breeding",
+    "type": "firsts",
+    "species_type": "cheetah",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22039
+  },
+  {
+    "stringid": "welfare1_cheetah",
+    "label": "Cheetah - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "cheetah",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24110
+  },
+  {
+    "stringid": "welfare2_cheetah",
+    "label": "Cheetah - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "cheetah",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24111
+  },
+  {
+    "stringid": "welfare3_cheetah",
+    "label": "Cheetah - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "cheetah",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24112
+  },
+  {
+    "stringid": "welfare4_cheetah",
+    "label": "Cheetah - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "cheetah",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24113
+  },
+  {
+    "stringid": "welfare5_cheetah",
+    "label": "Cheetah - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "cheetah",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24114
+  },
+  {
+    "stringid": "welfare6_cheetah",
+    "label": "Cheetah - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "cheetah",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24115
+  },
+  {
+    "stringid": "cr_cpangolin",
+    "label": "Chinese Pangolin - Conservation Release",
+    "type": "conservation",
+    "species_type": "cpangolin",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23019
+  },
+  {
+    "stringid": "fa_cpangolin",
+    "label": "Chinese Pangolin - First Acquisition",
+    "type": "firsts",
+    "species_type": "cpangolin",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22040
+  },
+  {
+    "stringid": "fb_cpangolin",
+    "label": "Chinese Pangolin - First Breeding",
+    "type": "firsts",
+    "species_type": "cpangolin",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22041
+  },
+  {
+    "stringid": "welfare1_cpangolin",
+    "label": "Chinese Pangolin - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "cpangolin",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24116
+  },
+  {
+    "stringid": "welfare2_cpangolin",
+    "label": "Chinese Pangolin - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "cpangolin",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24117
+  },
+  {
+    "stringid": "welfare3_cpangolin",
+    "label": "Chinese Pangolin - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "cpangolin",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24118
+  },
+  {
+    "stringid": "welfare4_cpangolin",
+    "label": "Chinese Pangolin - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "cpangolin",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24119
+  },
+  {
+    "stringid": "welfare5_cpangolin",
+    "label": "Chinese Pangolin - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "cpangolin",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24120
+  },
+  {
+    "stringid": "welfare6_cpangolin",
+    "label": "Chinese Pangolin - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "cpangolin",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24121
+  },
+  {
+    "stringid": "C2",
+    "label": "Classic Theme Sets Blueprints Level 1",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21010
+  },
+  {
+    "stringid": "C3",
+    "label": "Classic Theme Sets Blueprints Level 2",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21011
+  },
+  {
+    "stringid": "C4",
+    "label": "Classic Theme Sets Blueprints Level 3",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21012
+  },
+  {
+    "stringid": "C1",
+    "label": "Classic Theme Sets Scenery",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21013
+  },
+  {
+    "stringid": "cr_cpeccary",
+    "label": "Collared Peccary - Conservation Release",
+    "type": "conservation",
+    "species_type": "cpeccary",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23020
+  },
+  {
+    "stringid": "fa_cpeccary",
+    "label": "Collared Peccary - First Acquisition",
+    "type": "firsts",
+    "species_type": "cpeccary",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22042
+  },
+  {
+    "stringid": "fb_cpeccary",
+    "label": "Collared Peccary - First Breeding",
+    "type": "firsts",
+    "species_type": "cpeccary",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22043
+  },
+  {
+    "stringid": "welfare1_cpeccary",
+    "label": "Collared Peccary - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "cpeccary",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24122
+  },
+  {
+    "stringid": "welfare2_cpeccary",
+    "label": "Collared Peccary - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "cpeccary",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24123
+  },
+  {
+    "stringid": "welfare3_cpeccary",
+    "label": "Collared Peccary - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "cpeccary",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24124
+  },
+  {
+    "stringid": "welfare4_cpeccary",
+    "label": "Collared Peccary - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "cpeccary",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24125
+  },
+  {
+    "stringid": "welfare5_cpeccary",
+    "label": "Collared Peccary - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "cpeccary",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24126
+  },
+  {
+    "stringid": "welfare6_cpeccary",
+    "label": "Collared Peccary - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "cpeccary",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24127
+  },
+  {
+    "stringid": "cr_cadder",
+    "label": "Common Death Adder - Conservation Release",
+    "type": "conservation",
+    "species_type": "cadder",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 23021
+  },
+  {
+    "stringid": "fa_cadder",
+    "label": "Common Death Adder - First Acquisition",
+    "type": "firsts",
+    "species_type": "cadder",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22044
+  },
+  {
+    "stringid": "fb_cadder",
+    "label": "Common Death Adder - First Breeding",
+    "type": "firsts",
+    "species_type": "cadder",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22045
+  },
+  {
+    "stringid": "e_welfare1_cadder",
+    "label": "Common Death Adder - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "cadder",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24128
+  },
+  {
+    "stringid": "e_welfare2_cadder",
+    "label": "Common Death Adder - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "cadder",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24129
+  },
+  {
+    "stringid": "e_welfare3_cadder",
+    "label": "Common Death Adder - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "cadder",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24130
+  },
+  {
+    "stringid": "e_welfare4_cadder",
+    "label": "Common Death Adder - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "cadder",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24131
+  },
+  {
+    "stringid": "e_welfare5_cadder",
+    "label": "Common Death Adder - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "cadder",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24132
+  },
+  {
+    "stringid": "cr_costrich",
+    "label": "Common Ostrich - Conservation Release",
+    "type": "conservation",
+    "species_type": "costrich",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23022
+  },
+  {
+    "stringid": "fa_costrich",
+    "label": "Common Ostrich - First Acquisition",
+    "type": "firsts",
+    "species_type": "costrich",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22046
+  },
+  {
+    "stringid": "fb_costrich",
+    "label": "Common Ostrich - First Breeding",
+    "type": "firsts",
+    "species_type": "costrich",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22047
+  },
+  {
+    "stringid": "welfare1_costrich",
+    "label": "Common Ostrich - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "costrich",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24133
+  },
+  {
+    "stringid": "welfare2_costrich",
+    "label": "Common Ostrich - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "costrich",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24134
+  },
+  {
+    "stringid": "welfare3_costrich",
+    "label": "Common Ostrich - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "costrich",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24135
+  },
+  {
+    "stringid": "welfare4_costrich",
+    "label": "Common Ostrich - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "costrich",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24136
+  },
+  {
+    "stringid": "welfare5_costrich",
+    "label": "Common Ostrich - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "costrich",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24137
+  },
+  {
+    "stringid": "welfare6_costrich",
+    "label": "Common Ostrich - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "costrich",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24138
+  },
+  {
+    "stringid": "cr_cwarthog",
+    "label": "Common Warthog - Conservation Release",
+    "type": "conservation",
+    "species_type": "cwarthog",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23023
+  },
+  {
+    "stringid": "fa_cwarthog",
+    "label": "Common Warthog - First Acquisition",
+    "type": "firsts",
+    "species_type": "cwarthog",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22048
+  },
+  {
+    "stringid": "fb_cwarthog",
+    "label": "Common Warthog - First Breeding",
+    "type": "firsts",
+    "species_type": "cwarthog",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22049
+  },
+  {
+    "stringid": "welfare1_cwarthog",
+    "label": "Common Warthog - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "cwarthog",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24139
+  },
+  {
+    "stringid": "welfare2_cwarthog",
+    "label": "Common Warthog - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "cwarthog",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24140
+  },
+  {
+    "stringid": "welfare3_cwarthog",
+    "label": "Common Warthog - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "cwarthog",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24141
+  },
+  {
+    "stringid": "welfare4_cwarthog",
+    "label": "Common Warthog - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "cwarthog",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24142
+  },
+  {
+    "stringid": "welfare5_cwarthog",
+    "label": "Common Warthog - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "cwarthog",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24143
+  },
+  {
+    "stringid": "welfare6_cwarthog",
+    "label": "Common Warthog - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "cwarthog",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24144
+  },
+  {
+    "stringid": "drink_shop4",
+    "label": "Drink Shops Cosmic Cow Milkshakes",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21014
+  },
+  {
+    "stringid": "drink_shop3",
+    "label": "Drink Shops Foxy Coffee",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21015
+  },
+  {
+    "stringid": "drink_shop6",
+    "label": "Drink Shops Gulpee Energy",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21016
+  },
+  {
+    "stringid": "drink_shop1",
+    "label": "Drink Shops Gulpee Slush",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21017
+  },
+  {
+    "stringid": "drink_shop5",
+    "label": "Drink Shops Pipshot Juice",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21018
+  },
+  {
+    "stringid": "drink_shop7",
+    "label": "Drink Shops Pipshot Smoothies",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21019
+  },
+  {
+    "stringid": "drink_shop2",
+    "label": "Drink Shops Pipshot Water",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21020
+  },
+  {
+    "stringid": "E2",
+    "label": "East Asian Theme Sets Blueprints Level 1",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21021
+  },
+  {
+    "stringid": "E3",
+    "label": "East Asian Theme Sets Blueprints Level 2",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21022
+  },
+  {
+    "stringid": "E4",
+    "label": "East Asian Theme Sets Blueprints Level 3",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21023
+  },
+  {
+    "stringid": "E1",
+    "label": "East Asian Theme Sets Scenery",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21024
+  },
+  {
+    "stringid": "cr_esnake",
+    "label": "Eastern Brown Snake - Conservation Release",
+    "type": "conservation",
+    "species_type": "esnake",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 23024
+  },
+  {
+    "stringid": "fa_esnake",
+    "label": "Eastern Brown Snake - First Acquisition",
+    "type": "firsts",
+    "species_type": "esnake",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22050
+  },
+  {
+    "stringid": "fb_esnake",
+    "label": "Eastern Brown Snake - First Breeding",
+    "type": "firsts",
+    "species_type": "esnake",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22051
+  },
+  {
+    "stringid": "e_welfare1_esnake",
+    "label": "Eastern Brown Snake - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "esnake",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24145
+  },
+  {
+    "stringid": "e_welfare2_esnake",
+    "label": "Eastern Brown Snake - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "esnake",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24146
+  },
+  {
+    "stringid": "e_welfare3_esnake",
+    "label": "Eastern Brown Snake - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "esnake",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24147
+  },
+  {
+    "stringid": "e_welfare4_esnake",
+    "label": "Eastern Brown Snake - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "esnake",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24148
+  },
+  {
+    "stringid": "e_welfare5_esnake",
+    "label": "Eastern Brown Snake - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "esnake",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24149
+  },
+  {
+    "stringid": "Food Shops Cosmic Cow Ice Cream",
+    "label": "Food Shops Cosmic Cow Ice Cream",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21025
+  },
+  {
+    "stringid": "Food Shops Hotdog Squad",
+    "label": "Food Shops Hotdog Squad",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21026
+  },
+  {
+    "stringid": "Food Shops Mexelente",
+    "label": "Food Shops Mexelente",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21027
+  },
+  {
+    "stringid": "Food Shops Missy Good",
+    "label": "Food Shops Missy Good",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21028
+  },
+  {
+    "stringid": "Food Shops Monsieur Frites",
+    "label": "Food Shops Monsieur Frites",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21029
+  },
+  {
+    "stringid": "Food Shops Pizza Pen",
+    "label": "Food Shops Pizza Pen",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21030
+  },
+  {
+    "stringid": "cr_fbear",
+    "label": "Formosan Black Bear - Conservation Release",
+    "type": "conservation",
+    "species_type": "fbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 23025
+  },
+  {
+    "stringid": "fa_fbear",
+    "label": "Formosan Black Bear - First Acquisition",
+    "type": "firsts",
+    "species_type": "fbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 22052
+  },
+  {
+    "stringid": "fb_fbear",
+    "label": "Formosan Black Bear - First Breeding",
+    "type": "firsts",
+    "species_type": "fbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 22053
+  },
+  {
+    "stringid": "welfare1_fbear",
+    "label": "Formosan Black Bear - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "fbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24150
+  },
+  {
+    "stringid": "welfare2_fbear",
+    "label": "Formosan Black Bear - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "fbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24151
+  },
+  {
+    "stringid": "welfare3_fbear",
+    "label": "Formosan Black Bear - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "fbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24152
+  },
+  {
+    "stringid": "welfare4_fbear",
+    "label": "Formosan Black Bear - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "fbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24153
+  },
+  {
+    "stringid": "welfare5_fbear",
+    "label": "Formosan Black Bear - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "fbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24154
+  },
+  {
+    "stringid": "welfare6_fbear",
+    "label": "Formosan Black Bear - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "fbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24155
+  },
+  {
+    "stringid": "cr_gtortoise",
+    "label": "Galapagos Giant Tortoise - Conservation Release",
+    "type": "conservation",
+    "species_type": "gtortoise",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 23026
+  },
+  {
+    "stringid": "fa_gtortoise",
+    "label": "Galapagos Giant Tortoise - First Acquisition",
+    "type": "firsts",
+    "species_type": "gtortoise",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 22054
+  },
+  {
+    "stringid": "fb_gtortoise",
+    "label": "Galapagos Giant Tortoise - First Breeding",
+    "type": "firsts",
+    "species_type": "gtortoise",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 22055
+  },
+  {
+    "stringid": "welfare1_gtortoise",
+    "label": "Galapagos Giant Tortoise - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "gtortoise",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 24156
+  },
+  {
+    "stringid": "welfare2_gtortoise",
+    "label": "Galapagos Giant Tortoise - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "gtortoise",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 24157
+  },
+  {
+    "stringid": "welfare3_gtortoise",
+    "label": "Galapagos Giant Tortoise - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "gtortoise",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 24158
+  },
+  {
+    "stringid": "welfare4_gtortoise",
+    "label": "Galapagos Giant Tortoise - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "gtortoise",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 24159
+  },
+  {
+    "stringid": "welfare5_gtortoise",
+    "label": "Galapagos Giant Tortoise - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "gtortoise",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 24160
+  },
+  {
+    "stringid": "welfare6_gtortoise",
+    "label": "Galapagos Giant Tortoise - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "gtortoise",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 24161
+  },
+  {
+    "stringid": "cr_gemsbok",
+    "label": "Gemsbok - Conservation Release",
+    "type": "conservation",
+    "species_type": "gemsbok",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23027
+  },
+  {
+    "stringid": "fa_gemsbok",
+    "label": "Gemsbok - First Acquisition",
+    "type": "firsts",
+    "species_type": "gemsbok",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22056
+  },
+  {
+    "stringid": "fb_gemsbok",
+    "label": "Gemsbok - First Breeding",
+    "type": "firsts",
+    "species_type": "gemsbok",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22057
+  },
+  {
+    "stringid": "welfare1_gemsbok",
+    "label": "Gemsbok - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "gemsbok",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24162
+  },
+  {
+    "stringid": "welfare2_gemsbok",
+    "label": "Gemsbok - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "gemsbok",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24163
+  },
+  {
+    "stringid": "welfare3_gemsbok",
+    "label": "Gemsbok - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "gemsbok",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24164
+  },
+  {
+    "stringid": "welfare4_gemsbok",
+    "label": "Gemsbok - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "gemsbok",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24165
+  },
+  {
+    "stringid": "welfare5_gemsbok",
+    "label": "Gemsbok - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "gemsbok",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24166
+  },
+  {
+    "stringid": "welfare6_gemsbok",
+    "label": "Gemsbok - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "gemsbok",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24167
+  },
+  {
+    "stringid": "cr_gharial",
+    "label": "Gharial - Conservation Release",
+    "type": "conservation",
+    "species_type": "gharial",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23028
+  },
+  {
+    "stringid": "fa_gharial",
+    "label": "Gharial - First Acquisition",
+    "type": "firsts",
+    "species_type": "gharial",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22058
+  },
+  {
+    "stringid": "fb_gharial",
+    "label": "Gharial - First Breeding",
+    "type": "firsts",
+    "species_type": "gharial",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22059
+  },
+  {
+    "stringid": "welfare1_gharial",
+    "label": "Gharial - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "gharial",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24168
+  },
+  {
+    "stringid": "welfare2_gharial",
+    "label": "Gharial - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "gharial",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24169
+  },
+  {
+    "stringid": "welfare3_gharial",
+    "label": "Gharial - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "gharial",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24170
+  },
+  {
+    "stringid": "welfare4_gharial",
+    "label": "Gharial - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "gharial",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24171
+  },
+  {
+    "stringid": "welfare5_gharial",
+    "label": "Gharial - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "gharial",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24172
+  },
+  {
+    "stringid": "welfare6_gharial",
+    "label": "Gharial - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "gharial",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24173
+  },
+  {
+    "stringid": "cr_groach",
+    "label": "Giant Burrowing Cockroach - Conservation Release",
+    "type": "conservation",
+    "species_type": "groach",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 23029
+  },
+  {
+    "stringid": "fa_groach",
+    "label": "Giant Burrowing Cockroach - First Acquisition",
+    "type": "firsts",
+    "species_type": "groach",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22060
+  },
+  {
+    "stringid": "fb_groach",
+    "label": "Giant Burrowing Cockroach - First Breeding",
+    "type": "firsts",
+    "species_type": "groach",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22061
+  },
+  {
+    "stringid": "e_welfare1_groach",
+    "label": "Giant Burrowing Cockroach - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "groach",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24174
+  },
+  {
+    "stringid": "e_welfare2_groach",
+    "label": "Giant Burrowing Cockroach - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "groach",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24175
+  },
+  {
+    "stringid": "e_welfare3_groach",
+    "label": "Giant Burrowing Cockroach - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "groach",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24176
+  },
+  {
+    "stringid": "e_welfare4_groach",
+    "label": "Giant Burrowing Cockroach - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "groach",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24177
+  },
+  {
+    "stringid": "e_welfare5_groach",
+    "label": "Giant Burrowing Cockroach - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "groach",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24178
+  },
+  {
+    "stringid": "cr_gdscorpian",
+    "label": "Giant Desert Hairy Scorpion - Conservation Release",
+    "type": "conservation",
+    "species_type": "gdscorpian",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 23030
+  },
+  {
+    "stringid": "fa_gdscorpian",
+    "label": "Giant Desert Hairy Scorpion - First Acquisition",
+    "type": "firsts",
+    "species_type": "gdscorpian",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22062
+  },
+  {
+    "stringid": "fb_gdscorpian",
+    "label": "Giant Desert Hairy Scorpion - First Breeding",
+    "type": "firsts",
+    "species_type": "gdscorpian",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22063
+  },
+  {
+    "stringid": "e_welfare1_gdscorpian",
+    "label": "Giant Desert Hairy Scorpion - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "gdscorpian",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24179
+  },
+  {
+    "stringid": "e_welfare2_gdscorpian",
+    "label": "Giant Desert Hairy Scorpion - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "gdscorpian",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24180
+  },
+  {
+    "stringid": "e_welfare3_gdscorpian",
+    "label": "Giant Desert Hairy Scorpion - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "gdscorpian",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24181
+  },
+  {
+    "stringid": "e_welfare4_gdscorpian",
+    "label": "Giant Desert Hairy Scorpion - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "gdscorpian",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24182
+  },
+  {
+    "stringid": "e_welfare5_gdscorpian",
+    "label": "Giant Desert Hairy Scorpion - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "gdscorpian",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24183
+  },
+  {
+    "stringid": "cr_gfscorpion",
+    "label": "Giant Forest Scorpion - Conservation Release",
+    "type": "conservation",
+    "species_type": "gfscorpion",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 23031
+  },
+  {
+    "stringid": "fa_gfscorpion",
+    "label": "Giant Forest Scorpion - First Acquisition",
+    "type": "firsts",
+    "species_type": "gfscorpion",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22064
+  },
+  {
+    "stringid": "fb_gfscorpion",
+    "label": "Giant Forest Scorpion - First Breeding",
+    "type": "firsts",
+    "species_type": "gfscorpion",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22065
+  },
+  {
+    "stringid": "e_welfare1_gfscorpion",
+    "label": "Giant Forest Scorpion - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "gfscorpion",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24184
+  },
+  {
+    "stringid": "e_welfare2_gfscorpion",
+    "label": "Giant Forest Scorpion - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "gfscorpion",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24185
+  },
+  {
+    "stringid": "e_welfare3_gfscorpion",
+    "label": "Giant Forest Scorpion - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "gfscorpion",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24186
+  },
+  {
+    "stringid": "e_welfare4_gfscorpion",
+    "label": "Giant Forest Scorpion - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "gfscorpion",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24187
+  },
+  {
+    "stringid": "e_welfare5_gfscorpion",
+    "label": "Giant Forest Scorpion - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "gfscorpion",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24188
+  },
+  {
+    "stringid": "cr_gpanda",
+    "label": "Giant Panda - Conservation Release",
+    "type": "conservation",
+    "species_type": "gpanda",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 23032
+  },
+  {
+    "stringid": "fa_gpanda",
+    "label": "Giant Panda - First Acquisition",
+    "type": "firsts",
+    "species_type": "gpanda",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 22066
+  },
+  {
+    "stringid": "fb_gpanda",
+    "label": "Giant Panda - First Breeding",
+    "type": "firsts",
+    "species_type": "gpanda",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 22067
+  },
+  {
+    "stringid": "welfare1_gpanda",
+    "label": "Giant Panda - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "gpanda",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24189
+  },
+  {
+    "stringid": "welfare2_gpanda",
+    "label": "Giant Panda - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "gpanda",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24190
+  },
+  {
+    "stringid": "welfare3_gpanda",
+    "label": "Giant Panda - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "gpanda",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24191
+  },
+  {
+    "stringid": "welfare4_gpanda",
+    "label": "Giant Panda - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "gpanda",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24192
+  },
+  {
+    "stringid": "welfare5_gpanda",
+    "label": "Giant Panda - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "gpanda",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24193
+  },
+  {
+    "stringid": "welfare6_gpanda",
+    "label": "Giant Panda - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "gpanda",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24194
+  },
+  {
+    "stringid": "cr_gsnail",
+    "label": "Giant Tiger Land Snail - Conservation Release",
+    "type": "conservation",
+    "species_type": "gsnail",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 23033
+  },
+  {
+    "stringid": "fa_gsnail",
+    "label": "Giant Tiger Land Snail - First Acquisition",
+    "type": "firsts",
+    "species_type": "gsnail",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22068
+  },
+  {
+    "stringid": "fb_gsnail",
+    "label": "Giant Tiger Land Snail - First Breeding",
+    "type": "firsts",
+    "species_type": "gsnail",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22069
+  },
+  {
+    "stringid": "e_welfare1_gsnail",
+    "label": "Giant Tiger Land Snail - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "gsnail",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24195
+  },
+  {
+    "stringid": "e_welfare2_gsnail",
+    "label": "Giant Tiger Land Snail - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "gsnail",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24196
+  },
+  {
+    "stringid": "e_welfare3_gsnail",
+    "label": "Giant Tiger Land Snail - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "gsnail",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24197
+  },
+  {
+    "stringid": "e_welfare4_gsnail",
+    "label": "Giant Tiger Land Snail - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "gsnail",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24198
+  },
+  {
+    "stringid": "e_welfare5_gsnail",
+    "label": "Giant Tiger Land Snail - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "gsnail",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24199
+  },
+  {
+    "stringid": "cr_gmonster",
+    "label": "Gila Monster - Conservation Release",
+    "type": "conservation",
+    "species_type": "gmonster",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 23034
+  },
+  {
+    "stringid": "fa_gmonster",
+    "label": "Gila Monster - First Acquisition",
+    "type": "firsts",
+    "species_type": "gmonster",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22070
+  },
+  {
+    "stringid": "fb_gmonster",
+    "label": "Gila Monster - First Breeding",
+    "type": "firsts",
+    "species_type": "gmonster",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22071
+  },
+  {
+    "stringid": "e_welfare1_gmonster",
+    "label": "Gila Monster - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "gmonster",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24200
+  },
+  {
+    "stringid": "e_welfare2_gmonster",
+    "label": "Gila Monster - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "gmonster",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24201
+  },
+  {
+    "stringid": "e_welfare3_gmonster",
+    "label": "Gila Monster - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "gmonster",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24202
+  },
+  {
+    "stringid": "e_welfare4_gmonster",
+    "label": "Gila Monster - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "gmonster",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24203
+  },
+  {
+    "stringid": "e_welfare5_gmonster",
+    "label": "Gila Monster - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "gmonster",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24204
+  },
+  {
+    "stringid": "cr_gpfrog",
+    "label": "Golden Poison Frog - Conservation Release",
+    "type": "conservation",
+    "species_type": "gpfrog",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 23035
+  },
+  {
+    "stringid": "fa_gpfrog",
+    "label": "Golden Poison Frog - First Acquisition",
+    "type": "firsts",
+    "species_type": "gpfrog",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22072
+  },
+  {
+    "stringid": "fb_gpfrog",
+    "label": "Golden Poison Frog - First Breeding",
+    "type": "firsts",
+    "species_type": "gpfrog",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22073
+  },
+  {
+    "stringid": "e_welfare1_gpfrog",
+    "label": "Golden Poison Frog - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "gpfrog",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24205
+  },
+  {
+    "stringid": "e_welfare2_gpfrog",
+    "label": "Golden Poison Frog - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "gpfrog",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24206
+  },
+  {
+    "stringid": "e_welfare3_gpfrog",
+    "label": "Golden Poison Frog - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "gpfrog",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24207
+  },
+  {
+    "stringid": "e_welfare4_gpfrog",
+    "label": "Golden Poison Frog - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "gpfrog",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24208
+  },
+  {
+    "stringid": "e_welfare5_gpfrog",
+    "label": "Golden Poison Frog - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "gpfrog",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24209
+  },
+  {
+    "stringid": "cr_gbeetle",
+    "label": "Goliath Beetle - Conservation Release",
+    "type": "conservation",
+    "species_type": "gbeetle",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 23036
+  },
+  {
+    "stringid": "fa_gbeetle",
+    "label": "Goliath Beetle - First Acquisition",
+    "type": "firsts",
+    "species_type": "gbeetle",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22074
+  },
+  {
+    "stringid": "fb_gbeetle",
+    "label": "Goliath Beetle - First Breeding",
+    "type": "firsts",
+    "species_type": "gbeetle",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22075
+  },
+  {
+    "stringid": "e_welfare1_gbeetle",
+    "label": "Goliath Beetle - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "gbeetle",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24210
+  },
+  {
+    "stringid": "e_welfare2_gbeetle",
+    "label": "Goliath Beetle - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "gbeetle",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24211
+  },
+  {
+    "stringid": "e_welfare3_gbeetle",
+    "label": "Goliath Beetle - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "gbeetle",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24212
+  },
+  {
+    "stringid": "e_welfare4_gbeetle",
+    "label": "Goliath Beetle - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "gbeetle",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24213
+  },
+  {
+    "stringid": "e_welfare5_gbeetle",
+    "label": "Goliath Beetle - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "gbeetle",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24214
+  },
+  {
+    "stringid": "cr_gbirdeater",
+    "label": "Goliath Birdeater - Conservation Release",
+    "type": "conservation",
+    "species_type": "gbirdeater",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 23037
+  },
+  {
+    "stringid": "fa_gbirdeater",
+    "label": "Goliath Birdeater - First Acquisition",
+    "type": "firsts",
+    "species_type": "gbirdeater",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22076
+  },
+  {
+    "stringid": "fb_gbirdeater",
+    "label": "Goliath Birdeater - First Breeding",
+    "type": "firsts",
+    "species_type": "gbirdeater",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22077
+  },
+  {
+    "stringid": "e_welfare1_gbirdeater",
+    "label": "Goliath Birdeater - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "gbirdeater",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24215
+  },
+  {
+    "stringid": "e_welfare2_gbirdeater",
+    "label": "Goliath Birdeater - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "gbirdeater",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24216
+  },
+  {
+    "stringid": "e_welfare3_gbirdeater",
+    "label": "Goliath Birdeater - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "gbirdeater",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24217
+  },
+  {
+    "stringid": "e_welfare4_gbirdeater",
+    "label": "Goliath Birdeater - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "gbirdeater",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24218
+  },
+  {
+    "stringid": "e_welfare5_gbirdeater",
+    "label": "Goliath Birdeater - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "gbirdeater",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24219
+  },
+  {
+    "stringid": "cr_gfrog",
+    "label": "Goliath Frog - Conservation Release",
+    "type": "conservation",
+    "species_type": "gfrog",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 23038
+  },
+  {
+    "stringid": "fa_gfrog",
+    "label": "Goliath Frog - First Acquisition",
+    "type": "firsts",
+    "species_type": "gfrog",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22078
+  },
+  {
+    "stringid": "fb_gfrog",
+    "label": "Goliath Frog - First Breeding",
+    "type": "firsts",
+    "species_type": "gfrog",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22079
+  },
+  {
+    "stringid": "e_welfare1_gfrog",
+    "label": "Goliath Frog - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "gfrog",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24220
+  },
+  {
+    "stringid": "e_welfare2_gfrog",
+    "label": "Goliath Frog - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "gfrog",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24221
+  },
+  {
+    "stringid": "e_welfare3_gfrog",
+    "label": "Goliath Frog - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "gfrog",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24222
+  },
+  {
+    "stringid": "e_welfare4_gfrog",
+    "label": "Goliath Frog - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "gfrog",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24223
+  },
+  {
+    "stringid": "e_welfare5_gfrog",
+    "label": "Goliath Frog - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "gfrog",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24224
+  },
+  {
+    "stringid": "cr_gflamingo",
+    "label": "Greater Flamingo - Conservation Release",
+    "type": "conservation",
+    "species_type": "gflamingo",
+    "water_needed": true,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 23039
+  },
+  {
+    "stringid": "fa_gflamingo",
+    "label": "Greater Flamingo - First Acquisition",
+    "type": "firsts",
+    "species_type": "gflamingo",
+    "water_needed": true,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 22080
+  },
+  {
+    "stringid": "fb_gflamingo",
+    "label": "Greater Flamingo - First Breeding",
+    "type": "firsts",
+    "species_type": "gflamingo",
+    "water_needed": true,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 22081
+  },
+  {
+    "stringid": "welfare1_gflamingo",
+    "label": "Greater Flamingo - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "gflamingo",
+    "water_needed": true,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 24225
+  },
+  {
+    "stringid": "welfare2_gflamingo",
+    "label": "Greater Flamingo - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "gflamingo",
+    "water_needed": true,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 24226
+  },
+  {
+    "stringid": "welfare3_gflamingo",
+    "label": "Greater Flamingo - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "gflamingo",
+    "water_needed": true,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 24227
+  },
+  {
+    "stringid": "welfare4_gflamingo",
+    "label": "Greater Flamingo - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "gflamingo",
+    "water_needed": true,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 24228
+  },
+  {
+    "stringid": "welfare5_gflamingo",
+    "label": "Greater Flamingo - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "gflamingo",
+    "water_needed": true,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 24229
+  },
+  {
+    "stringid": "welfare6_gflamingo",
+    "label": "Greater Flamingo - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "gflamingo",
+    "water_needed": true,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 24230
+  },
+  {
+    "stringid": "cr_giguana",
+    "label": "Green Iguana - Conservation Release",
+    "type": "conservation",
+    "species_type": "giguana",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 23040
+  },
+  {
+    "stringid": "fa_giguana",
+    "label": "Green Iguana - First Acquisition",
+    "type": "firsts",
+    "species_type": "giguana",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22082
+  },
+  {
+    "stringid": "fb_giguana",
+    "label": "Green Iguana - First Breeding",
+    "type": "firsts",
+    "species_type": "giguana",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22083
+  },
+  {
+    "stringid": "e_welfare1_giguana",
+    "label": "Green Iguana - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "giguana",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24231
+  },
+  {
+    "stringid": "e_welfare2_giguana",
+    "label": "Green Iguana - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "giguana",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24232
+  },
+  {
+    "stringid": "e_welfare3_giguana",
+    "label": "Green Iguana - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "giguana",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24233
+  },
+  {
+    "stringid": "e_welfare4_giguana",
+    "label": "Green Iguana - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "giguana",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24234
+  },
+  {
+    "stringid": "e_welfare5_giguana",
+    "label": "Green Iguana - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "giguana",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24235
+  },
+  {
+    "stringid": "cr_gbear",
+    "label": "Grizzly Bear - Conservation Release",
+    "type": "conservation",
+    "species_type": "gbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 23041
+  },
+  {
+    "stringid": "fa_gbear",
+    "label": "Grizzly Bear - First Acquisition",
+    "type": "firsts",
+    "species_type": "gbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 22084
+  },
+  {
+    "stringid": "fb_gbear",
+    "label": "Grizzly Bear - First Breeding",
+    "type": "firsts",
+    "species_type": "gbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 22085
+  },
+  {
+    "stringid": "welfare1_gbear",
+    "label": "Grizzly Bear - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "gbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24236
+  },
+  {
+    "stringid": "welfare2_gbear",
+    "label": "Grizzly Bear - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "gbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24237
+  },
+  {
+    "stringid": "welfare3_gbear",
+    "label": "Grizzly Bear - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "gbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24238
+  },
+  {
+    "stringid": "welfare4_gbear",
+    "label": "Grizzly Bear - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "gbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24239
+  },
+  {
+    "stringid": "welfare5_gbear",
+    "label": "Grizzly Bear - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "gbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24240
+  },
+  {
+    "stringid": "welfare6_gbear",
+    "label": "Grizzly Bear - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "gbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24241
+  },
+  {
+    "stringid": "guests_1000",
+    "label": "Guests - 1000",
+    "type": "milestones",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 20000
+  },
+  {
+    "stringid": "guests_1250",
+    "label": "Guests - 1250",
+    "type": "milestones",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 20001
+  },
+  {
+    "stringid": "guests_250",
+    "label": "Guests - 250",
+    "type": "milestones",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 20002
+  },
+  {
+    "stringid": "guests_2500",
+    "label": "Guests - 2500",
+    "type": "milestones",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 20003
+  },
+  {
+    "stringid": "guests_500",
+    "label": "Guests - 500",
+    "type": "milestones",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 20004
+  },
+  {
+    "stringid": "guests_750",
+    "label": "Guests - 750",
+    "type": "milestones",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 20005
+  },
+  {
+    "stringid": "Habitats Habitat Blueprints Level 1",
+    "label": "Habitats Habitat Blueprints Level 1",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21031
+  },
+  {
+    "stringid": "Habitats Habitat Blueprints Level 2",
+    "label": "Habitats Habitat Blueprints Level 2",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21032
+  },
+  {
+    "stringid": "Habitats Habitat Blueprints Level 3",
+    "label": "Habitats Habitat Blueprints Level 3",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21033
+  },
+  {
+    "stringid": "cr_hbear",
+    "label": "Himalayan Brown Bear - Conservation Release",
+    "type": "conservation",
+    "species_type": "hbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 23042
+  },
+  {
+    "stringid": "fa_hbear",
+    "label": "Himalayan Brown Bear - First Acquisition",
+    "type": "firsts",
+    "species_type": "hbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 22086
+  },
+  {
+    "stringid": "fb_hbear",
+    "label": "Himalayan Brown Bear - First Breeding",
+    "type": "firsts",
+    "species_type": "hbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 22087
+  },
+  {
+    "stringid": "welfare1_hbear",
+    "label": "Himalayan Brown Bear - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "hbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24242
+  },
+  {
+    "stringid": "welfare2_hbear",
+    "label": "Himalayan Brown Bear - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "hbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24243
+  },
+  {
+    "stringid": "welfare3_hbear",
+    "label": "Himalayan Brown Bear - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "hbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24244
+  },
+  {
+    "stringid": "welfare4_hbear",
+    "label": "Himalayan Brown Bear - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "hbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24245
+  },
+  {
+    "stringid": "welfare5_hbear",
+    "label": "Himalayan Brown Bear - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "hbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24246
+  },
+  {
+    "stringid": "welfare6_hbear",
+    "label": "Himalayan Brown Bear - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "hbear",
+    "water_needed": false,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24247
+  },
+  {
+    "stringid": "cr_hippo",
+    "label": "Hippopotamus - Conservation Release",
+    "type": "conservation",
+    "species_type": "hippo",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 23043
+  },
+  {
+    "stringid": "fa_hippo",
+    "label": "Hippopotamus - First Acquisition",
+    "type": "firsts",
+    "species_type": "hippo",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 22088
+  },
+  {
+    "stringid": "fb_hippo",
+    "label": "Hippopotamus - First Breeding",
+    "type": "firsts",
+    "species_type": "hippo",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 22089
+  },
+  {
+    "stringid": "welfare1_hippo",
+    "label": "Hippopotamus - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "hippo",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24248
+  },
+  {
+    "stringid": "welfare2_hippo",
+    "label": "Hippopotamus - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "hippo",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24249
+  },
+  {
+    "stringid": "welfare3_hippo",
+    "label": "Hippopotamus - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "hippo",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24250
+  },
+  {
+    "stringid": "welfare4_hippo",
+    "label": "Hippopotamus - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "hippo",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24251
+  },
+  {
+    "stringid": "welfare5_hippo",
+    "label": "Hippopotamus - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "hippo",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24252
+  },
+  {
+    "stringid": "welfare6_hippo",
+    "label": "Hippopotamus - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "hippo",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24253
+  },
+  {
+    "stringid": "I2",
+    "label": "India Theme Sets Blueprints Level 1",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21034
+  },
+  {
+    "stringid": "I3",
+    "label": "India Theme Sets Blueprints Level 2",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21035
+  },
+  {
+    "stringid": "I4",
+    "label": "India Theme Sets Blueprints Level 3",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21036
+  },
+  {
+    "stringid": "I1",
+    "label": "India Theme Sets Scenery",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21037
+  },
+  {
+    "stringid": "cr_ielephant",
+    "label": "Indian Elephant - Conservation Release",
+    "type": "conservation",
+    "species_type": "ielephant",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 23044
+  },
+  {
+    "stringid": "fa_ielephant",
+    "label": "Indian Elephant - First Acquisition",
+    "type": "firsts",
+    "species_type": "ielephant",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 22090
+  },
+  {
+    "stringid": "fb_ielephant",
+    "label": "Indian Elephant - First Breeding",
+    "type": "firsts",
+    "species_type": "ielephant",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 22091
+  },
+  {
+    "stringid": "welfare1_ielephant",
+    "label": "Indian Elephant - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "ielephant",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24254
+  },
+  {
+    "stringid": "welfare2_ielephant",
+    "label": "Indian Elephant - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "ielephant",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24255
+  },
+  {
+    "stringid": "welfare3_ielephant",
+    "label": "Indian Elephant - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "ielephant",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24256
+  },
+  {
+    "stringid": "welfare4_ielephant",
+    "label": "Indian Elephant - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "ielephant",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24257
+  },
+  {
+    "stringid": "welfare5_ielephant",
+    "label": "Indian Elephant - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "ielephant",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24258
+  },
+  {
+    "stringid": "welfare6_ielephant",
+    "label": "Indian Elephant - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "ielephant",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24259
+  },
+  {
+    "stringid": "cr_ipeafowl",
+    "label": "Indian Peafowl - Conservation Release",
+    "type": "conservation",
+    "species_type": "ipeafowl",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 23045
+  },
+  {
+    "stringid": "fa_ipeafowl",
+    "label": "Indian Peafowl - First Acquisition",
+    "type": "firsts",
+    "species_type": "ipeafowl",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 22092
+  },
+  {
+    "stringid": "fb_ipeafowl",
+    "label": "Indian Peafowl - First Breeding",
+    "type": "firsts",
+    "species_type": "ipeafowl",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 22093
+  },
+  {
+    "stringid": "welfare1_ipeafowl",
+    "label": "Indian Peafowl - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "ipeafowl",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 24260
+  },
+  {
+    "stringid": "welfare2_ipeafowl",
+    "label": "Indian Peafowl - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "ipeafowl",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 24261
+  },
+  {
+    "stringid": "welfare3_ipeafowl",
+    "label": "Indian Peafowl - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "ipeafowl",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 24262
+  },
+  {
+    "stringid": "welfare4_ipeafowl",
+    "label": "Indian Peafowl - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "ipeafowl",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 24263
+  },
+  {
+    "stringid": "welfare5_ipeafowl",
+    "label": "Indian Peafowl - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "ipeafowl",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 24264
+  },
+  {
+    "stringid": "welfare6_ipeafowl",
+    "label": "Indian Peafowl - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "ipeafowl",
+    "water_needed": false,
+    "fence_grade": 1,
+    "domesticated": false,
+    "id": 24265
+  },
+  {
+    "stringid": "cr_irhino",
+    "label": "Indian Rhinoceros - Conservation Release",
+    "type": "conservation",
+    "species_type": "irhino",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 23046
+  },
+  {
+    "stringid": "fa_irhino",
+    "label": "Indian Rhinoceros - First Acquisition",
+    "type": "firsts",
+    "species_type": "irhino",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 22094
+  },
+  {
+    "stringid": "fb_irhino",
+    "label": "Indian Rhinoceros - First Breeding",
+    "type": "firsts",
+    "species_type": "irhino",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 22095
+  },
+  {
+    "stringid": "welfare1_irhino",
+    "label": "Indian Rhinoceros - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "irhino",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24266
+  },
+  {
+    "stringid": "welfare2_irhino",
+    "label": "Indian Rhinoceros - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "irhino",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24267
+  },
+  {
+    "stringid": "welfare3_irhino",
+    "label": "Indian Rhinoceros - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "irhino",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24268
+  },
+  {
+    "stringid": "welfare4_irhino",
+    "label": "Indian Rhinoceros - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "irhino",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24269
+  },
+  {
+    "stringid": "welfare5_irhino",
+    "label": "Indian Rhinoceros - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "irhino",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24270
+  },
+  {
+    "stringid": "welfare6_irhino",
+    "label": "Indian Rhinoceros - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "irhino",
+    "water_needed": true,
+    "fence_grade": 4,
+    "domesticated": false,
+    "id": 24271
+  },
+  {
+    "stringid": "cr_jmacaque",
+    "label": "Japanese Macaque - Conservation Release",
+    "type": "conservation",
+    "species_type": "jmacaque",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23047
+  },
+  {
+    "stringid": "fa_jmacaque",
+    "label": "Japanese Macaque - First Acquisition",
+    "type": "firsts",
+    "species_type": "jmacaque",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22096
+  },
+  {
+    "stringid": "fb_jmacaque",
+    "label": "Japanese Macaque - First Breeding",
+    "type": "firsts",
+    "species_type": "jmacaque",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22097
+  },
+  {
+    "stringid": "welfare1_jmacaque",
+    "label": "Japanese Macaque - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "jmacaque",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24272
+  },
+  {
+    "stringid": "welfare2_jmacaque",
+    "label": "Japanese Macaque - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "jmacaque",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24273
+  },
+  {
+    "stringid": "welfare3_jmacaque",
+    "label": "Japanese Macaque - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "jmacaque",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24274
+  },
+  {
+    "stringid": "welfare4_jmacaque",
+    "label": "Japanese Macaque - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "jmacaque",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24275
+  },
+  {
+    "stringid": "welfare5_jmacaque",
+    "label": "Japanese Macaque - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "jmacaque",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24276
+  },
+  {
+    "stringid": "welfare6_jmacaque",
+    "label": "Japanese Macaque - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "jmacaque",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24277
+  },
+  {
+    "stringid": "cr_lfrog",
+    "label": "Lehmann Poison Frog - Conservation Release",
+    "type": "conservation",
+    "species_type": "lfrog",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 23048
+  },
+  {
+    "stringid": "fa_lfrog",
+    "label": "Lehmann Poison Frog - First Acquisition",
+    "type": "firsts",
+    "species_type": "lfrog",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22098
+  },
+  {
+    "stringid": "fb_lfrog",
+    "label": "Lehmann Poison Frog - First Breeding",
+    "type": "firsts",
+    "species_type": "lfrog",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22099
+  },
+  {
+    "stringid": "e_welfare1_lfrog",
+    "label": "Lehmann Poison Frog - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "lfrog",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24278
+  },
+  {
+    "stringid": "e_welfare2_lfrog",
+    "label": "Lehmann Poison Frog - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "lfrog",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24279
+  },
+  {
+    "stringid": "e_welfare3_lfrog",
+    "label": "Lehmann Poison Frog - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "lfrog",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24280
+  },
+  {
+    "stringid": "e_welfare4_lfrog",
+    "label": "Lehmann Poison Frog - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "lfrog",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24281
+  },
+  {
+    "stringid": "e_welfare5_lfrog",
+    "label": "Lehmann Poison Frog - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "lfrog",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24282
+  },
+  {
+    "stringid": "cr_liguana",
+    "label": "Lesser Antillean Iguana - Conservation Release",
+    "type": "conservation",
+    "species_type": "liguana",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 23049
+  },
+  {
+    "stringid": "fa_liguana",
+    "label": "Lesser Antillean Iguana - First Acquisition",
+    "type": "firsts",
+    "species_type": "liguana",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22100
+  },
+  {
+    "stringid": "fb_liguana",
+    "label": "Lesser Antillean Iguana - First Breeding",
+    "type": "firsts",
+    "species_type": "liguana",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22101
+  },
+  {
+    "stringid": "e_welfare1_liguana",
+    "label": "Lesser Antillean Iguana - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "liguana",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24283
+  },
+  {
+    "stringid": "e_welfare2_liguana",
+    "label": "Lesser Antillean Iguana - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "liguana",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24284
+  },
+  {
+    "stringid": "e_welfare3_liguana",
+    "label": "Lesser Antillean Iguana - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "liguana",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24285
+  },
+  {
+    "stringid": "e_welfare4_liguana",
+    "label": "Lesser Antillean Iguana - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "liguana",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24286
+  },
+  {
+    "stringid": "e_welfare5_liguana",
+    "label": "Lesser Antillean Iguana - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "liguana",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24287
+  },
+  {
+    "stringid": "cr_mrose",
+    "label": "Malabar Rose - Conservation Release",
+    "type": "conservation",
+    "species_type": "mrose",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 23050
+  },
+  {
+    "stringid": "fa_mrose",
+    "label": "Malabar Rose - First Acquisition",
+    "type": "firsts",
+    "species_type": "mrose",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22102
+  },
+  {
+    "stringid": "fb_mrose",
+    "label": "Malabar Rose - First Breeding",
+    "type": "firsts",
+    "species_type": "mrose",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22103
+  },
+  {
+    "stringid": "e_welfare1_mrose",
+    "label": "Malabar Rose - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "mrose",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24288
+  },
+  {
+    "stringid": "e_welfare2_mrose",
+    "label": "Malabar Rose - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "mrose",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24289
+  },
+  {
+    "stringid": "e_welfare3_mrose",
+    "label": "Malabar Rose - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "mrose",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24290
+  },
+  {
+    "stringid": "e_welfare4_mrose",
+    "label": "Malabar Rose - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "mrose",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24291
+  },
+  {
+    "stringid": "e_welfare5_mrose",
+    "label": "Malabar Rose - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "mrose",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24292
+  },
+  {
+    "stringid": "cr_mandrill",
+    "label": "Mandrill - Conservation Release",
+    "type": "conservation",
+    "species_type": "mandrill",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23051
+  },
+  {
+    "stringid": "fa_mandrill",
+    "label": "Mandrill - First Acquisition",
+    "type": "firsts",
+    "species_type": "mandrill",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22104
+  },
+  {
+    "stringid": "fb_mandrill",
+    "label": "Mandrill - First Breeding",
+    "type": "firsts",
+    "species_type": "mandrill",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22105
+  },
+  {
+    "stringid": "welfare1_mandrill",
+    "label": "Mandrill - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "mandrill",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24293
+  },
+  {
+    "stringid": "welfare2_mandrill",
+    "label": "Mandrill - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "mandrill",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24294
+  },
+  {
+    "stringid": "welfare3_mandrill",
+    "label": "Mandrill - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "mandrill",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24295
+  },
+  {
+    "stringid": "welfare4_mandrill",
+    "label": "Mandrill - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "mandrill",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24296
+  },
+  {
+    "stringid": "welfare5_mandrill",
+    "label": "Mandrill - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "mandrill",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24297
+  },
+  {
+    "stringid": "welfare6_mandrill",
+    "label": "Mandrill - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "mandrill",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24298
+  },
+  {
+    "stringid": "cr_mtarantula",
+    "label": "Mexican Red Knee Tarantula - Conservation Release",
+    "type": "conservation",
+    "species_type": "mtarantula",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 23052
+  },
+  {
+    "stringid": "fa_mtarantula",
+    "label": "Mexican Red Knee Tarantula - First Acquisition",
+    "type": "firsts",
+    "species_type": "mtarantula",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22106
+  },
+  {
+    "stringid": "fb_mtarantula",
+    "label": "Mexican Red Knee Tarantula - First Breeding",
+    "type": "firsts",
+    "species_type": "mtarantula",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22107
+  },
+  {
+    "stringid": "e_welfare1_mtarantula",
+    "label": "Mexican Red Knee Tarantula - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "mtarantula",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24299
+  },
+  {
+    "stringid": "e_welfare2_mtarantula",
+    "label": "Mexican Red Knee Tarantula - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "mtarantula",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24300
+  },
+  {
+    "stringid": "e_welfare3_mtarantula",
+    "label": "Mexican Red Knee Tarantula - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "mtarantula",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24301
+  },
+  {
+    "stringid": "e_welfare4_mtarantula",
+    "label": "Mexican Red Knee Tarantula - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "mtarantula",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24302
+  },
+  {
+    "stringid": "e_welfare5_mtarantula",
+    "label": "Mexican Red Knee Tarantula - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "mtarantula",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24303
+  },
+  {
+    "stringid": "M2",
+    "label": "Modern Theme Sets Blueprints Level 1",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21038
+  },
+  {
+    "stringid": "M3",
+    "label": "Modern Theme Sets Blueprints Level 2",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21039
+  },
+  {
+    "stringid": "M4",
+    "label": "Modern Theme Sets Blueprints Level 3",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21040
+  },
+  {
+    "stringid": "M1",
+    "label": "Modern Theme Sets Scenery",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21041
+  },
+  {
+    "stringid": "cr_nmonitor",
+    "label": "Nile Monitor - Conservation Release",
+    "type": "conservation",
+    "species_type": "nmonitor",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23053
+  },
+  {
+    "stringid": "fa_nmonitor",
+    "label": "Nile Monitor - First Acquisition",
+    "type": "firsts",
+    "species_type": "nmonitor",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22108
+  },
+  {
+    "stringid": "fb_nmonitor",
+    "label": "Nile Monitor - First Breeding",
+    "type": "firsts",
+    "species_type": "nmonitor",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22109
+  },
+  {
+    "stringid": "welfare1_nmonitor",
+    "label": "Nile Monitor - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "nmonitor",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24304
+  },
+  {
+    "stringid": "welfare2_nmonitor",
+    "label": "Nile Monitor - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "nmonitor",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24305
+  },
+  {
+    "stringid": "welfare3_nmonitor",
+    "label": "Nile Monitor - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "nmonitor",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24306
+  },
+  {
+    "stringid": "welfare4_nmonitor",
+    "label": "Nile Monitor - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "nmonitor",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24307
+  },
+  {
+    "stringid": "welfare5_nmonitor",
+    "label": "Nile Monitor - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "nmonitor",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24308
+  },
+  {
+    "stringid": "welfare6_nmonitor",
+    "label": "Nile Monitor - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "nmonitor",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24309
+  },
+  {
+    "stringid": "cr_nyala",
+    "label": "Nyala - Conservation Release",
+    "type": "conservation",
+    "species_type": "nyala",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23054
+  },
+  {
+    "stringid": "fa_nyala",
+    "label": "Nyala - First Acquisition",
+    "type": "firsts",
+    "species_type": "nyala",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22110
+  },
+  {
+    "stringid": "fb_nyala",
+    "label": "Nyala - First Breeding",
+    "type": "firsts",
+    "species_type": "nyala",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22111
+  },
+  {
+    "stringid": "welfare1_nyala",
+    "label": "Nyala - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "nyala",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24310
+  },
+  {
+    "stringid": "welfare2_nyala",
+    "label": "Nyala - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "nyala",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24311
+  },
+  {
+    "stringid": "welfare3_nyala",
+    "label": "Nyala - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "nyala",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24312
+  },
+  {
+    "stringid": "welfare4_nyala",
+    "label": "Nyala - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "nyala",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24313
+  },
+  {
+    "stringid": "welfare5_nyala",
+    "label": "Nyala - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "nyala",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24314
+  },
+  {
+    "stringid": "welfare6_nyala",
+    "label": "Nyala - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "nyala",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24315
+  },
+  {
+    "stringid": "cr_okapi",
+    "label": "Okapi - Conservation Release",
+    "type": "conservation",
+    "species_type": "okapi",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23055
+  },
+  {
+    "stringid": "fa_okapi",
+    "label": "Okapi - First Acquisition",
+    "type": "firsts",
+    "species_type": "okapi",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22112
+  },
+  {
+    "stringid": "fb_okapi",
+    "label": "Okapi - First Breeding",
+    "type": "firsts",
+    "species_type": "okapi",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22113
+  },
+  {
+    "stringid": "welfare1_okapi",
+    "label": "Okapi - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "okapi",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24316
+  },
+  {
+    "stringid": "welfare2_okapi",
+    "label": "Okapi - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "okapi",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24317
+  },
+  {
+    "stringid": "welfare3_okapi",
+    "label": "Okapi - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "okapi",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24318
+  },
+  {
+    "stringid": "welfare4_okapi",
+    "label": "Okapi - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "okapi",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24319
+  },
+  {
+    "stringid": "welfare5_okapi",
+    "label": "Okapi - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "okapi",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24320
+  },
+  {
+    "stringid": "welfare6_okapi",
+    "label": "Okapi - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "okapi",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24321
+  },
+  {
+    "stringid": "cr_pzebra",
+    "label": "Plains Zebra - Conservation Release",
+    "type": "conservation",
+    "species_type": "pzebra",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23056
+  },
+  {
+    "stringid": "fa_pzebra",
+    "label": "Plains Zebra - First Acquisition",
+    "type": "firsts",
+    "species_type": "pzebra",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22114
+  },
+  {
+    "stringid": "fb_pzebra",
+    "label": "Plains Zebra - First Breeding",
+    "type": "firsts",
+    "species_type": "pzebra",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22115
+  },
+  {
+    "stringid": "welfare1_pzebra",
+    "label": "Plains Zebra - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "pzebra",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24322
+  },
+  {
+    "stringid": "welfare2_pzebra",
+    "label": "Plains Zebra - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "pzebra",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24323
+  },
+  {
+    "stringid": "welfare3_pzebra",
+    "label": "Plains Zebra - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "pzebra",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24324
+  },
+  {
+    "stringid": "welfare4_pzebra",
+    "label": "Plains Zebra - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "pzebra",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24325
+  },
+  {
+    "stringid": "welfare5_pzebra",
+    "label": "Plains Zebra - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "pzebra",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24326
+  },
+  {
+    "stringid": "welfare6_pzebra",
+    "label": "Plains Zebra - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "pzebra",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24327
+  },
+  {
+    "stringid": "power2",
+    "label": "Power Solar Panel",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21042
+  },
+  {
+    "stringid": "power1",
+    "label": "Power Wind Turbine",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21043
+  },
+  {
+    "stringid": "cr_pantelope",
+    "label": "Pronghorn Antelope - Conservation Release",
+    "type": "conservation",
+    "species_type": "pantelope",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23057
+  },
+  {
+    "stringid": "fa_pantelope",
+    "label": "Pronghorn Antelope - First Acquisition",
+    "type": "firsts",
+    "species_type": "pantelope",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22116
+  },
+  {
+    "stringid": "fb_pantelope",
+    "label": "Pronghorn Antelope - First Breeding",
+    "type": "firsts",
+    "species_type": "pantelope",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22117
+  },
+  {
+    "stringid": "welfare1_pantelope",
+    "label": "Pronghorn Antelope - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "pantelope",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24328
+  },
+  {
+    "stringid": "welfare2_pantelope",
+    "label": "Pronghorn Antelope - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "pantelope",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24329
+  },
+  {
+    "stringid": "welfare3_pantelope",
+    "label": "Pronghorn Antelope - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "pantelope",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24330
+  },
+  {
+    "stringid": "welfare4_pantelope",
+    "label": "Pronghorn Antelope - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "pantelope",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24331
+  },
+  {
+    "stringid": "welfare5_pantelope",
+    "label": "Pronghorn Antelope - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "pantelope",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24332
+  },
+  {
+    "stringid": "welfare6_pantelope",
+    "label": "Pronghorn Antelope - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "pantelope",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24333
+  },
+  {
+    "stringid": "cr_padder",
+    "label": "Puff Adder - Conservation Release",
+    "type": "conservation",
+    "species_type": "padder",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 23058
+  },
+  {
+    "stringid": "fa_padder",
+    "label": "Puff Adder - First Acquisition",
+    "type": "firsts",
+    "species_type": "padder",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22118
+  },
+  {
+    "stringid": "fb_padder",
+    "label": "Puff Adder - First Breeding",
+    "type": "firsts",
+    "species_type": "padder",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22119
+  },
+  {
+    "stringid": "e_welfare1_padder",
+    "label": "Puff Adder - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "padder",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24334
+  },
+  {
+    "stringid": "e_welfare2_padder",
+    "label": "Puff Adder - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "padder",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24335
+  },
+  {
+    "stringid": "e_welfare3_padder",
+    "label": "Puff Adder - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "padder",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24336
+  },
+  {
+    "stringid": "e_welfare4_padder",
+    "label": "Puff Adder - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "padder",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24337
+  },
+  {
+    "stringid": "e_welfare5_padder",
+    "label": "Puff Adder - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "padder",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24338
+  },
+  {
+    "stringid": "cr_rdeer",
+    "label": "Red Deer - Conservation Release",
+    "type": "conservation",
+    "species_type": "rdeer",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23059
+  },
+  {
+    "stringid": "fa_rdeer",
+    "label": "Red Deer - First Acquisition",
+    "type": "firsts",
+    "species_type": "rdeer",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22120
+  },
+  {
+    "stringid": "fb_rdeer",
+    "label": "Red Deer - First Breeding",
+    "type": "firsts",
+    "species_type": "rdeer",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22121
+  },
+  {
+    "stringid": "welfare1_rdeer",
+    "label": "Red Deer - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "rdeer",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24339
+  },
+  {
+    "stringid": "welfare2_rdeer",
+    "label": "Red Deer - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "rdeer",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24340
+  },
+  {
+    "stringid": "welfare3_rdeer",
+    "label": "Red Deer - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "rdeer",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24341
+  },
+  {
+    "stringid": "welfare4_rdeer",
+    "label": "Red Deer - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "rdeer",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24342
+  },
+  {
+    "stringid": "welfare5_rdeer",
+    "label": "Red Deer - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "rdeer",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24343
+  },
+  {
+    "stringid": "welfare6_rdeer",
+    "label": "Red Deer - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "rdeer",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24344
+  },
+  {
+    "stringid": "cr_rpanda",
+    "label": "Red Panda - Conservation Release",
+    "type": "conservation",
+    "species_type": "rpanda",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23060
+  },
+  {
+    "stringid": "fa_rpanda",
+    "label": "Red Panda - First Acquisition",
+    "type": "firsts",
+    "species_type": "rpanda",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22122
+  },
+  {
+    "stringid": "fb_rpanda",
+    "label": "Red Panda - First Breeding",
+    "type": "firsts",
+    "species_type": "rpanda",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22123
+  },
+  {
+    "stringid": "welfare1_rpanda",
+    "label": "Red Panda - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "rpanda",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24345
+  },
+  {
+    "stringid": "welfare2_rpanda",
+    "label": "Red Panda - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "rpanda",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24346
+  },
+  {
+    "stringid": "welfare3_rpanda",
+    "label": "Red Panda - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "rpanda",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24347
+  },
+  {
+    "stringid": "welfare4_rpanda",
+    "label": "Red Panda - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "rpanda",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24348
+  },
+  {
+    "stringid": "welfare5_rpanda",
+    "label": "Red Panda - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "rpanda",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24349
+  },
+  {
+    "stringid": "welfare6_rpanda",
+    "label": "Red Panda - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "rpanda",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24350
+  },
+  {
+    "stringid": "cr_relemur",
+    "label": "Red Ruffed Lemur - Conservation Release",
+    "type": "conservation",
+    "species_type": "relemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23061
+  },
+  {
+    "stringid": "fa_relemur",
+    "label": "Red Ruffed Lemur - First Acquisition",
+    "type": "firsts",
+    "species_type": "relemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22124
+  },
+  {
+    "stringid": "fb_relemur",
+    "label": "Red Ruffed Lemur - First Breeding",
+    "type": "firsts",
+    "species_type": "relemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22125
+  },
+  {
+    "stringid": "welfare1_relemur",
+    "label": "Red Ruffed Lemur - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "relemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24351
+  },
+  {
+    "stringid": "welfare2_relemur",
+    "label": "Red Ruffed Lemur - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "relemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24352
+  },
+  {
+    "stringid": "welfare3_relemur",
+    "label": "Red Ruffed Lemur - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "relemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24353
+  },
+  {
+    "stringid": "welfare4_relemur",
+    "label": "Red Ruffed Lemur - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "relemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24354
+  },
+  {
+    "stringid": "welfare5_relemur",
+    "label": "Red Ruffed Lemur - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "relemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24355
+  },
+  {
+    "stringid": "welfare6_relemur",
+    "label": "Red Ruffed Lemur - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "relemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24356
+  },
+  {
+    "stringid": "cr_rgiraffe",
+    "label": "Reticulated Giraffe - Conservation Release",
+    "type": "conservation",
+    "species_type": "rgiraffe",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 23062
+  },
+  {
+    "stringid": "fa_rgiraffe",
+    "label": "Reticulated Giraffe - First Acquisition",
+    "type": "firsts",
+    "species_type": "rgiraffe",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 22126
+  },
+  {
+    "stringid": "fb_rgiraffe",
+    "label": "Reticulated Giraffe - First Breeding",
+    "type": "firsts",
+    "species_type": "rgiraffe",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 22127
+  },
+  {
+    "stringid": "welfare1_rgiraffe",
+    "label": "Reticulated Giraffe - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "rgiraffe",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24357
+  },
+  {
+    "stringid": "welfare2_rgiraffe",
+    "label": "Reticulated Giraffe - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "rgiraffe",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24358
+  },
+  {
+    "stringid": "welfare3_rgiraffe",
+    "label": "Reticulated Giraffe - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "rgiraffe",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24359
+  },
+  {
+    "stringid": "welfare4_rgiraffe",
+    "label": "Reticulated Giraffe - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "rgiraffe",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24360
+  },
+  {
+    "stringid": "welfare5_rgiraffe",
+    "label": "Reticulated Giraffe - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "rgiraffe",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24361
+  },
+  {
+    "stringid": "welfare6_rgiraffe",
+    "label": "Reticulated Giraffe - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "rgiraffe",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24362
+  },
+  {
+    "stringid": "cr_rilemur",
+    "label": "Ring Tailed Lemur - Conservation Release",
+    "type": "conservation",
+    "species_type": "rilemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23063
+  },
+  {
+    "stringid": "fa_rilemur",
+    "label": "Ring Tailed Lemur - First Acquisition",
+    "type": "firsts",
+    "species_type": "rilemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22128
+  },
+  {
+    "stringid": "fb_rilemur",
+    "label": "Ring Tailed Lemur - First Breeding",
+    "type": "firsts",
+    "species_type": "rilemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22129
+  },
+  {
+    "stringid": "welfare1_rilemur",
+    "label": "Ring Tailed Lemur - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "rilemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24363
+  },
+  {
+    "stringid": "welfare2_rilemur",
+    "label": "Ring Tailed Lemur - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "rilemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24364
+  },
+  {
+    "stringid": "welfare3_rilemur",
+    "label": "Ring Tailed Lemur - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "rilemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24365
+  },
+  {
+    "stringid": "welfare4_rilemur",
+    "label": "Ring Tailed Lemur - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "rilemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24366
+  },
+  {
+    "stringid": "welfare5_rilemur",
+    "label": "Ring Tailed Lemur - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "rilemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24367
+  },
+  {
+    "stringid": "welfare6_rilemur",
+    "label": "Ring Tailed Lemur - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "rilemur",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24368
+  },
+  {
+    "stringid": "cr_santelope",
+    "label": "Sable Antelope - Conservation Release",
+    "type": "conservation",
+    "species_type": "santelope",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23064
+  },
+  {
+    "stringid": "fa_santelope",
+    "label": "Sable Antelope - First Acquisition",
+    "type": "firsts",
+    "species_type": "santelope",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22130
+  },
+  {
+    "stringid": "fb_santelope",
+    "label": "Sable Antelope - First Breeding",
+    "type": "firsts",
+    "species_type": "santelope",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22131
+  },
+  {
+    "stringid": "welfare1_santelope",
+    "label": "Sable Antelope - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "santelope",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24369
+  },
+  {
+    "stringid": "welfare2_santelope",
+    "label": "Sable Antelope - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "santelope",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24370
+  },
+  {
+    "stringid": "welfare3_santelope",
+    "label": "Sable Antelope - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "santelope",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24371
+  },
+  {
+    "stringid": "welfare4_santelope",
+    "label": "Sable Antelope - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "santelope",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24372
+  },
+  {
+    "stringid": "welfare5_santelope",
+    "label": "Sable Antelope - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "santelope",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24373
+  },
+  {
+    "stringid": "welfare6_santelope",
+    "label": "Sable Antelope - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "santelope",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24374
+  },
+  {
+    "stringid": "cr_scroc",
+    "label": "Saltwater Crocodile - Conservation Release",
+    "type": "conservation",
+    "species_type": "scroc",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23065
+  },
+  {
+    "stringid": "fa_scroc",
+    "label": "Saltwater Crocodile - First Acquisition",
+    "type": "firsts",
+    "species_type": "scroc",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22132
+  },
+  {
+    "stringid": "fb_scroc",
+    "label": "Saltwater Crocodile - First Breeding",
+    "type": "firsts",
+    "species_type": "scroc",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22133
+  },
+  {
+    "stringid": "welfare1_scroc",
+    "label": "Saltwater Crocodile - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "scroc",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24375
+  },
+  {
+    "stringid": "welfare2_scroc",
+    "label": "Saltwater Crocodile - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "scroc",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24376
+  },
+  {
+    "stringid": "welfare3_scroc",
+    "label": "Saltwater Crocodile - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "scroc",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24377
+  },
+  {
+    "stringid": "welfare4_scroc",
+    "label": "Saltwater Crocodile - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "scroc",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24378
+  },
+  {
+    "stringid": "welfare5_scroc",
+    "label": "Saltwater Crocodile - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "scroc",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24379
+  },
+  {
+    "stringid": "welfare6_scroc",
+    "label": "Saltwater Crocodile - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "scroc",
+    "water_needed": true,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24380
+  },
+  {
+    "stringid": "shelter1",
+    "label": "Shelters Shelter Blueprints Level 1",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21044
+  },
+  {
+    "stringid": "shelter2",
+    "label": "Shelters Shelter Blueprints Level 2",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21045
+  },
+  {
+    "stringid": "shelter3",
+    "label": "Shelters Shelter Blueprints Level 3",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21046
+  },
+  {
+    "stringid": "cr_stiger",
+    "label": "Siberian Tiger - Conservation Release",
+    "type": "conservation",
+    "species_type": "stiger",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 23066
+  },
+  {
+    "stringid": "fa_stiger",
+    "label": "Siberian Tiger - First Acquisition",
+    "type": "firsts",
+    "species_type": "stiger",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 22134
+  },
+  {
+    "stringid": "fb_stiger",
+    "label": "Siberian Tiger - First Breeding",
+    "type": "firsts",
+    "species_type": "stiger",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 22135
+  },
+  {
+    "stringid": "welfare1_stiger",
+    "label": "Siberian Tiger - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "stiger",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24381
+  },
+  {
+    "stringid": "welfare2_stiger",
+    "label": "Siberian Tiger - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "stiger",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24382
+  },
+  {
+    "stringid": "welfare3_stiger",
+    "label": "Siberian Tiger - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "stiger",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24383
+  },
+  {
+    "stringid": "welfare4_stiger",
+    "label": "Siberian Tiger - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "stiger",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24384
+  },
+  {
+    "stringid": "welfare5_stiger",
+    "label": "Siberian Tiger - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "stiger",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24385
+  },
+  {
+    "stringid": "welfare6_stiger",
+    "label": "Siberian Tiger - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "stiger",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24386
+  },
+  {
+    "stringid": "cr_sleopard",
+    "label": "Snow Leopard - Conservation Release",
+    "type": "conservation",
+    "species_type": "sleopard",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23067
+  },
+  {
+    "stringid": "fa_sleopard",
+    "label": "Snow Leopard - First Acquisition",
+    "type": "firsts",
+    "species_type": "sleopard",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22136
+  },
+  {
+    "stringid": "fb_sleopard",
+    "label": "Snow Leopard - First Breeding",
+    "type": "firsts",
+    "species_type": "sleopard",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22137
+  },
+  {
+    "stringid": "welfare1_sleopard",
+    "label": "Snow Leopard - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "sleopard",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24387
+  },
+  {
+    "stringid": "welfare2_sleopard",
+    "label": "Snow Leopard - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "sleopard",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24388
+  },
+  {
+    "stringid": "welfare3_sleopard",
+    "label": "Snow Leopard - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "sleopard",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24389
+  },
+  {
+    "stringid": "welfare4_sleopard",
+    "label": "Snow Leopard - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "sleopard",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24390
+  },
+  {
+    "stringid": "welfare5_sleopard",
+    "label": "Snow Leopard - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "sleopard",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24391
+  },
+  {
+    "stringid": "welfare6_sleopard",
+    "label": "Snow Leopard - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "sleopard",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24392
+  },
+  {
+    "stringid": "Souvenir Shops Hats Fantastic",
+    "label": "Souvenir Shops Hats Fantastic",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21047
+  },
+  {
+    "stringid": "Souvenir Shops Just A Momento",
+    "label": "Souvenir Shops Just A Momento",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21048
+  },
+  {
+    "stringid": "cr_shyena",
+    "label": "Spotted Hyena - Conservation Release",
+    "type": "conservation",
+    "species_type": "shyena",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23068
+  },
+  {
+    "stringid": "fa_shyena",
+    "label": "Spotted Hyena - First Acquisition",
+    "type": "firsts",
+    "species_type": "shyena",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22138
+  },
+  {
+    "stringid": "fb_shyena",
+    "label": "Spotted Hyena - First Breeding",
+    "type": "firsts",
+    "species_type": "shyena",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22139
+  },
+  {
+    "stringid": "welfare1_shyena",
+    "label": "Spotted Hyena - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "shyena",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24393
+  },
+  {
+    "stringid": "welfare2_shyena",
+    "label": "Spotted Hyena - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "shyena",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24394
+  },
+  {
+    "stringid": "welfare3_shyena",
+    "label": "Spotted Hyena - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "shyena",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24395
+  },
+  {
+    "stringid": "welfare4_shyena",
+    "label": "Spotted Hyena - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "shyena",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24396
+  },
+  {
+    "stringid": "welfare5_shyena",
+    "label": "Spotted Hyena - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "shyena",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24397
+  },
+  {
+    "stringid": "welfare6_shyena",
+    "label": "Spotted Hyena - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "shyena",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24398
+  },
+  {
+    "stringid": "cr_springbok",
+    "label": "Springbok - Conservation Release",
+    "type": "conservation",
+    "species_type": "springbok",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23069
+  },
+  {
+    "stringid": "fa_springbok",
+    "label": "Springbok - First Acquisition",
+    "type": "firsts",
+    "species_type": "springbok",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22140
+  },
+  {
+    "stringid": "fb_springbok",
+    "label": "Springbok - First Breeding",
+    "type": "firsts",
+    "species_type": "springbok",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22141
+  },
+  {
+    "stringid": "welfare1_springbok",
+    "label": "Springbok - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "springbok",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24399
+  },
+  {
+    "stringid": "welfare2_springbok",
+    "label": "Springbok - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "springbok",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24400
+  },
+  {
+    "stringid": "welfare3_springbok",
+    "label": "Springbok - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "springbok",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24401
+  },
+  {
+    "stringid": "welfare4_springbok",
+    "label": "Springbok - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "springbok",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24402
+  },
+  {
+    "stringid": "welfare5_springbok",
+    "label": "Springbok - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "springbok",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24403
+  },
+  {
+    "stringid": "welfare6_springbok",
+    "label": "Springbok - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "springbok",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24404
+  },
+  {
+    "stringid": "staff_a_large",
+    "label": "Staff Facilities Keeper Hut Large",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21049
+  },
+  {
+    "stringid": "staff_a_large",
+    "label": "Staff Facilities Quarantine Large",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21050
+  },
+  {
+    "stringid": "staff_a_large",
+    "label": "Staff Facilities Research Centre Large",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21051
+  },
+  {
+    "stringid": "staff_a_large",
+    "label": "Staff Facilities Staff Centre Large",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21052
+  },
+  {
+    "stringid": "cr_twolf",
+    "label": "Timber Wolf - Conservation Release",
+    "type": "conservation",
+    "species_type": "twolf",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 23070
+  },
+  {
+    "stringid": "fa_twolf",
+    "label": "Timber Wolf - First Acquisition",
+    "type": "firsts",
+    "species_type": "twolf",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22142
+  },
+  {
+    "stringid": "fb_twolf",
+    "label": "Timber Wolf - First Breeding",
+    "type": "firsts",
+    "species_type": "twolf",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 22143
+  },
+  {
+    "stringid": "welfare1_twolf",
+    "label": "Timber Wolf - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "twolf",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24405
+  },
+  {
+    "stringid": "welfare2_twolf",
+    "label": "Timber Wolf - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "twolf",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24406
+  },
+  {
+    "stringid": "welfare3_twolf",
+    "label": "Timber Wolf - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "twolf",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24407
+  },
+  {
+    "stringid": "welfare4_twolf",
+    "label": "Timber Wolf - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "twolf",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24408
+  },
+  {
+    "stringid": "welfare5_twolf",
+    "label": "Timber Wolf - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "twolf",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24409
+  },
+  {
+    "stringid": "welfare6_twolf",
+    "label": "Timber Wolf - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "twolf",
+    "water_needed": false,
+    "fence_grade": 2,
+    "domesticated": false,
+    "id": 24410
+  },
+  {
+    "stringid": "cr_tbeetle",
+    "label": "Titan Beetle - Conservation Release",
+    "type": "conservation",
+    "species_type": "tbeetle",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 23071
+  },
+  {
+    "stringid": "fa_tbeetle",
+    "label": "Titan Beetle - First Acquisition",
+    "type": "firsts",
+    "species_type": "tbeetle",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22144
+  },
+  {
+    "stringid": "fb_tbeetle",
+    "label": "Titan Beetle - First Breeding",
+    "type": "firsts",
+    "species_type": "tbeetle",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22145
+  },
+  {
+    "stringid": "e_welfare1_tbeetle",
+    "label": "Titan Beetle - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "tbeetle",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24411
+  },
+  {
+    "stringid": "e_welfare2_tbeetle",
+    "label": "Titan Beetle - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "tbeetle",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24412
+  },
+  {
+    "stringid": "e_welfare3_tbeetle",
+    "label": "Titan Beetle - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "tbeetle",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24413
+  },
+  {
+    "stringid": "e_welfare4_tbeetle",
+    "label": "Titan Beetle - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "tbeetle",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24414
+  },
+  {
+    "stringid": "e_welfare5_tbeetle",
+    "label": "Titan Beetle - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "tbeetle",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24415
+  },
+  {
+    "stringid": "transport1",
+    "label": "Transport Boat Ride Station",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21053
+  },
+  {
+    "stringid": "transport4",
+    "label": "Transport Safari Jeep Station",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21054
+  },
+  {
+    "stringid": "transport3",
+    "label": "Transport Steam Train Station",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21055
+  },
+  {
+    "stringid": "transport2",
+    "label": "Transport Suspended Gondola",
+    "type": "mechanic",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 21056
+  },
+  {
+    "stringid": "cr_wlion",
+    "label": "West African Lion - Conservation Release",
+    "type": "conservation",
+    "species_type": "wlion",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 23072
+  },
+  {
+    "stringid": "fa_wlion",
+    "label": "West African Lion - First Acquisition",
+    "type": "firsts",
+    "species_type": "wlion",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 22146
+  },
+  {
+    "stringid": "fb_wlion",
+    "label": "West African Lion - First Breeding",
+    "type": "firsts",
+    "species_type": "wlion",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 22147
+  },
+  {
+    "stringid": "welfare1_wlion",
+    "label": "West African Lion - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "wlion",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24416
+  },
+  {
+    "stringid": "welfare2_wlion",
+    "label": "West African Lion - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "wlion",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24417
+  },
+  {
+    "stringid": "welfare3_wlion",
+    "label": "West African Lion - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "wlion",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24418
+  },
+  {
+    "stringid": "welfare4_wlion",
+    "label": "West African Lion - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "wlion",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24419
+  },
+  {
+    "stringid": "welfare5_wlion",
+    "label": "West African Lion - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "wlion",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24420
+  },
+  {
+    "stringid": "welfare6_wlion",
+    "label": "West African Lion - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "wlion",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24421
+  },
+  {
+    "stringid": "cr_wchimp",
+    "label": "Western Chimpanzee - Conservation Release",
+    "type": "conservation",
+    "species_type": "wchimp",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 23073
+  },
+  {
+    "stringid": "fa_wchimp",
+    "label": "Western Chimpanzee - First Acquisition",
+    "type": "firsts",
+    "species_type": "wchimp",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 22148
+  },
+  {
+    "stringid": "fb_wchimp",
+    "label": "Western Chimpanzee - First Breeding",
+    "type": "firsts",
+    "species_type": "wchimp",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 22149
+  },
+  {
+    "stringid": "welfare1_wchimp",
+    "label": "Western Chimpanzee - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "wchimp",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24422
+  },
+  {
+    "stringid": "welfare2_wchimp",
+    "label": "Western Chimpanzee - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "wchimp",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24423
+  },
+  {
+    "stringid": "welfare3_wchimp",
+    "label": "Western Chimpanzee - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "wchimp",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24424
+  },
+  {
+    "stringid": "welfare4_wchimp",
+    "label": "Western Chimpanzee - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "wchimp",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24425
+  },
+  {
+    "stringid": "welfare5_wchimp",
+    "label": "Western Chimpanzee - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "wchimp",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24426
+  },
+  {
+    "stringid": "welfare6_wchimp",
+    "label": "Western Chimpanzee - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "wchimp",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24427
+  },
+  {
+    "stringid": "cr_wrattlesnake",
+    "label": "Western Diamondback Rattlesnake - Conservation Release",
+    "type": "conservation",
+    "species_type": "wrattlesnake",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 23074
+  },
+  {
+    "stringid": "fa_wrattlesnake",
+    "label": "Western Diamondback Rattlesnake - First Acquisition",
+    "type": "firsts",
+    "species_type": "wrattlesnake",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22150
+  },
+  {
+    "stringid": "fb_wrattlesnake",
+    "label": "Western Diamondback Rattlesnake - First Breeding",
+    "type": "firsts",
+    "species_type": "wrattlesnake",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22151
+  },
+  {
+    "stringid": "e_welfare1_wrattlesnake",
+    "label": "Western Diamondback Rattlesnake - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "wrattlesnake",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24428
+  },
+  {
+    "stringid": "e_welfare2_wrattlesnake",
+    "label": "Western Diamondback Rattlesnake - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "wrattlesnake",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24429
+  },
+  {
+    "stringid": "e_welfare3_wrattlesnake",
+    "label": "Western Diamondback Rattlesnake - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "wrattlesnake",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24430
+  },
+  {
+    "stringid": "e_welfare4_wrattlesnake",
+    "label": "Western Diamondback Rattlesnake - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "wrattlesnake",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24431
+  },
+  {
+    "stringid": "e_welfare5_wrattlesnake",
+    "label": "Western Diamondback Rattlesnake - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "wrattlesnake",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24432
+  },
+  {
+    "stringid": "cr_wgorilla",
+    "label": "Western Lowland Gorilla - Conservation Release",
+    "type": "conservation",
+    "species_type": "wgorilla",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 23075
+  },
+  {
+    "stringid": "fa_wgorilla",
+    "label": "Western Lowland Gorilla - First Acquisition",
+    "type": "firsts",
+    "species_type": "wgorilla",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 22152
+  },
+  {
+    "stringid": "fb_wgorilla",
+    "label": "Western Lowland Gorilla - First Breeding",
+    "type": "firsts",
+    "species_type": "wgorilla",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 22153
+  },
+  {
+    "stringid": "welfare1_wgorilla",
+    "label": "Western Lowland Gorilla - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "wgorilla",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24433
+  },
+  {
+    "stringid": "welfare2_wgorilla",
+    "label": "Western Lowland Gorilla - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "wgorilla",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24434
+  },
+  {
+    "stringid": "welfare3_wgorilla",
+    "label": "Western Lowland Gorilla - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "wgorilla",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24435
+  },
+  {
+    "stringid": "welfare4_wgorilla",
+    "label": "Western Lowland Gorilla - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "wgorilla",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24436
+  },
+  {
+    "stringid": "welfare5_wgorilla",
+    "label": "Western Lowland Gorilla - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "wgorilla",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24437
+  },
+  {
+    "stringid": "welfare6_wgorilla",
+    "label": "Western Lowland Gorilla - Research Welfare 6",
+    "type": "research welfare",
+    "species_type": "wgorilla",
+    "water_needed": false,
+    "fence_grade": 3,
+    "domesticated": false,
+    "id": 24438
+  },
+  {
+    "stringid": "cr_yanaconda",
+    "label": "Yellow Anaconda - Conservation Release",
+    "type": "conservation",
+    "species_type": "yanaconda",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 23076
+  },
+  {
+    "stringid": "fa_yanaconda",
+    "label": "Yellow Anaconda - First Acquisition",
+    "type": "firsts",
+    "species_type": "yanaconda",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22154
+  },
+  {
+    "stringid": "fb_yanaconda",
+    "label": "Yellow Anaconda - First Breeding",
+    "type": "firsts",
+    "species_type": "yanaconda",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 22155
+  },
+  {
+    "stringid": "e_welfare1_yanaconda",
+    "label": "Yellow Anaconda - Research Welfare 1",
+    "type": "research welfare",
+    "species_type": "yanaconda",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24439
+  },
+  {
+    "stringid": "e_welfare2_yanaconda",
+    "label": "Yellow Anaconda - Research Welfare 2",
+    "type": "research welfare",
+    "species_type": "yanaconda",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24440
+  },
+  {
+    "stringid": "e_welfare3_yanaconda",
+    "label": "Yellow Anaconda - Research Welfare 3",
+    "type": "research welfare",
+    "species_type": "yanaconda",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24441
+  },
+  {
+    "stringid": "e_welfare4_yanaconda",
+    "label": "Yellow Anaconda - Research Welfare 4",
+    "type": "research welfare",
+    "species_type": "yanaconda",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24442
+  },
+  {
+    "stringid": "e_welfare5_yanaconda",
+    "label": "Yellow Anaconda - Research Welfare 5",
+    "type": "research welfare",
+    "species_type": "yanaconda",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 24443
+  },
+  {
+    "stringid": "zoo_rating1",
+    "label": "Zoo Rating - 1",
+    "type": "milestones",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 20006
+  },
+  {
+    "stringid": "zoo_rating2",
+    "label": "Zoo Rating - 2",
+    "type": "milestones",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 20007
+  },
+  {
+    "stringid": "zoo_rating3",
+    "label": "Zoo Rating - 3",
+    "type": "milestones",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 20008
+  },
+  {
+    "stringid": "zoo_rating4",
+    "label": "Zoo Rating - 4",
+    "type": "milestones",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 20009
+  },
+  {
+    "stringid": "zoo_rating5",
+    "label": "Zoo Rating - 5",
+    "type": "milestones",
+    "species_type": "none",
+    "water_needed": false,
+    "fence_grade": 0,
+    "domesticated": false,
+    "id": 20010
+  }
+]
