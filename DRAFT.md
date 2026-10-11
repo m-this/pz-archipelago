@@ -109,7 +109,7 @@ never on the player's PC.
 | `memory/{animals,births,releases,research,rewards,...}.py` | `internal/detect/*` | One file per detector, same names |
 | `memory/applier.py`, `effects.py` | `internal/apply` | |
 | `ovl.py` | `internal/install` | State machine, backup, stamp, restore |
-| cobra-tools | `internal/ovl` | See below |
+| cobra-tools | `internal/ovl`, `internal/shell`, `internal/install` | See below |
 | Kivy GUI | `web/` | Angular, same stack as the tf2 launcher |
 | `tools/memscan.py` | `cmd/memscan` | Needed whenever a game patch moves a signature |
 
@@ -127,31 +127,55 @@ the generated tables, which is how upstream changes arrive. The first import
 was checked both ways: the export equals upstream's JSON, and every effect
 and trigger equals the `data.json` the Python client ships.
 
-### cobra-tools is the one hard part
+### The installer, without cobra-tools
 
-cobra-tools is a large Python project that reads and writes Frontier's OVL
-archives. We need a small part of it:
+The upstream installer does more than inject one Lua module. With
+cobra-tools, it:
 
-1. `new`: build a small OVL from a handful of Lua files and loc strings (the
-   content pack and its `Loc.ovl`).
-2. `inject`: replace one Lua module in `Content0\Main.ovl`, and rename one
-   mechanic-research settings entry in `GameMain`.
+- builds the content pack and its `Loc.ovl`;
+- in `Content0\Main.ovl`, replaces `scenarioscriptutils.lua` and rewrites six
+  SQLite databases (`c0research`, `c0habitatboundary`, `c0modularscenery`,
+  `c0blueprints`, `c0notifications`) to put a gate in front of every
+  mechanic-research content;
+- in `GameMain\Main.ovl`, renames `scenario_04.scenariomechanicresearchsettings`
+  onto the AP scenario and adds the gate names to
+  `default_off_noneresearchable.mechanicresearchsettings`.
 
-The plan is a Go reader and writer for that subset, for the OVL version Planet
-Zoo ships, with Oodle loaded from the game's own `oo2core_8_win64.dll` through
-`windows.LoadDLL`. Nothing from Frontier or RAD goes into the repository or the
-release. Test fixtures are OVLs we build from our own sources; the round trip
-against the real `Main.ovl` runs on a machine with the game.
+`launcher/internal/ovl` does it in Go, without rebuilding the archive as cobra
+does. It keeps each pool as opaque bytes plus its fragment table and changes
+only what an edit needs:
 
-If the Go writer cannot be made byte-correct in reasonable time, the fallback
-is the only case where Python stays: the exe downloads the official CPython
-embeddable zip and a pinned cobra-tools commit on first install, checks their
-SHA-256, and runs cobra as a hidden subprocess. The player still sees one exe
-and one button. This is a fallback, not the plan.
+- **Replacing a file's buffers** (the databases, the Lua module) changes no
+  pool, so no offset moves.
+- **Growing a pool** (the research topology) moves the later pools, the archive
+  ranges and the stream entries by the growth. Pointers to the old end of the
+  pool stay at the end.
+- **Renaming** re-sorts that extension's files by hash and renumbers every
+  index into the file table, in every archive.
 
-A side effect of the Go writer: the inject may stop taking 4 minutes. cobra
-repacks the whole archive; a writer that replaces one module may not need to.
-To measure, not to promise.
+Untouched archives keep their compressed bytes. An archive that does not
+encode back to the bytes it was read from is refused before any edit.
+
+cobra-tools is the oracle for the tests. Run on Linux, it wrote the fixtures:
+our own pack, a Content0 and a GameMain in miniature, and its own inject and
+rename of them. The Go results match those per file. The pack builder matches
+cobra's `new` table by table.
+
+Oodle is the game's `oo2core_8_win64.dll`, loaded through
+`golang.org/x/sys/windows` with cobra's settings (Kraken, level 5, 8 MB
+blocks, a seek reset every 256 KB). New files are zlib, as cobra writes them
+for Planet Zoo. The databases go through `modernc.org/sqlite`, which needs no
+C toolchain.
+
+Not verified yet, because it needs the game:
+
+- that the real `Content0` and `GameMain` read and re-encode exactly;
+- whether they are Oodle-compressed;
+- whether either has a `.ovs` the edits shift;
+- that the game loads the result.
+
+The first run on a machine with the game answers all four. `pzap status`
+reads the files without changing them.
 
 ## PopTracker
 
@@ -197,9 +221,10 @@ memory will be flagged by scanners; the README says so up front, as tf2's does.
    and importer, the apworld, the pack and the mod sources imported, the
    apworld tested inside Archipelago 0.6.8, a seed generated from the packaged
    `.apworld`.
-2. **Installer.** Steam detection, Oodle loading, OVL read and write, the
-   install state machine, restore. Done when a Go-built install loads the
-   "ARCHIPELAGO ZOO" scenario on a real Windows machine.
+2. **Installer.** Written: Steam detection, Oodle, OVL read and write, the
+   shell edits, the install state machine, restore, `pzap status|install|restore`.
+   Done when a Go-built install loads the "ARCHIPELAGO ZOO" scenario on a real
+   Windows machine.
 3. **Client.** Archipelago connection, the memory layer, every detector and
    every effect. Done when one seed plays to the goal with the same checks the
    Python client sends, on the same save.
@@ -219,8 +244,6 @@ memory will be flagged by scanners; the README says so up front, as tf2's does.
 ## Open questions
 
 - Does PopTracker take a room address and slot on its command line?
-- Which OVL version and Oodle level does the current Planet Zoo build use, and
-  how much of cobra's writer is needed for `inject` to load?
 - Linux through Proton: Planet Zoo runs under it; the memory layer would need
   the game's process from inside the Wine prefix. Out of scope for the first
   release.

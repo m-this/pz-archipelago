@@ -23,6 +23,18 @@ Nothing else declares one.
   domesticated) and each welfare level, and each effect setting only the field
   its kind names.
 
+## The installer edits the player's files
+
+`launcher/internal/ovl` keeps each pool as bytes plus its fragments and
+changes only what an edit needs; untouched archives keep their compressed
+bytes. An archive that does not encode back to what was read is refused, and
+that check is what stands between a misread file and a broken game. Never
+weaken it to make a file load.
+
+cobra-tools is the reference. A new edit gets a cobra-built fixture and a
+test that compares per file (`testdata/README.md` has the commands). Nothing
+in the repository may come from the game's own files.
+
 ## The apworld is upstream's
 
 The Python under `apworld/planetzoo/` is tinkieZo's, renamed to lowercase

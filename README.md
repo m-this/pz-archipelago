@@ -8,7 +8,16 @@ of tinkieZo and LTSmash: the
 [PopTracker pack](https://github.com/tinkieZo/Planet-Zoo-Poptracker). This
 repository repackages it so a player runs one file.
 
-Not playable yet. [DRAFT.md](./DRAFT.md) has the plan and the milestones.
+Not playable yet. The installer is written and untested on a real game;
+[DRAFT.md](./DRAFT.md) has the plan and the milestones.
+
+```sh
+pzap status     # is the AP scenario shell installed?
+pzap install    # install it, or bring it up to date (close the game first)
+pzap restore    # put the vanilla game files back
+```
+
+`-game-dir` points at the Planet Zoo folder when Steam does not know it.
 
 ## Layout
 
@@ -18,7 +27,10 @@ Not playable yet. [DRAFT.md](./DRAFT.md) has the plan and the milestones.
 | `apworld/planetzoo/` | The Archipelago world. Its `data/` is exported from `gamedata/` |
 | `tracker/` | The PopTracker pack |
 | `mod/` | The Lua and loc sources the installer builds the game files from |
-| `launcher/` | `pzap.exe` and the tools that build it |
+| `launcher/internal/ovl` | Reads and writes Planet Zoo's OVL archives |
+| `launcher/internal/shell` | What the installer changes in the game files |
+| `launcher/internal/install` | Backups, the install receipt, install and restore |
+| `launcher/` | `pzap.exe` and the rest of what it needs |
 
 ## Build
 
