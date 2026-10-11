@@ -12,7 +12,7 @@ AP_DIR := $(CACHE)/archipelago-$(ARCHIPELAGO_VERSION)
 APWORLD_CONTAINER_VERSION := 7
 
 GOFUMPT := go run mvdan.cc/gofumpt@$(GOFUMPT_VERSION)
-GOLANGCI_LINT := go run github.com/golangci/golangci-lint/v2/cmd/golangci-lint@$(GOLANGCI_LINT_VERSION)
+GOLANGCI_LINT := $(CACHE)/bin/golangci-lint-$(GOLANGCI_LINT_VERSION)
 GO_SRC := $$(find . -type f -name '*.go' -not -path './$(CACHE)/*')
 
 .PHONY: help check fmt fmt-check vet lint test export import apworld-test apworld tracker launcher dist clean
@@ -44,8 +44,15 @@ fmt-check:
 vet:
 	go vet ./...
 
-lint:
+# The exe is Windows-only code in places (Oodle, the registry, the process
+# list), so the lint runs once per target system.
+$(GOLANGCI_LINT):
+	GOBIN=$(CURDIR)/$(CACHE)/bin go install github.com/golangci/golangci-lint/v2/cmd/golangci-lint@$(GOLANGCI_LINT_VERSION)
+	mv $(CACHE)/bin/golangci-lint $@
+
+lint: $(GOLANGCI_LINT)
 	$(GOLANGCI_LINT) run ./...
+	GOOS=windows $(GOLANGCI_LINT) run ./...
 
 test:
 	go test -race -shuffle=on ./...
