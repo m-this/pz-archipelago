@@ -186,8 +186,7 @@ memory will be flagged by scanners; the README says so up front, as tf2's does.
 4. **Launcher.** The page, PopTracker, the game launch, the wait for the
    scenario, a test mode with tf2's fake room, the debug bundle.
 5. **Release.** The site, the release workflow, nightly builds.
-6. **Goals.** The goals the thread asks for, in the apworld. Offered upstream
-   first, since the apworld is theirs.
+6. **Goals.** The goals the thread asks for, in the apworld.
 
 ## Licensing and credit
 
@@ -196,16 +195,13 @@ memory will be flagged by scanners; the README says so up front, as tf2's does.
 - The apworld and the pack are MIT; their notices stay with them.
 - The README names tinkieZo and LTSmash as the authors of the randomizer, and
   links their repositories and the Discord thread.
-- Before a public release, Mathis talks to Mizore and LTSmash. The best outcome
-  is that they adopt the exe, or tell us what they want different.
 
 ## Open questions
 
 - Does PopTracker take a room address and slot on its command line?
 - Which OVL version and Oodle level does the current Planet Zoo build use, and
   how much of cobra's writer is needed for `inject` to load?
-- Does the Linux path (Proton) matter for Angéline or anyone else? Planet Zoo
-  runs under Proton; the memory layer would need the game's process from inside
+- Linux through Proton: Planet Zoo runs under it; the memory layer would need the game's process from inside
   the Wine prefix. Out of scope for the first release.
 - Track upstream how? The apworld and the pack change under us; a sync script
   that diffs `worlds/planetzoo` and the pack against their `main` is probably
